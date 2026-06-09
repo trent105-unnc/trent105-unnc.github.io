@@ -49,7 +49,7 @@ jobs:
       - name: Generate static site
         run: pnpm run generate
         env:
-          NUXT_PUBLIC_BASE_URL: /markuxt-site-template/
+          NUXT_PUBLIC_BASE_URL: /
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
