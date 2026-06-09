@@ -1,0 +1,38 @@
+{
+    "cSpell.words": [
+        "behavior",
+        "bmatrix",
+        "boldsymbol",
+        "centering",
+        "checkmark",
+        "Colors",
+        "failsafe",
+        "Fraunces",
+        "frontmatter",
+        "hrefs",
+        "infty",
+        "katex",
+        "markuxt",
+        "mathbf",
+        "Mathml",
+        "meas",
+        "mechatronic",
+        "modeling",
+        "nonlinear",
+        "Nuxt",
+        "nuxtjs",
+        "pred",
+        "rehype",
+        "scikit",
+        "Shiki",
+        "testbed",
+        "unmodeled",
+        "vars"
+    ],
+    "markdownlint.config": {
+        "no-inline-html": false
+    },
+    "i18n-ally.localesPaths": [
+        "src/i18n"
+    ]
+}

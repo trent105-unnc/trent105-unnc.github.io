@@ -1,0 +1,9 @@
+allowBuilds:
+  '@markuxt/markuxt': false
+  '@parcel/watcher': false
+  esbuild: false
+  vue-demi: false
+ignoredBuiltDependencies:
+  - '@markuxt/markuxt'
+minimumReleaseAgeExclude:
+  - '@markuxt/markuxt'
