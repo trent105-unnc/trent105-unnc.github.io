@@ -5,7 +5,8 @@
   "description": "A Markdown-first research institute website template built with Nuxt 3 and @markuxt/markuxt.",
   "type": "module",
   "scripts": {
-    "dev": "nuxt dev",
+    "dev": "TMPDIR=/tmp nuxt dev",
+    "dev-win": "set TMPDIR=%TEMP% && nuxt dev",
     "build": "nuxt build",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
