@@ -57,7 +57,6 @@ export default defineNuxtConfig({
                 mode: themeMode,
             },
 
-            // TODO: replace with your institution/lab logo (place under src/public/images/)
             logo: {
                 src: '/images/default.jpg',
             },
@@ -69,35 +68,38 @@ export default defineNuxtConfig({
                 { to: '/positions', labelKey: 'nav.positions' },
                 { to: '/news', labelKey: 'nav.news' },
             ],
-            // TODO: replace with your lab's contact email and institution URL
             contact: {
-                email: 'contact@your-lab.edu',
-                externalUrl: 'https://your-university.edu',
+                email: 'DigitalPort.Lab@nottingham.edu.cn',
+                externalUrl: 'https://www.nottingham.edu.cn',
                 externalLabelKey: 'footer.universityLink',
             },
-            // TODO: replace carousel images with your own (place under src/public/images/)
             carousel: {
                 fallbackImage: '/images/default.jpg',
                 images: [
                     {
-                        src: '/images/default.jpg',
-                        alt: 'Characteristic image',
-                        caption: 'Your Lab at Your University',
+                        src: '/images/lab-3.jpg',
+                        alt: 'Digital Port Technologies Lab',
+                        caption: 'Digital Port Technologies Lab at UNNC',
                     },
                     {
-                        src: '/images/default.jpg',
-                        alt: 'Team photo',
-                        caption: 'Meet our team!',
+                        src: '/images/lab-2.jpg',
+                        alt: 'Lab facilities',
+                        caption: 'World-class research facilities',
+                    },
+                    {
+                        src: '/images/lab-4.jpg',
+                        alt: 'Lab equipment',
+                        caption: 'Advanced computing resources',
                     },
                 ],
             },
             // Homepage research-area cards.
             // Icons are registered in ./plugins/icons.ts; labels live in src/i18n/*.json.
             researchAreas: [
-                { icon: 'IconSearch', titleKey: 'research.area1', descKey: 'research.area1Desc' },
-                { icon: 'IconRobot', titleKey: 'research.area2', descKey: 'research.area2Desc' },
-                { icon: 'IconNeural', titleKey: 'research.area3', descKey: 'research.area3Desc' },
-                { icon: 'IconAssemblyLine', titleKey: 'research.area4', descKey: 'research.area4Desc' },
+                { icon: 'IconSearch', titleKey: 'research.scheduling', descKey: 'research.schedulingDesc' },
+                { icon: 'IconRobot', titleKey: 'research.supplyChain', descKey: 'research.supplyChainDesc' },
+                { icon: 'IconNeural', titleKey: 'research.vision', descKey: 'research.visionDesc' },
+                { icon: 'IconAssemblyLine', titleKey: 'research.intelligentProcess', descKey: 'research.intelligentProcessDesc' },
             ],
         },
     },

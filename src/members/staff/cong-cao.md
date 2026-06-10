@@ -1,0 +1,14 @@
+---
+name: 曹聪 Cong Cao
+role: 方向带头人 Direction Leader
+title: 宁波诺丁汉大学商学院创新学教授
+department: Nottingham University Business School
+email:
+image: assets/CC.png
+category: staff
+interests:
+  - 科技政策与体制改革 (Science and technology policy and institutional reform)
+order: 7
+---
+
+获美国、欧盟以及中国的国际与国家级基金资助（NSF、FP7、NSFC）；受邀撰写 2020 年《联合国教科文组织科学报告》"中国科学"章节；发表国际期刊及论文集论文数十篇。

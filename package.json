@@ -5,7 +5,7 @@
   "description": "A Markdown-first research institute website template built with Nuxt 3 and @markuxt/markuxt.",
   "type": "module",
   "scripts": {
-    "dev": "TMPDIR=/tmp nuxt dev # Set TMPDIR to avoid potential issues with vite build socket https://github.com/nuxt/nuxt/issues/35253",
+    "dev": "nuxt dev",
     "build": "nuxt build",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
