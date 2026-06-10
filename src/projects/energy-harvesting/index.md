@@ -3,7 +3,7 @@ title: 基于能量收集的人工智能边缘计算技术研究
 description: 聚焦未来绿色与自主的 AIoT 设备，在能源采集系统中实现可持续的 DNN 推理
 status: ongoing
 year: 2024
-image: assets/1707024117588.jpeg
+image: assets/fidrl.png
 funded: true
 ---
 
