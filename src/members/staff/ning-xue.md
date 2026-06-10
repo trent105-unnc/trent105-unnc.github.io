@@ -4,7 +4,7 @@ role: 核心成员 Core Member
 title: 计算机科学系助理教授 Assistant Professor
 department: Department of Computer Science
 email:
-image: /images/default.jpg
+image: /images/uon-logo.png
 category: staff
 interests:
   - 人工智能 Artificial Intelligence

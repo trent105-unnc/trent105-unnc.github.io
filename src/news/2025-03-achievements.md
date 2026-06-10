@@ -3,7 +3,7 @@ title: 成果概览：专利、软著与奖项
 date: 2025-03-01
 tags: [成果, 专利, 奖项]
 description: 实验室获取了多项专利与软件著作权，并在多项竞赛中获得奖项。
-image: /images/default.jpg
+image: /images/uon-logo.png
 ---
 
 ## 专利 Patents

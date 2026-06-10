@@ -3,7 +3,7 @@ title: 联合单位与合作机构
 date: 2025-05-01
 tags: [合作, 联合实验室]
 description: 实验室与混合现实实验室 MRL、COL 实验室、人机交互实验室、英伟达联合实验室等机构深度合作。
-image: /images/default.jpg
+image: /images/uon-logo.png
 ---
 
 ## 混合现实实验室 Mixed Reality Lab (MRL)

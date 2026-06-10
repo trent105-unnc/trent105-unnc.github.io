@@ -62,7 +62,7 @@ export default defineNuxtConfig({
             },
 
             logo: {
-                src: '/images/default.jpg',
+                src: '/images/uon-logo.png',
             },
             navigation: [
                 { to: '/', labelKey: 'nav.home' },
@@ -78,7 +78,7 @@ export default defineNuxtConfig({
                 externalLabelKey: 'footer.universityLink',
             },
             carousel: {
-                fallbackImage: '/images/default.jpg',
+                fallbackImage: '/images/lab-3.jpg',
                 images: [
                     {
                         src: '/images/lab-3.jpg',

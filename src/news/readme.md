@@ -20,7 +20,7 @@ description: A demonstration news article showcasing all available frontmatter o
 
 # image [Optional]: News cover image path
 # Image location: /public/images/news/
-image: /images/default.jpg
+image: /images/uon-logo.png
 ---
 
 ## News Content
@@ -46,7 +46,7 @@ Code blocks work too
 
 Include images using standard Markdown syntax:
 
-![Alt text](/images/default.jpg)
+![Alt text](/images/uon-logo.png)
 
 ### Conclusion
 

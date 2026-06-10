@@ -25,7 +25,7 @@ scholar: https://scholar.google.com/citations?user=xxxxx
 # Recommended size: 400x400px (square)
 # Supported formats: WebP (recommended), JPG, PNG
 # Image location: alongside the markdown file in content/ (synced to public/_content/ at build time)
-image: /images/default.jpg
+image: /images/uon-logo.png
 
 # category [Required]: Member category, supports four values:
 #   - staff              : Faculty and staff members

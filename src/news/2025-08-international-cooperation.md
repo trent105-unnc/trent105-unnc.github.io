@@ -3,7 +3,7 @@ title: 国际交流与合作
 date: 2025-08-01
 tags: [国际合作, 学术会议, 校企合作]
 description: 实验室积极参与国际学术交流，举办和参与多项国际顶级会议，与全球高校及企业开展深度合作。
-image: /images/default.jpg
+image: /images/uon-logo.png
 ---
 
 ## 学术会议
