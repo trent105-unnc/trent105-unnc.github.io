@@ -10,7 +10,11 @@ const themeMode = 'auto'
 
 export default defineNuxtConfig({
     // Keep the app source at the repo root so template-level layouts override markuxt's defaults.
+    // Public assets (images, synced _markuxt/ content) live under src/public/.
     srcDir: '.',
+    dir: {
+        public: 'src/public',
+    },
 
     extends: ['@markuxt/markuxt'],
 
