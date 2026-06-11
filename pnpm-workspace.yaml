@@ -7,5 +7,3 @@ ignoredBuiltDependencies:
   - '@markuxt/markuxt'
 minimumReleaseAgeExclude:
   - '@markuxt/markuxt'
-overrides:
-  '@markuxt/markuxt': link:../../../markuxt/markuxt
