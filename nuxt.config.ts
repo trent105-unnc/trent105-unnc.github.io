@@ -14,6 +14,18 @@ export default defineNuxtConfig({
 
     extends: ['@markuxt/markuxt'],
 
+    // Prerendering ~750 routes (693 publications + members/projects/news/positions)
+    // with the default V8 heap (~4 GB) OOMs. The `generate` script raises the Node
+    // heap to 8 GB; here we also serialize prerendering (concurrency 1) to cap peak
+    // memory — one route's content resident at a time. Both local (18 GB) and the
+    // ubuntu-latest CI runner (16 GB) have headroom for this.
+    nitro: {
+        prerender: {
+            concurrency: 1,
+            crawlLinks: true,
+        },
+    },
+
     // Load styles — edit styles/main.css or individual partials to customize
     css: ['~~/styles/main.css'],
 
