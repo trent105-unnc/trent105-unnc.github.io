@@ -4,10 +4,6 @@ import { resolve } from 'path'
 // Set before markuxt's nuxt.config is evaluated
 process.env.MARKUXT_ROOT_DIR = process.env.MARKUXT_ROOT_DIR || 'src/'
 
-// Available presets: 'ocean' | 'forest' | 'sunset' | 'slate'
-const themePreset = 'ocean'
-const themeMode = 'auto'
-
 export default defineNuxtConfig({
     // Keep the app source at the repo root so template-level layouts override markuxt's defaults.
     // Public assets (images, synced _markuxt/ content) live under src/public/.
@@ -54,13 +50,6 @@ export default defineNuxtConfig({
     // Field contract: see node_modules/@markuxt/markuxt/app.config.d.ts
     appConfig: {
         markuxt: {
-            // Theme preset — switch this in repo config, not in the frontend UI.
-            // Available presets: 'ocean' | 'forest' | 'sunset' | 'slate'
-            theme: {
-                preset: themePreset,
-                mode: themeMode,
-            },
-
             logo: {
                 src: '/images/uon-logo.png',
             },
@@ -72,6 +61,14 @@ export default defineNuxtConfig({
                 { to: '/positions', labelKey: 'nav.positions' },
                 { to: '/news', labelKey: 'nav.news' },
             ],
+            // Member categories — markuxt no longer ships built-in defaults, so every
+            // category used in member frontmatter must be declared here. `key` matches
+            // each member's `category:` field; `labelKey` is an i18n key in src/i18n/*.json.
+            // Array order = display/filter/sort order. trent105 currently has only staff;
+            // add entries (and their labelKeys) when real categories are introduced.
+            members: {
+                categories: [{ key: 'staff', labelKey: 'members.staff' }],
+            },
             contact: {
                 email: 'DigitalPort.Lab@nottingham.edu.cn',
                 externalUrl: 'https://www.nottingham.edu.cn',
