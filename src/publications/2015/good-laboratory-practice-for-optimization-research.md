@@ -35,7 +35,7 @@ openalex_id: W2175760929
 venue: Journal of the Operational Research Society
 pdf_url: https://eprints.qut.edu.au/113630/1/article.pdf
 abstract_page: 4
-abstract_screenshot: src/publications/2015/good-laboratory-practice-for-optimization-research.png
+abstract_screenshot: good-laboratory-practice-for-optimization-research.png
 keywords:
   - Management science
   - Set (abstract data type)

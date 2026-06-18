@@ -18,7 +18,7 @@ openalex_id: W3148195646
 venue: NAVIGATION Journal of the Institute of Navigation
 pdf_url: https://navi.ion.org/content/navi/68/2/277.full.pdf
 abstract_page: 1
-abstract_screenshot: src/publications/2021/novel-prior-position-determination-approaches-in-particle-filter-for-ultra-wideb.png
+abstract_screenshot: novel-prior-position-determination-approaches-in-particle-filter-for-ultra-wideb.png
 keywords:
   - Particle filter
   - Inertial measurement unit

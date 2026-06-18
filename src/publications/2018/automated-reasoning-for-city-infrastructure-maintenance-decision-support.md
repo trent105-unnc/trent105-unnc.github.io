@@ -25,7 +25,7 @@ openalex_id: W2814785485
 venue: 
 pdf_url: https://www.ijcai.org/proceedings/2018/0868.pdf
 abstract_page: 1
-abstract_screenshot: src/publications/2018/automated-reasoning-for-city-infrastructure-maintenance-decision-support.png
+abstract_screenshot: automated-reasoning-for-city-infrastructure-maintenance-decision-support.png
 keywords:
   - Computer science
   - Inference

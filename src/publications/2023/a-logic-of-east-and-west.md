@@ -21,7 +21,7 @@ openalex_id: W4322621173
 venue: Journal of Artificial Intelligence Research
 pdf_url: https://www.jair.org/index.php/jair/article/download/14113/26898
 abstract_page: 1
-abstract_screenshot: src/publications/2023/a-logic-of-east-and-west.png
+abstract_screenshot: a-logic-of-east-and-west.png
 keywords:
   - Satisfiability
   - Euclidean space

@@ -21,7 +21,7 @@ openalex_id: W4385764878
 venue: 
 pdf_url: https://www.ijcai.org/proceedings/2023/0011.pdf
 abstract_page: 1
-abstract_screenshot: src/publications/2023/multi-agent-intention-recognition-and-progression.png
+abstract_screenshot: multi-agent-intention-recognition-and-progression.png
 keywords:
   - Computer science
   - A priori and a posteriori

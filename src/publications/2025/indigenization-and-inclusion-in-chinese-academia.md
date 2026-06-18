@@ -15,7 +15,7 @@ openalex_id: W7116901507
 venue: Nature Human Behaviour
 pdf_url: https://www.nature.com/articles/s41562-025-02366-4.pdf
 abstract_page: 1
-abstract_screenshot: src/publications/2025/indigenization-and-inclusion-in-chinese-academia.png
+abstract_screenshot: indigenization-and-inclusion-in-chinese-academia.png
 keywords:
   - Indigenization
   - Inclusion (mineral)

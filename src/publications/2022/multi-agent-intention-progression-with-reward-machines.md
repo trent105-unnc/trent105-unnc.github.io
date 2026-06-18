@@ -20,7 +20,7 @@ venue: Proceedings of the Thirty-First International Joint Conference on Artific
 Intelligence
 pdf_url: https://www.ijcai.org/proceedings/2022/0031.pdf
 abstract_page: 1
-abstract_screenshot: src/publications/2022/multi-agent-intention-progression-with-reward-machines.png
+abstract_screenshot: multi-agent-intention-progression-with-reward-machines.png
 keywords:
   - Computer science
   - Scheduling (production processes)

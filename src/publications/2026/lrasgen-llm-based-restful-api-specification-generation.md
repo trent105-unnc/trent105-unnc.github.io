@@ -21,7 +21,7 @@ openalex_id: W4415067287
 venue: ACM Transactions on Software Engineering and Methodology
 pdf_url: https://arxiv.org/pdf/2504.16833
 abstract_page: 1
-abstract_screenshot: src/publications/2026/lrasgen-llm-based-restful-api-specification-generation.png
+abstract_screenshot: lrasgen-llm-based-restful-api-specification-generation.png
 keywords:
   - Representational state transfer
   - SOAP

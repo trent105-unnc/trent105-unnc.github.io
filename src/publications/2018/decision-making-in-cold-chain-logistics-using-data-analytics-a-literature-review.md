@@ -20,7 +20,7 @@ openalex_id: W2786470824
 venue: The International Journal of Logistics Management
 pdf_url: https://vbn.aau.dk/ws/files/319297413/IJLM.pdf
 abstract_page: 2
-abstract_screenshot: src/publications/2018/decision-making-in-cold-chain-logistics-using-data-analytics-a-literature-review.png
+abstract_screenshot: decision-making-in-cold-chain-logistics-using-data-analytics-a-literature-review.png
 keywords:
   - Analytics
   - Business

@@ -21,7 +21,7 @@ openalex_id: W2771791873
 venue: 
 pdf_url: https://research-information.bris.ac.uk/ws/files/146861444/ICBDA_ARIMA_v5_AAM_1055.pdf
 abstract_page: 2
-abstract_screenshot: src/publications/2018/spatio-temporal-prediction-of-shopping-behaviours-using-taxi-trajectory-data.png
+abstract_screenshot: spatio-temporal-prediction-of-shopping-behaviours-using-taxi-trajectory-data.png
 keywords:
   - Autoregressive integrated moving average
   - Taxis

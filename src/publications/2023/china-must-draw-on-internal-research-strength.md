@@ -11,7 +11,7 @@ openalex_id: W4388490402
 venue: Nature
 pdf_url: https://media.nature.com/original/magazine-assets/d41586-023-03445-0/d41586-023-03445-0.pdf
 abstract_page: 1
-abstract_screenshot: src/publications/2023/china-must-draw-on-internal-research-strength.png
+abstract_screenshot: china-must-draw-on-internal-research-strength.png
 keywords:
   - China
   - Business

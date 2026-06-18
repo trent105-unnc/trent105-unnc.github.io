@@ -32,7 +32,7 @@ openalex_id: W4416551711
 venue: IEEE Transactions on Multimedia
 pdf_url: https://arxiv.org/pdf/2511.15771
 abstract_page: 1
-abstract_screenshot: src/publications/2026/uniultra-interactive-parameter-efficient-sam2-for-universal-ultrasound-segmentat.png
+abstract_screenshot: uniultra-interactive-parameter-efficient-sam2-for-universal-ultrasound-segmentat.png
 keywords:
   - Segmentation
   - Encoder

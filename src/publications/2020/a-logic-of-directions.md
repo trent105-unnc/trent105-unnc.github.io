@@ -15,7 +15,7 @@ openalex_id: W3034682161
 venue: 
 pdf_url: https://www.ijcai.org/proceedings/2020/0235.pdf
 abstract_page: 1
-abstract_screenshot: src/publications/2020/a-logic-of-directions.png
+abstract_screenshot: a-logic-of-directions.png
 keywords:
   - Indeterminate
   - Satisfiability

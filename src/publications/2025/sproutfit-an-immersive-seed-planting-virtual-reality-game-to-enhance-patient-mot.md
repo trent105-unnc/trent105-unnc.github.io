@@ -25,7 +25,7 @@ openalex_id: W4413636636
 venue: Virtual Reality
 pdf_url: https://link.springer.com/content/pdf/10.1007/s10055-025-01220-2.pdf
 abstract_page: 1
-abstract_screenshot: src/publications/2025/sproutfit-an-immersive-seed-planting-virtual-reality-game-to-enhance-patient-mot.png
+abstract_screenshot: sproutfit-an-immersive-seed-planting-virtual-reality-game-to-enhance-patient-mot.png
 keywords:
   - Computer science
   - Virtual reality

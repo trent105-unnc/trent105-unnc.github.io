@@ -21,7 +21,7 @@ openalex_id: W2940779611
 venue: 
 pdf_url: https://research-information.bris.ac.uk/ws/files/181063556/ICBDA_2019_paper_41.pdf
 abstract_page: 2
-abstract_screenshot: src/publications/2019/activity-modelling-using-journey-pairing-of-taxi-trajectory-data.png
+abstract_screenshot: activity-modelling-using-journey-pairing-of-taxi-trajectory-data.png
 keywords:
   - Trajectory
   - Global Positioning System

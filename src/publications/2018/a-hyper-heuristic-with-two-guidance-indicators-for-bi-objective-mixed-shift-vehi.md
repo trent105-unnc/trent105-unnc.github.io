@@ -18,7 +18,7 @@ openalex_id: W2885975332
 venue: Applied Intelligence
 pdf_url: https://link.springer.com/content/pdf/10.1007/s10489-018-1250-y.pdf
 abstract_page: 1
-abstract_screenshot: src/publications/2018/a-hyper-heuristic-with-two-guidance-indicators-for-bi-objective-mixed-shift-vehi.png
+abstract_screenshot: a-hyper-heuristic-with-two-guidance-indicators-for-bi-objective-mixed-shift-vehi.png
 keywords:
   - Computer science
   - Vehicle routing problem

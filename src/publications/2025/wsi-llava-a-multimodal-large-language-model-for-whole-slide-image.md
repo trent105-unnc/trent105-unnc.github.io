@@ -31,7 +31,7 @@ openalex_id: W4405037468
 venue: 
 pdf_url: https://arxiv.org/pdf/2412.02141
 abstract_page: 2
-abstract_screenshot: src/publications/2025/wsi-llava-a-multimodal-large-language-model-for-whole-slide-image.png
+abstract_screenshot: wsi-llava-a-multimodal-large-language-model-for-whole-slide-image.png
 keywords:
   - Computer science
   - Image (mathematics)

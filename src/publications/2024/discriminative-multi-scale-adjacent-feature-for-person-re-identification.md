@@ -19,7 +19,7 @@ openalex_id: W4393031985
 venue: Complex & Intelligent Systems
 pdf_url: https://link.springer.com/content/pdf/10.1007/s40747-024-01395-2.pdf
 abstract_page: 1
-abstract_screenshot: src/publications/2024/discriminative-multi-scale-adjacent-feature-for-person-re-identification.png
+abstract_screenshot: discriminative-multi-scale-adjacent-feature-for-person-re-identification.png
 keywords:
   - Discriminative model
   - Computer science

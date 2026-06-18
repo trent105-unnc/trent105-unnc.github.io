@@ -15,7 +15,7 @@ openalex_id: W3215125239
 venue: arXiv (Cornell University)
 pdf_url: https://arxiv.org/pdf/2103.05222
 abstract_page: 1
-abstract_screenshot: src/publications/2021/data-augmentation-by-morphological-mixup-for-solving-raven-s-progressive-matrice.png
+abstract_screenshot: data-augmentation-by-morphological-mixup-for-solving-raven-s-progressive-matrice.png
 keywords:
   - Raven's Progressive Matrices
   - Overfitting

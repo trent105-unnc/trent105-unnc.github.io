@@ -16,7 +16,7 @@ openalex_id: W3021793005
 venue: Global Health Research and Policy
 pdf_url: https://ghrp.biomedcentral.com/counter/pdf/10.1186/s41256-020-00150-7
 abstract_page: 1
-abstract_screenshot: src/publications/2020/coordinated-multi-sectoral-efforts-needed-to-address-the-covid-19-pandemic-lesso.png
+abstract_screenshot: coordinated-multi-sectoral-efforts-needed-to-address-the-covid-19-pandemic-lesso.png
 keywords:
   - Pandemic
   - Public health

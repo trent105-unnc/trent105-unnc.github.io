@@ -42,7 +42,7 @@ openalex_id: W7161136952
 venue: npj Digital Medicine
 pdf_url: https://www.nature.com/articles/s41746-026-02760-w.pdf
 abstract_page: 1
-abstract_screenshot: src/publications/2026/generalizable-ct-free-pet-attenuation-and-scatter-correction-via-few-shot-cross.png
+abstract_screenshot: generalizable-ct-free-pet-attenuation-and-scatter-correction-via-few-shot-cross.png
 keywords:
   - Domain adaptation
   - Joint (building)

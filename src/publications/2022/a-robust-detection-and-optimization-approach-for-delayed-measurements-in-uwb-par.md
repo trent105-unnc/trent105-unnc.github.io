@@ -18,7 +18,7 @@ openalex_id: W4285144486
 venue: NAVIGATION Journal of the Institute of Navigation
 pdf_url: https://navi.ion.org/content/navi/69/2/navi.514.full.pdf
 abstract_page: 1
-abstract_screenshot: src/publications/2022/a-robust-detection-and-optimization-approach-for-delayed-measurements-in-uwb-par.png
+abstract_screenshot: a-robust-detection-and-optimization-approach-for-delayed-measurements-in-uwb-par.png
 keywords:
   - Particle filter
   - Computer science

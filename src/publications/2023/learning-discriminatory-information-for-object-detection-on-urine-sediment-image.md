@@ -19,7 +19,7 @@ openalex_id: W4386850098
 venue: Computer Modeling in Engineering & Sciences
 pdf_url: https://file.techscience.com/files/CMES/2024/TSP_CMES-138-1/TSP_CMES_29485/TSP_CMES_29485.pdf
 abstract_page: 1
-abstract_screenshot: src/publications/2023/learning-discriminatory-information-for-object-detection-on-urine-sediment-image.png
+abstract_screenshot: learning-discriminatory-information-for-object-detection-on-urine-sediment-image.png
 keywords:
   - Computer science
   - Artificial intelligence
