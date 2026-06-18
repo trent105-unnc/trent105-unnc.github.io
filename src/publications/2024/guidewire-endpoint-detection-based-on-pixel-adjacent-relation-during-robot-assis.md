@@ -26,8 +26,6 @@ year: 2024
 doi: https://doi.org/10.1002/aisy.202300687
 openalex_id: W4390639624
 venue: Advanced Intelligent Systems
-pdf_url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aisy.202300687
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Pixel

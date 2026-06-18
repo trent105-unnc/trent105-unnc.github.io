@@ -11,8 +11,6 @@ year: 2018
 doi: https://doi.org/10.2139/ssrn.3256252
 openalex_id: W3188268279
 venue: SSRN Electronic Journal
-pdf_url: https://doi.org/10.2139/ssrn.3256252
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Economics

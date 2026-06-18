@@ -32,8 +32,6 @@ year: 2021
 doi: https://doi.org/10.3390/j4030022
 openalex_id: W3180615795
 venue: J — Multidisciplinary Scientific Journal
-pdf_url: https://www.mdpi.com/2571-8800/4/3/22/pdf?version=1625794614
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Fluidized bed

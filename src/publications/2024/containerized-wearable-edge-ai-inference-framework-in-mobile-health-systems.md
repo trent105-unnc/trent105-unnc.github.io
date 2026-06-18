@@ -13,8 +13,6 @@ year: 2024
 doi: https://doi.org/10.1007/978-3-031-53830-8_28
 openalex_id: W4392250206
 venue: Lecture notes in computer science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Cloud computing

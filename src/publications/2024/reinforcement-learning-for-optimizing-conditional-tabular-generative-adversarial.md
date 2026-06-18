@@ -14,8 +14,6 @@ year: 2024
 doi: https://doi.org/10.1109/icecet61485.2024.10698625
 openalex_id: W4403212800
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Adversarial system

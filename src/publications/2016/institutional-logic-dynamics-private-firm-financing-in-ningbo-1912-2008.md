@@ -13,8 +13,6 @@ year: 2016
 doi: https://doi.org/10.1080/00076791.2015.1122707
 openalex_id: W2281222779
 venue: Business History
-pdf_url: https://repository.ceibs.cn/en/publications/88e0fa54-03bc-4b2c-8788-7a2d6fda5129
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Institutionalisation

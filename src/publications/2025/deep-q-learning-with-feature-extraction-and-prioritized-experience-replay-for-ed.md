@@ -14,8 +14,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.engappai.2025.112124
 openalex_id: W4414573591
 venue: Engineering Applications of Artificial Intelligence
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Edge computing

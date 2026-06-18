@@ -13,8 +13,6 @@ year: 2016
 doi: https://doi.org/10.1080/14765284.2016.1261490
 openalex_id: W2557671569
 venue: Journal of Chinese Economic and Business Studies
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Openness to experience

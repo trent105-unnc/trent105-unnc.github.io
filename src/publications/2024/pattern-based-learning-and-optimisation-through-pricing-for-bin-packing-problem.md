@@ -19,8 +19,6 @@ year: 2024
 doi: https://doi.org/10.2139/ssrn.4822673
 openalex_id: W4396783264
 venue: SSRN Electronic Journal
-pdf_url: http://dx.doi.org/10.2139/ssrn.4822673
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Bin packing problem

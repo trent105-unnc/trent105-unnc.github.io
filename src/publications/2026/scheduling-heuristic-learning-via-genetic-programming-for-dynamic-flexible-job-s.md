@@ -18,8 +18,6 @@ year: 2026
 doi: https://doi.org/10.1007/978-981-95-7081-2_49
 openalex_id: W7130957140
 venue: Lecture notes in computer science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Heuristics

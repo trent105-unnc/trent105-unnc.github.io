@@ -16,8 +16,6 @@ year: 2013
 doi: https://doi.org/10.1057/jors.2013.79
 openalex_id: W1994691098
 venue: Journal of the Operational Research Society
-pdf_url: https://nottingham-repository.worktribe.com/output/733637
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

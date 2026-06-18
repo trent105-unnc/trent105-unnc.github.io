@@ -16,8 +16,6 @@ year: 2025
 doi: https://doi.org/10.5465/amproc.2025.102bp
 openalex_id: W4416002404
 venue: Academy of Management Proceedings
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Profitability index

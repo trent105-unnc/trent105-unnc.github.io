@@ -23,8 +23,6 @@ doi: https://doi.org/10.1007/978-3-031-64948-6_15
 openalex_id: W4403356891
 venue: Lecture notes of the Institute for Computer Sciences, Social Informatics and
 Telecommunications Engineering
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Blockchain

@@ -15,8 +15,6 @@ year: 2023
 doi: https://doi.org/10.1080/1351847x.2023.2264930
 openalex_id: W4388038722
 venue: European Journal of Finance
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Venture capital

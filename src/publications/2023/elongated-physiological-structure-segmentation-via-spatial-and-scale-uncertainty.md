@@ -22,8 +22,6 @@ year: 2023
 doi: https://doi.org/10.1007/978-3-031-43901-8_31
 openalex_id: W4387211311
 venue: Lecture notes in computer science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

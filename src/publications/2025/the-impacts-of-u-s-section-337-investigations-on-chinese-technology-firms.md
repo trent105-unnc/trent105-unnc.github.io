@@ -17,8 +17,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.respol.2025.105210
 openalex_id: W4408177362
 venue: Research Policy
-pdf_url: https://doi.org/10.1016/j.respol.2025.105210
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Section (typography)

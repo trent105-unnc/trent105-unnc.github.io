@@ -20,8 +20,6 @@ openalex_id: W2774670889
 venue: Proceedings of the Satellite Division's International Technical Meeting
 (Online)/Proceedings of the Satellite Division's International Technical Meeting
 (CD-ROM)
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Scintillation

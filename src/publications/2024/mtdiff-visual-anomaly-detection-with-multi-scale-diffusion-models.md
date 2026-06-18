@@ -13,8 +13,6 @@ year: 2024
 doi: https://doi.org/10.1016/j.knosys.2024.112364
 openalex_id: W4401503235
 venue: Knowledge-Based Systems
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Anomaly detection

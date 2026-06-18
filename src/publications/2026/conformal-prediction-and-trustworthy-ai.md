@@ -11,8 +11,6 @@ year: 2026
 doi: https://doi.org/10.1007/978-3-032-15120-9_10
 openalex_id: W7127125051
 venue: Lecture notes in computer science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Trustworthiness

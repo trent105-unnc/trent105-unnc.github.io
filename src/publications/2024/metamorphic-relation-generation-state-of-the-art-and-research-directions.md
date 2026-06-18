@@ -23,8 +23,6 @@ year: 2024
 doi: https://doi.org/10.1145/3708521
 openalex_id: W4405543795
 venue: ACM Transactions on Software Engineering and Methodology
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

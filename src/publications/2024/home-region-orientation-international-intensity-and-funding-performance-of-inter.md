@@ -16,8 +16,6 @@ year: 2024
 doi: https://doi.org/10.1016/j.technovation.2024.103164
 openalex_id: W4405894323
 venue: Technovation
-pdf_url: https://doi.org/10.1016/j.technovation.2024.103164
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Business

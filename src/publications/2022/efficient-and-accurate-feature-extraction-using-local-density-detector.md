@@ -23,8 +23,6 @@ year: 2022
 doi: https://doi.org/10.1145/3573942.3574059
 openalex_id: W4376852232
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Orb (optics)

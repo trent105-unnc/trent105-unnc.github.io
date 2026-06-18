@@ -11,8 +11,6 @@ year: 2025
 doi: https://doi.org/10.1017/s0305741024001607
 openalex_id: W4407109812
 venue: The China Quarterly
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Political science

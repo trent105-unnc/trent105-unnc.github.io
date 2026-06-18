@@ -22,8 +22,6 @@ year: 2025
 doi: https://doi.org/10.1109/jiot.2025.3576482
 openalex_id: W4411019678
 venue: IEEE Internet of Things Journal
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

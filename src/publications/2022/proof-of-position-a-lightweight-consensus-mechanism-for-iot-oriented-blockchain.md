@@ -16,8 +16,6 @@ year: 2022
 doi: https://doi.org/10.5013/ijssst.a.23.02.06
 openalex_id: W4280530513
 venue: International Journal of Simulation Systems Science & Technology
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Blockchain

@@ -15,8 +15,6 @@ year: 2019
 doi: https://doi.org/10.1093/scipol/scz056
 openalex_id: W2993292920
 venue: Science and Public Policy
-pdf_url: https://academic.oup.com/spp/article-pdf/47/2/172/33132265/scz056.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Publication

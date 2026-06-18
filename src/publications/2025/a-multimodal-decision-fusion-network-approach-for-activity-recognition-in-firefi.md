@@ -20,8 +20,6 @@ year: 2025
 doi: https://doi.org/10.1109/lsens.2025.3614427
 openalex_id: W4414499322
 venue: IEEE Sensors Letters
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Activity recognition

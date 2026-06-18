@@ -15,8 +15,6 @@ year: 2017
 doi: https://doi.org/10.2139/ssrn.3084521
 openalex_id: W2953116970
 venue: SSRN Electronic Journal
-pdf_url: https://doi.org/10.2139/ssrn.3084521
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Fuzzy logic

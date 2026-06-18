@@ -15,8 +15,6 @@ year: 2023
 doi: https://doi.org/10.1109/mvipit60427.2023.00025
 openalex_id: W4400350748
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Modal

@@ -14,8 +14,6 @@ year: 2020
 doi: https://doi.org/10.1145/3372784
 openalex_id: W2995463625
 venue: ACM Transactions on Embedded Computing Systems
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

@@ -24,8 +24,6 @@ year: 2024
 doi: https://doi.org/10.1108/itse-11-2023-0221
 openalex_id: W4401231826
 venue: Interactive Technology and Smart Education
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Augmented reality

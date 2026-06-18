@@ -16,8 +16,6 @@ year: 2014
 doi: https://doi.org/10.1016/j.ejor.2014.11.002
 openalex_id: W2158276170
 venue: European Journal of Operational Research
-pdf_url: https://www.sciencedirect.com/science/article/pii/S0377221714009060
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Markov chain

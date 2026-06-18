@@ -22,8 +22,6 @@ year: 2021
 doi: https://doi.org/10.1101/2021.08.08.455551
 openalex_id: W3187409112
 venue: bioRxiv (Cold Spring Harbor Laboratory)
-pdf_url: https://www.biorxiv.org/content/biorxiv/early/2021/08/09/2021.08.08.455551.full.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Peripheral blood mononuclear cell

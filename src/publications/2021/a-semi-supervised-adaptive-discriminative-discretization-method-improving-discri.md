@@ -14,8 +14,6 @@ year: 2021
 doi: https://doi.org/10.48550/arxiv.2111.10983
 openalex_id: W3215342475
 venue: arXiv (Cornell University)
-pdf_url: https://arxiv.org/pdf/2111.10983
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Discretization

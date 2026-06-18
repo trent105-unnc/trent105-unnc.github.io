@@ -23,8 +23,6 @@ year: 2024
 doi: https://doi.org/10.1109/tce.2024.3443328
 openalex_id: W4401879041
 venue: IEEE Transactions on Consumer Electronics
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Adversarial system

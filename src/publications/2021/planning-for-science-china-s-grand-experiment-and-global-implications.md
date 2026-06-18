@@ -11,8 +11,6 @@ year: 2021
 doi: https://doi.org/10.1057/s41599-021-00895-7
 openalex_id: W3199804895
 venue: Humanities and Social Sciences Communications
-pdf_url: https://www.nature.com/articles/s41599-021-00895-7.pdf
-abstract_page: 1
 abstract_screenshot: planning-for-science-china-s-grand-experiment-and-global-implications.png
 keywords:
   - China

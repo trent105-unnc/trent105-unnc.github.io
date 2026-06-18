@@ -9,8 +9,6 @@ year: 2021
 doi: https://doi.org/10.1038/d41586-021-01406-z
 openalex_id: W3164865063
 venue: Nature
-pdf_url: https://www.nature.com/articles/d41586-021-01406-z.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Joint venture

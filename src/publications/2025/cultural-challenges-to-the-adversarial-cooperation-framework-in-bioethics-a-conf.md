@@ -12,8 +12,6 @@ year: 2025
 doi: https://doi.org/10.1136/jme-2025-111228
 openalex_id: W4414575694
 venue: Journal of Medical Ethics
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Adversarial system

@@ -22,8 +22,6 @@ year: 2025
 doi: https://doi.org/10.1007/978-981-96-6588-4_20
 openalex_id: W4411555784
 venue: Lecture notes in computer science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

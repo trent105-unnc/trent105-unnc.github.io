@@ -30,8 +30,6 @@ year: 2020
 doi: https://doi.org/10.1016/j.eswa.2020.113461
 openalex_id: W3017039712
 venue: Expert Systems with Applications
-pdf_url: https://doi.org/10.1016/j.eswa.2020.113461
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

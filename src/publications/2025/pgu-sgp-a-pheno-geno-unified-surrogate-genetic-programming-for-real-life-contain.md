@@ -18,8 +18,6 @@ year: 2025
 doi: https://doi.org/10.1145/3712256.3726326
 openalex_id: W4412106607
 venue: Proceedings of the Genetic and Evolutionary Computation Conference
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Container (type theory)

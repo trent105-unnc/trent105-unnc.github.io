@@ -16,8 +16,6 @@ year: 2021
 doi: https://doi.org/10.1007/s42452-021-04448-0
 openalex_id: W3138488032
 venue: SN Applied Sciences
-pdf_url: https://link.springer.com/content/pdf/10.1007/s42452-021-04448-0.pdf
-abstract_page: 1
 abstract_screenshot: big-data-challenges-in-overcoming-china-s-water-and-air-pollution-relevant-data.png
 keywords:
   - Big data

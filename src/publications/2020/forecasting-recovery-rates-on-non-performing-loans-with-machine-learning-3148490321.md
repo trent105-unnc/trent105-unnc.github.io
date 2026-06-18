@@ -15,8 +15,6 @@ year: 2020
 doi: 
 openalex_id: W3148490321
 venue: "RePEc: Research Papers in Economics"
-pdf_url: https://dial.uclouvain.be/pr/boreal/fr/object/boreal%3A228115/datastream/PDF_01/view
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Default

@@ -24,8 +24,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.inffus.2025.103180
 openalex_id: W4409450173
 venue: Information Fusion
-pdf_url: https://doi.org/10.1016/j.inffus.2025.103180
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

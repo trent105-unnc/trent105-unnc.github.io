@@ -16,8 +16,6 @@ year: 2021
 doi: https://doi.org/10.1016/j.scico.2021.102730
 openalex_id: W3204945965
 venue: Science of Computer Programming
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

@@ -18,8 +18,6 @@ year: 2024
 doi: https://doi.org/10.1016/j.neucom.2024.128897
 openalex_id: W4404436774
 venue: Neurocomputing
-pdf_url: https://doi.org/10.1016/j.neucom.2024.128897
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Legibility

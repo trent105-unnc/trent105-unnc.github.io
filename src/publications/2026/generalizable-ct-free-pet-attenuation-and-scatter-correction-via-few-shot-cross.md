@@ -40,8 +40,6 @@ year: 2026
 doi: https://doi.org/10.1038/s41746-026-02760-w
 openalex_id: W7161136952
 venue: npj Digital Medicine
-pdf_url: https://www.nature.com/articles/s41746-026-02760-w.pdf
-abstract_page: 1
 abstract_screenshot: generalizable-ct-free-pet-attenuation-and-scatter-correction-via-few-shot-cross.png
 keywords:
   - Domain adaptation

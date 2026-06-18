@@ -15,8 +15,6 @@ year: 2017
 doi: https://doi.org/10.1145/3126686.3126761
 openalex_id: W2765494719
 venue: 
-pdf_url: http://eprints.nottingham.ac.uk/48770/
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

@@ -22,8 +22,6 @@ year: 2025
 doi: https://doi.org/10.3390/land14122368
 openalex_id: W4416958560
 venue: Land
-pdf_url: https://www.mdpi.com/2073-445X/14/12/2368/pdf?version=1764778320
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Greenhouse gas

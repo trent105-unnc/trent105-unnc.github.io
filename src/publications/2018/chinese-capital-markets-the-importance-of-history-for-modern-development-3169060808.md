@@ -15,8 +15,6 @@ year: 2018
 doi: 
 openalex_id: W3169060808
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - China

@@ -16,8 +16,6 @@ year: 2024
 doi: https://doi.org/10.1016/j.technovation.2024.102974
 openalex_id: W4392017343
 venue: Technovation
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - China

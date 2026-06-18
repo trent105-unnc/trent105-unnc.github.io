@@ -28,8 +28,6 @@ year: 2025
 doi: https://doi.org/10.1109/jbhi.2025.3593983
 openalex_id: W4412795544
 venue: IEEE Journal of Biomedical and Health Informatics
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

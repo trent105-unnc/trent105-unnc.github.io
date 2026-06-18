@@ -14,8 +14,6 @@ year: 2026
 doi: https://doi.org/10.2139/ssrn.6018996
 openalex_id: W7120159191
 venue: SSRN Electronic Journal
-pdf_url: https://doi.org/10.2139/ssrn.6018996
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Benchmark (surveying)

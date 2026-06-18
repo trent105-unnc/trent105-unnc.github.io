@@ -21,8 +21,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.cageo.2025.105873
 openalex_id: W4406788331
 venue: Computers & Geosciences
-pdf_url: https://research.birmingham.ac.uk/en/publications/e4a21cc6-6f12-41db-9bf8-5d2ed1b9e10e
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

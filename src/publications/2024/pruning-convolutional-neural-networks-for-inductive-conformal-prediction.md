@@ -13,8 +13,6 @@ year: 2024
 doi: https://doi.org/10.1016/j.neucom.2024.128704
 openalex_id: W4403155178
 venue: Neurocomputing
-pdf_url: https://pure-oai.bham.ac.uk/ws/files/239793511/Pruning_CNN.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Convolutional neural network

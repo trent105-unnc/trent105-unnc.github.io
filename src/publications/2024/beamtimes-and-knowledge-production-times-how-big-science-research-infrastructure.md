@@ -14,8 +14,6 @@ year: 2024
 doi: https://doi.org/10.1057/s41599-024-03993-4
 openalex_id: W4404010026
 venue: Humanities and Social Sciences Communications
-pdf_url: https://www.nature.com/articles/s41599-024-03993-4.pdf
-abstract_page: 1
 abstract_screenshot: beamtimes-and-knowledge-production-times-how-big-science-research-infrastructure.png
 keywords:
   - Knowledge production

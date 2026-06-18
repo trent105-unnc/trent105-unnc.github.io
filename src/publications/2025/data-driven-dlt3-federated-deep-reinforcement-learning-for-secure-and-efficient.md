@@ -20,8 +20,6 @@ year: 2025
 doi: https://doi.org/10.1109/tce.2025.3564469
 openalex_id: W4409916774
 venue: IEEE Transactions on Consumer Electronics
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Reinforcement learning

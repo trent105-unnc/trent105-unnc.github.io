@@ -18,8 +18,6 @@ year: 2019
 doi: https://doi.org/10.1007/s10291-018-0817-8
 openalex_id: W2907755701
 venue: GPS Solutions
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Global Positioning System

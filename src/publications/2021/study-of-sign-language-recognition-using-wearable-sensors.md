@@ -11,8 +11,6 @@ year: 2021
 doi: https://doi.org/10.1007/978-3-030-68449-5_24
 openalex_id: W3126762198
 venue: Lecture notes in computer science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

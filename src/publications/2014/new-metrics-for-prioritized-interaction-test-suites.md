@@ -15,8 +15,6 @@ year: 2014
 doi: https://doi.org/10.1587/transinf.e97.d.830
 openalex_id: W2017030700
 venue: IEICE Transactions on Information and Systems
-pdf_url: https://www.jstage.jst.go.jp/article/transinf/E97.D/4/E97.D_830/_pdf
-abstract_page: 1
 abstract_screenshot: new-metrics-for-prioritized-interaction-test-suites.png
 keywords:
   - Computer science

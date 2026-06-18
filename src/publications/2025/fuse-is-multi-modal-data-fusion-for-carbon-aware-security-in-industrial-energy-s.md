@@ -20,8 +20,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.inffus.2025.103759
 openalex_id: W4414414221
 venue: Information Fusion
-pdf_url: https://doi.org/10.1016/j.inffus.2025.103759
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Efficient energy use

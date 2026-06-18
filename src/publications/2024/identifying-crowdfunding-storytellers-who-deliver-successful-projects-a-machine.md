@@ -22,8 +22,6 @@ year: 2024
 doi: https://doi.org/10.1007/s11227-024-06785-4
 openalex_id: W4405182124
 venue: The Journal of Supercomputing
-pdf_url: https://link.springer.com/content/pdf/10.1007/s11227-024-06785-4.pdf
-abstract_page: 1
 abstract_screenshot: identifying-crowdfunding-storytellers-who-deliver-successful-projects-a-machine.png
 keywords:
   - Computer science

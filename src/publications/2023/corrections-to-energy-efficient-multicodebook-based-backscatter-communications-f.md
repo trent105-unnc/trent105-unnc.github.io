@@ -18,8 +18,6 @@ year: 2023
 doi: https://doi.org/10.1109/jiot.2022.3233167
 openalex_id: W4319300077
 venue: IEEE Internet of Things Journal
-pdf_url: https://ieeexplore.ieee.org/ielx7/6488907/10038283/10037773.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Backscatter (email)

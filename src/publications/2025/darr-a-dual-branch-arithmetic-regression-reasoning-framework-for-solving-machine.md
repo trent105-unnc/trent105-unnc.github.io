@@ -24,8 +24,6 @@ year: 2025
 doi: https://doi.org/10.1609/aaai.v39i2.32127
 openalex_id: W4409346642
 venue: Proceedings of the AAAI Conference on Artificial Intelligence
-pdf_url: https://ojs.aaai.org/index.php/AAAI/article/download/32127/34282
-abstract_page: 1
 abstract_screenshot: darr-a-dual-branch-arithmetic-regression-reasoning-framework-for-solving-machine.png
 keywords:
   - Arithmetic

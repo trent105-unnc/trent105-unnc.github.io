@@ -18,8 +18,6 @@ year: 2022
 doi: https://doi.org/10.1109/jiot.2022.3162095
 openalex_id: W4220938988
 venue: IEEE Internet of Things Journal
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Codebook

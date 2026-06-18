@@ -19,8 +19,6 @@ year: 2020
 doi: https://doi.org/10.1108/itse-10-2019-0069
 openalex_id: W3011723033
 venue: Interactive Technology and Smart Education
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Experiential learning

@@ -21,8 +21,6 @@ year: 2022
 doi: https://doi.org/10.3390/rs14236081
 openalex_id: W4311050067
 venue: Remote Sensing
-pdf_url: https://www.mdpi.com/2072-4292/14/23/6081/pdf?version=1669970653
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

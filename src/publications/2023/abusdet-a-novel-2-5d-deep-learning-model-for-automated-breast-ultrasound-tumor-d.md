@@ -24,8 +24,6 @@ year: 2023
 doi: https://doi.org/10.1007/s10489-023-04785-0
 openalex_id: W4386001203
 venue: Applied Intelligence
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

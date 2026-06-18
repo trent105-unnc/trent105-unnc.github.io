@@ -20,8 +20,6 @@ year: 2020
 doi: https://doi.org/10.1007/978-3-030-63092-8_10
 openalex_id: W3096062420
 venue: Advances in intelligent systems and computing
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

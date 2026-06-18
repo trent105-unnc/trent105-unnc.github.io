@@ -19,8 +19,6 @@ year: 2021
 doi: https://doi.org/10.1016/j.jss.2021.111060
 openalex_id: W3195636639
 venue: Journal of Systems and Software
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Metamorphic rock

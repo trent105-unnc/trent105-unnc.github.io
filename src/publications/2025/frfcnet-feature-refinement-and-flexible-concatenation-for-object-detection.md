@@ -15,8 +15,6 @@ year: 2025
 doi: https://doi.org/10.1109/tmm.2025.3607701
 openalex_id: W4414165783
 venue: IEEE Transactions on Multimedia
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Upsampling

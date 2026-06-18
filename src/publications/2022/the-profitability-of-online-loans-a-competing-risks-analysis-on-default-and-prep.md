@@ -16,8 +16,6 @@ year: 2022
 doi: https://doi.org/10.1016/j.ejor.2022.08.013
 openalex_id: W4291377626
 venue: European Journal of Operational Research
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Prepayment of loan

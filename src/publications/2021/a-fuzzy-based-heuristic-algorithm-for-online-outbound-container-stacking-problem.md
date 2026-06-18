@@ -16,8 +16,6 @@ year: 2021
 doi: https://doi.org/10.1109/ssci50451.2021.9660070
 openalex_id: W4207014675
 venue: 2021 IEEE Symposium Series on Computational Intelligence (SSCI)
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Container (type theory)

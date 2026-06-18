@@ -21,8 +21,6 @@ year: 2016
 doi: https://doi.org/10.1109/issrew.2016.29
 openalex_id: W2567436526
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Cluster analysis

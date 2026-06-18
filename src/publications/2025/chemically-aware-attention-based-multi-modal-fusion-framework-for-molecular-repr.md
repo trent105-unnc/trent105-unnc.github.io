@@ -18,8 +18,6 @@ year: 2025
 doi: https://doi.org/10.1109/compsac65507.2025.00250
 openalex_id: W4413679442
 venue: 
-pdf_url: https://doi.org/10.1109/COMPSAC65507.2025.00250
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Modal

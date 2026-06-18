@@ -14,8 +14,6 @@ year: 2025
 doi: https://doi.org/10.1109/tale66047.2025.11346704
 openalex_id: W7125614317
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Data collection

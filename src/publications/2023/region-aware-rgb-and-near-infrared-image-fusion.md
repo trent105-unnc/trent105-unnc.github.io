@@ -21,8 +21,6 @@ year: 2023
 doi: https://doi.org/10.1016/j.patcog.2023.109717
 openalex_id: W4378418210
 venue: Pattern Recognition
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Artificial intelligence

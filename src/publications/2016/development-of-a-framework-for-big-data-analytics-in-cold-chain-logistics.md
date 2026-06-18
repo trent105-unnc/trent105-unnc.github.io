@@ -19,8 +19,6 @@ year: 2016
 doi: 
 openalex_id: W2510521224
 venue: VBN Forskningsportal (Aalborg Universitet)
-pdf_url: http://www.isl21.org/wp-content/uploads/2016/09/Final-proceeding-with-abstract-update-OCT-05.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Cold chain

@@ -17,8 +17,6 @@ year: 2008
 doi: https://doi.org/10.2139/ssrn.2137548
 openalex_id: W4238616413
 venue: SSRN Electronic Journal
-pdf_url: https://doi.org/10.2139/ssrn.2137548
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Combinatorics

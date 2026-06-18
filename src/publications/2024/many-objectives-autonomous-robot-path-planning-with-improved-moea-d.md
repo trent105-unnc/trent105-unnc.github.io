@@ -17,8 +17,6 @@ year: 2024
 doi: https://doi.org/10.1109/cec60901.2024.10612154
 openalex_id: W4401415964
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Motion planning

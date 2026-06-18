@@ -20,8 +20,6 @@ year: 2026
 doi: https://doi.org/10.1109/isbi61048.2026.11515341
 openalex_id: W4416354590
 venue: 
-pdf_url: https://arxiv.org/pdf/2511.12270
-abstract_page: 1
 abstract_screenshot: tm-unet-token-memory-enhanced-sequential-modeling-for-efficient-medical-image-se.png
 keywords:
   - Pooling

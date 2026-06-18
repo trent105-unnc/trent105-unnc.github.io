@@ -17,8 +17,6 @@ year: 2020
 doi: https://doi.org/10.1109/tc.2020.2997242
 openalex_id: W3028727627
 venue: IEEE Transactions on Computers
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

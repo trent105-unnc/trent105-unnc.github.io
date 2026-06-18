@@ -18,8 +18,6 @@ year: 2020
 doi: https://doi.org/10.1016/j.cor.2020.105182
 openalex_id: W3111102891
 venue: Computers & Operations Research
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Bundle

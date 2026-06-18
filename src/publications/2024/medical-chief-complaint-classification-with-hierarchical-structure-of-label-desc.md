@@ -16,8 +16,6 @@ year: 2024
 doi: https://doi.org/10.1016/j.eswa.2024.123938
 openalex_id: W4394566798
 venue: Expert Systems with Applications
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Complaint

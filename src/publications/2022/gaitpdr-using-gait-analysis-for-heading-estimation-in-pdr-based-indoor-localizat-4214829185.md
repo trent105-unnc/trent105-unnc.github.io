@@ -20,8 +20,6 @@ year: 2022
 doi: https://doi.org/10.2139/ssrn.4045876
 openalex_id: W4214829185
 venue: SSRN Electronic Journal
-pdf_url: https://doi.org/10.2139/ssrn.4045876
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Heading (navigation)

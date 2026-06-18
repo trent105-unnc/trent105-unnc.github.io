@@ -15,8 +15,6 @@ year: 2024
 doi: https://doi.org/10.2139/ssrn.4698434
 openalex_id: W4390935851
 venue: SSRN Electronic Journal
-pdf_url: http://dx.doi.org/10.2139/ssrn.4698434
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Machine learning

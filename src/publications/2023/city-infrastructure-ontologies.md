@@ -31,8 +31,6 @@ year: 2023
 doi: https://doi.org/10.1016/j.compenvurbsys.2023.101991
 openalex_id: W4379875542
 venue: Computers Environment and Urban Systems
-pdf_url: https://doi.org/10.1016/j.compenvurbsys.2023.101991
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Asset (computer security)

@@ -23,8 +23,6 @@ year: 2022
 doi: https://doi.org/10.3390/s22145424
 openalex_id: W4286208817
 venue: Sensors
-pdf_url: https://www.mdpi.com/1424-8220/22/14/5424/pdf?version=1658372622
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Hough transform

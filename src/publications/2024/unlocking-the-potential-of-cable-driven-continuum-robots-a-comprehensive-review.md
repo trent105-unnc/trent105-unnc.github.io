@@ -32,8 +32,6 @@ year: 2024
 doi: https://doi.org/10.3390/act13020052
 openalex_id: W4391384603
 venue: Actuators
-pdf_url: https://www.mdpi.com/2076-0825/13/2/52/pdf?version=1706694852
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Robot

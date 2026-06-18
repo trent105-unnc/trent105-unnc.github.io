@@ -20,8 +20,6 @@ year: 2025
 doi: https://doi.org/10.1504/ijmlo.2025.147207
 openalex_id: W4412602189
 venue: International Journal of Mobile Learning and Organisation
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Institution

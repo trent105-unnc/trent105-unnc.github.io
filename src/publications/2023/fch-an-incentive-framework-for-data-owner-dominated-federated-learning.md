@@ -15,8 +15,6 @@ year: 2023
 doi: https://doi.org/10.1016/j.jisa.2023.103521
 openalex_id: W4379745684
 venue: Journal of Information Security and Applications
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Incentive

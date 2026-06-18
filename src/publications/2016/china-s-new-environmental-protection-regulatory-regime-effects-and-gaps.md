@@ -15,8 +15,6 @@ year: 2016
 doi: https://doi.org/10.1016/j.jenvman.2016.11.009
 openalex_id: W2554809152
 venue: Journal of Environmental Management
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - China

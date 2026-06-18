@@ -19,8 +19,6 @@ year: 2023
 doi: https://doi.org/10.1109/icraic61978.2023.00077
 openalex_id: W4394712811
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

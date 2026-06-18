@@ -17,8 +17,6 @@ year: 2016
 doi: https://doi.org/10.1109/ssci.2016.7850081
 openalex_id: W2583867918
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Truck

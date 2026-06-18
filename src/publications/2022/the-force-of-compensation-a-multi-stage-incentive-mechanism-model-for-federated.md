@@ -16,8 +16,6 @@ year: 2022
 doi: https://doi.org/10.1007/978-3-031-23020-2_20
 openalex_id: W4312905226
 venue: Lecture notes in computer science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Incentive

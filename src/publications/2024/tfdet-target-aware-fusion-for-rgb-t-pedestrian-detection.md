@@ -23,8 +23,6 @@ year: 2024
 doi: https://doi.org/10.1109/tnnls.2024.3443455
 openalex_id: W4401806723
 venue: IEEE Transactions on Neural Networks and Learning Systems
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Pedestrian detection

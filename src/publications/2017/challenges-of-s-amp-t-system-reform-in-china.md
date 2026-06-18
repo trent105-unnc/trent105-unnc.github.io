@@ -11,8 +11,6 @@ year: 2017
 doi: https://doi.org/10.1126/science.aal2515
 openalex_id: W2598141673
 venue: Science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - China

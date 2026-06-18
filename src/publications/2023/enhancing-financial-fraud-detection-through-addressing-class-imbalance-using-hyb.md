@@ -14,8 +14,6 @@ year: 2023
 doi: https://doi.org/10.3390/ijfs11030110
 openalex_id: W4386461659
 venue: International Journal of Financial Studies
-pdf_url: https://www.mdpi.com/2227-7072/11/3/110/pdf?version=1693907398
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

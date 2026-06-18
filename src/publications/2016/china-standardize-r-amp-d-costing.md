@@ -11,8 +11,6 @@ year: 2016
 doi: https://doi.org/10.1038/536030b
 openalex_id: W2498467682
 venue: Nature
-pdf_url: https://www.nature.com/articles/536030b.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - China

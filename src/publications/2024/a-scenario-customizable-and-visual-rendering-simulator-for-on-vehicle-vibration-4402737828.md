@@ -26,8 +26,6 @@ year: 2024
 doi: https://doi.org/10.1016/j.suscom.2024.101039
 openalex_id: W4402737828
 venue: Sustainable Computing Informatics and Systems
-pdf_url: https://doi.org/10.1016/j.suscom.2024.101039
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

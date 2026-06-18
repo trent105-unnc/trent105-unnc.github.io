@@ -14,8 +14,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.asoc.2025.113282
 openalex_id: W4410932145
 venue: Applied Soft Computing
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Metaheuristic

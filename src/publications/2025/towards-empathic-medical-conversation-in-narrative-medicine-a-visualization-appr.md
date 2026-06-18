@@ -28,8 +28,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.ijhcs.2025.103506
 openalex_id: W4408919807
 venue: International Journal of Human-Computer Studies
-pdf_url: https://doi.org/10.1016/j.ijhcs.2025.103506
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Conversation

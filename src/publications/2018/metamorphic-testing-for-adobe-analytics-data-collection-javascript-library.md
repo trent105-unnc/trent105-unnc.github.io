@@ -15,8 +15,6 @@ year: 2018
 doi: https://doi.org/10.1145/3193977.3193979
 openalex_id: W2810247445
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

@@ -16,8 +16,6 @@ year: 2016
 doi: https://doi.org/10.1007/s11192-016-2062-7
 openalex_id: W3123833861
 venue: Scientometrics
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Diversification (marketing strategy)

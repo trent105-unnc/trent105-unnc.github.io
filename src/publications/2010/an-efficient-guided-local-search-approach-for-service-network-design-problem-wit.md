@@ -14,8 +14,6 @@ year: 2010
 doi: https://doi.org/10.1109/iclsim.2010.5461456
 openalex_id: W2085220248
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

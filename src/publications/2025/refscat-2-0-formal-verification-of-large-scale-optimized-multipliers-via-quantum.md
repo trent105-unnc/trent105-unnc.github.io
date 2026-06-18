@@ -20,8 +20,6 @@ year: 2025
 doi: https://doi.org/10.1109/tcad.2025.3567883
 openalex_id: W4410153258
 venue: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Ant colony optimization algorithms

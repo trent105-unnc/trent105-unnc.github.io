@@ -18,8 +18,6 @@ year: 2025
 doi: https://doi.org/10.1109/jiot.2025.3531145
 openalex_id: W4406521384
 venue: IEEE Internet of Things Journal
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Modal

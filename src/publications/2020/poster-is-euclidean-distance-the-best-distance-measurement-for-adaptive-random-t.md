@@ -16,8 +16,6 @@ year: 2020
 doi: https://doi.org/10.1109/icst46399.2020.00049
 openalex_id: W3048108174
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Euclidean distance

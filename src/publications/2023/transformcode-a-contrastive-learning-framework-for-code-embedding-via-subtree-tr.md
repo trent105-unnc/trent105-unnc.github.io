@@ -18,8 +18,6 @@ year: 2023
 doi: https://doi.org/10.48550/arxiv.2311.08157
 openalex_id: W4388717259
 venue: arXiv (Cornell University)
-pdf_url: https://arxiv.org/pdf/2311.08157
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

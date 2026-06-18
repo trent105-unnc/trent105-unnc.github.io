@@ -24,8 +24,6 @@ year: 2026
 doi: https://doi.org/10.2139/ssrn.6661886
 openalex_id: W7156286400
 venue: SSRN Electronic Journal
-pdf_url: https://doi.org/10.2139/ssrn.6661886
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Software deployment

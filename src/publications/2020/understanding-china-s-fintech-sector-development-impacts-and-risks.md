@@ -11,8 +11,6 @@ year: 2020
 doi: https://doi.org/10.1080/1351847x.2020.1811131
 openalex_id: W3081742869
 venue: European Journal of Finance
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Financial inclusion

@@ -14,8 +14,6 @@ year: 2023
 doi: https://doi.org/10.46855/energy-proceedings-10502
 openalex_id: W4383616516
 venue: 
-pdf_url: https://www.energy-proceedings.org/wp-content/uploads/cen2023/1683526076.pdf
-abstract_page: 1
 abstract_screenshot: spot-electricity-market-bidding-strategy-optimization-based-on-risk-analysis-wit.png
 keywords:
   - Bidding

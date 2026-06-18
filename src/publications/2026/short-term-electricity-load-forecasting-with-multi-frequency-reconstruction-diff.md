@@ -20,8 +20,6 @@ year: 2026
 doi: https://doi.org/10.1016/j.ins.2026.123331
 openalex_id: W7133325328
 venue: Information Sciences
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Noise (video)

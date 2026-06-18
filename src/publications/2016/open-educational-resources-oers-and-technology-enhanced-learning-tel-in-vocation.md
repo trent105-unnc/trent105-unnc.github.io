@@ -14,8 +14,6 @@ year: 2016
 doi: https://doi.org/10.1109/tale.2016.7851808
 openalex_id: W2588483206
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Vocational education

@@ -14,8 +14,6 @@ year: 2018
 doi: 
 openalex_id: W3124592780
 venue: SSRN Electronic Journal
-pdf_url: https://autopapers.ssrn.com/sol3/papers.cfm?abstract_id=3297347
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Foreign exchange risk

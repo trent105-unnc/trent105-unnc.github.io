@@ -24,8 +24,6 @@ year: 2026
 doi: https://doi.org/10.2139/ssrn.6142509
 openalex_id: W7125947159
 venue: SSRN Electronic Journal
-pdf_url: https://doi.org/10.2139/ssrn.6142509
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Photovoltaic system

@@ -19,8 +19,6 @@ year: 2018
 doi: https://doi.org/10.1145/3193977.3193978
 openalex_id: W2810071081
 venue: 
-pdf_url: https://nottingham-repository.worktribe.com/output/986144
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Metamorphic rock

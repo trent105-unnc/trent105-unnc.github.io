@@ -13,8 +13,6 @@ year: 2023
 doi: https://doi.org/10.1007/s11192-023-04830-2
 openalex_id: W4387424992
 venue: Scientometrics
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Identity (music)

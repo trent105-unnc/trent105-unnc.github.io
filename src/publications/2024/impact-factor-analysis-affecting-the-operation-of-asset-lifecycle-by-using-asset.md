@@ -18,8 +18,6 @@ year: 2024
 doi: https://doi.org/10.1108/ci-10-2022-0272
 openalex_id: W4391439434
 venue: Construction Innovation
-pdf_url: https://nottingham-repository.worktribe.com/output/31452903
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Blockchain

@@ -37,8 +37,6 @@ year: 2018
 doi: https://doi.org/10.1002/biot.201800195
 openalex_id: W2804697235
 venue: Biotechnology Journal
-pdf_url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/biot.201800195
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computational biology

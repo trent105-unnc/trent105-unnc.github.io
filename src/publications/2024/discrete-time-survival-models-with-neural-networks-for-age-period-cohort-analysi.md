@@ -16,8 +16,6 @@ year: 2024
 doi: https://doi.org/10.3390/risks12020031
 openalex_id: W4391542532
 venue: Risks
-pdf_url: https://www.mdpi.com/2227-9091/12/2/31/pdf?version=1706950309
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Period (music)

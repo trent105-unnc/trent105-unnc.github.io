@@ -11,8 +11,6 @@ year: 2022
 doi: https://doi.org/10.2139/ssrn.4059039
 openalex_id: W4226138002
 venue: SSRN Electronic Journal
-pdf_url: https://doi.org/10.2139/ssrn.4059039
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - China

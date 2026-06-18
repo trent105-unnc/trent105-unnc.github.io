@@ -21,8 +21,6 @@ year: 2026
 doi: https://doi.org/10.1016/j.ejor.2026.04.017
 openalex_id: W7154067878
 venue: European Journal of Operational Research
-pdf_url: https://doi.org/10.1016/j.ejor.2026.04.017
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Vehicle routing problem

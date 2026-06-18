@@ -26,8 +26,6 @@ year: 2024
 doi: https://doi.org/10.1109/ijcnn60899.2024.10651491
 openalex_id: W4402352370
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Reinforcement learning

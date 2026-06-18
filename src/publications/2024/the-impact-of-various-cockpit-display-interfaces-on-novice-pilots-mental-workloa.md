@@ -16,8 +16,6 @@ year: 2024
 doi: https://doi.org/10.3390/s24092835
 openalex_id: W4396218768
 venue: Sensors
-pdf_url: https://www.mdpi.com/1424-8220/24/9/2835/pdf?version=1714396514
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Cockpit

@@ -16,8 +16,6 @@ year: 2020
 doi: https://doi.org/10.1007/s11948-020-00265-7
 openalex_id: W3089552541
 venue: Science and Engineering Ethics
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Regression discontinuity design

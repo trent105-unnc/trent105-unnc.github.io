@@ -26,8 +26,6 @@ year: 2024
 doi: https://doi.org/10.1109/thms.2024.3452975
 openalex_id: W4403123013
 venue: IEEE Transactions on Human-Machine Systems
-pdf_url: https://doi.org/10.1109/thms.2024.3452975
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Robot

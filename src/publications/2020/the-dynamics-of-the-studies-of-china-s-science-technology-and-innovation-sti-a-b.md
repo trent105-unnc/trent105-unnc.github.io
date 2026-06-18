@@ -12,8 +12,6 @@ year: 2020
 doi: https://doi.org/10.1007/s11192-020-03500-x
 openalex_id: W3024230557
 venue: Scientometrics
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - China

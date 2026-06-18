@@ -18,8 +18,6 @@ year: 2022
 doi: https://doi.org/10.1109/compsac54236.2022.00274
 openalex_id: W4301822605
 venue: 2022 IEEE 46th Annual Computers, Software, and Applications Conference (COMPSAC)
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Oracle

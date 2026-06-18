@@ -18,8 +18,6 @@ year: 2023
 doi: https://doi.org/10.1109/icpeca56706.2023.10075997
 openalex_id: W4361862453
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Feature extraction

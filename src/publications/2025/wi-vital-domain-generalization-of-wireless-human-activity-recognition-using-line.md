@@ -20,8 +20,6 @@ year: 2025
 doi: https://doi.org/10.1109/tmc.2025.3632752
 openalex_id: W4416214671
 venue: IEEE Transactions on Mobile Computing
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Adversarial system

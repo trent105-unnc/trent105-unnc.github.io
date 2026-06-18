@@ -16,8 +16,6 @@ year: 2015
 doi: https://doi.org/10.1016/j.trb.2015.06.002
 openalex_id: W1924535508
 venue: Transportation Research Part B Methodological
-pdf_url: http://www.sciencedirect.com/science/article/pii/S019126151500123X
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Container (type theory)

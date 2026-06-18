@@ -14,8 +14,6 @@ year: 2024
 doi: https://doi.org/10.1145/3696409.3700291
 openalex_id: W4405867860
 venue: 
-pdf_url: https://dl.acm.org/doi/pdf/10.1145/3696409.3700291?download=true
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

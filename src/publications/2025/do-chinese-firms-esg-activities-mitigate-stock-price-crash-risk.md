@@ -13,8 +13,6 @@ year: 2025
 doi: https://doi.org/10.1111/eufm.70018
 openalex_id: W4414269854
 venue: European Financial Management
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Corporate governance

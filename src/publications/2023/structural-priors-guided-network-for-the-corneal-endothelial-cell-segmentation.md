@@ -21,8 +21,6 @@ year: 2023
 doi: https://doi.org/10.1109/tmi.2023.3300656
 openalex_id: W4385453390
 venue: IEEE Transactions on Medical Imaging
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Artificial intelligence

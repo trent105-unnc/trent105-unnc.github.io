@@ -13,8 +13,6 @@ year: 2022
 doi: https://doi.org/10.1109/tcad.2022.3198246
 openalex_id: W4291910419
 venue: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Dataflow

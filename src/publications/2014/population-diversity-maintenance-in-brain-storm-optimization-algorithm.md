@@ -17,8 +17,6 @@ year: 2014
 doi: https://doi.org/10.1515/jaiscr-2015-0001
 openalex_id: W95170009
 venue: Journal of Artificial Intelligence and Soft Computing Research
-pdf_url: https://www.sciendo.com/pdf/10.1515/jaiscr-2015-0001
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Premature convergence

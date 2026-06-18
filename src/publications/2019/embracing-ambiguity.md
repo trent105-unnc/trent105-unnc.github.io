@@ -13,8 +13,6 @@ year: 2019
 doi: https://doi.org/10.1108/itse-10-2018-0088
 openalex_id: W2920819413
 venue: Interactive Technology and Smart Education
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Vocational education

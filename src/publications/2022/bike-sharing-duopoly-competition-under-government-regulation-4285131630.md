@@ -17,8 +17,6 @@ year: 2022
 doi: https://doi.org/10.2139/ssrn.4098790
 openalex_id: W4285131630
 venue: SSRN Electronic Journal
-pdf_url: https://doi.org/10.2139/ssrn.4098790
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Duopoly

@@ -20,8 +20,6 @@ year: 2024
 doi: https://doi.org/10.1109/tcad.2024.3442987
 openalex_id: W4401537203
 venue: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Multiplier (economics)

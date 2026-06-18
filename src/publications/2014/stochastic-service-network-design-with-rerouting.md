@@ -15,8 +15,6 @@ year: 2014
 doi: https://doi.org/10.1016/j.trb.2013.11.001
 openalex_id: W2145507194
 venue: Transportation Research Part B Methodological
-pdf_url: https://nottingham-repository.worktribe.com/output/722628
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Flexibility (engineering)

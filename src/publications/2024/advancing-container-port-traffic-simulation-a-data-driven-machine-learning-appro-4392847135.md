@@ -18,8 +18,6 @@ year: 2024
 doi: https://doi.org/10.2139/ssrn.4760182
 openalex_id: W4392847135
 venue: SSRN Electronic Journal
-pdf_url: http://dx.doi.org/10.2139/ssrn.4760182
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Container (type theory)

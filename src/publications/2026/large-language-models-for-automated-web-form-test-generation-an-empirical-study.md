@@ -18,8 +18,6 @@ year: 2026
 doi: https://doi.org/10.1145/3797275
 openalex_id: W7128771428
 venue: ACM Transactions on Software Engineering and Methodology
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Empirical research

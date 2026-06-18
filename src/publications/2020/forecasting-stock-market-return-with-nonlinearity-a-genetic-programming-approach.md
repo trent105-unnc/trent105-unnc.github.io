@@ -16,8 +16,6 @@ year: 2020
 doi: https://doi.org/10.1007/s12652-020-01762-0
 openalex_id: W3006224871
 venue: Journal of Ambient Intelligence and Humanized Computing
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Genetic programming

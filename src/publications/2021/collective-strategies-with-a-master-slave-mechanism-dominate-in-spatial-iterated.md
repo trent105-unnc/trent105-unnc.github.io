@@ -16,8 +16,6 @@ year: 2021
 doi: https://doi.org/10.4018/ijsir.2021100103
 openalex_id: W3205979349
 venue: International Journal of Swarm Intelligence Research
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Prisoner's dilemma

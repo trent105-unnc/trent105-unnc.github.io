@@ -16,8 +16,6 @@ year: 2026
 doi: https://doi.org/10.2139/ssrn.6550148
 openalex_id: W7152626815
 venue: SSRN Electronic Journal
-pdf_url: https://doi.org/10.2139/ssrn.6550148
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Spillover effect

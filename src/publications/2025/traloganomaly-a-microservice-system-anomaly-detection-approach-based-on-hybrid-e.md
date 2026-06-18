@@ -18,8 +18,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.scico.2025.103303
 openalex_id: W4408890738
 venue: Science of Computer Programming
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

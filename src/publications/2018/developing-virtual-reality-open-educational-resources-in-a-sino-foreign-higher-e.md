@@ -18,8 +18,6 @@ year: 2018
 doi: https://doi.org/10.1109/tale.2018.8615167
 openalex_id: W2910866194
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Open educational resources

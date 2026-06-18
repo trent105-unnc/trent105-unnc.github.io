@@ -16,8 +16,6 @@ year: 2024
 doi: https://doi.org/10.20944/preprints202401.0040.v1
 openalex_id: W4390561495
 venue: Preprints.org
-pdf_url: https://www.preprints.org/manuscript/202401.0040/v1/download
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Interpretability

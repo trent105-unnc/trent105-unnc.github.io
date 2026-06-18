@@ -16,8 +16,6 @@ year: 2019
 doi: https://doi.org/10.1051/ro/2019080
 openalex_id: W2970726627
 venue: RAIRO - Operations Research
-pdf_url: https://nottingham-repository.worktribe.com/output/3440518
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Reinforcement learning

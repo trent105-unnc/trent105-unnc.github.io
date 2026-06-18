@@ -26,8 +26,6 @@ year: 2025
 doi: https://doi.org/10.1080/01605682.2025.2450060
 openalex_id: W4406544760
 venue: Journal of the Operational Research Society
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Oversampling

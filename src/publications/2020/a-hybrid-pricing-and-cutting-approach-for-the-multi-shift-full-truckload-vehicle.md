@@ -16,8 +16,6 @@ year: 2020
 doi: https://doi.org/10.1016/j.ejor.2020.10.037
 openalex_id: W3097643400
 venue: European Journal of Operational Research
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Metaheuristic

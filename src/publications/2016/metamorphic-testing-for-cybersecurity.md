@@ -21,8 +21,6 @@ year: 2016
 doi: https://doi.org/10.1109/mc.2016.176
 openalex_id: W2428841090
 venue: Computer
-pdf_url: http://eprints.nottingham.ac.uk/51788/
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

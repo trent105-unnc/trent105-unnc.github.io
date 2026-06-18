@@ -15,8 +15,6 @@ year: 2020
 doi: https://doi.org/10.48550/arxiv.2011.09890
 openalex_id: W2786787220
 venue: arXiv (Cornell University)
-pdf_url: https://arxiv.org/pdf/2011.09890
-abstract_page: 1
 abstract_screenshot: fuzzy-c-means-based-scenario-bundling-for-stochastic-service-network-design.png
 keywords:
   - Bundle

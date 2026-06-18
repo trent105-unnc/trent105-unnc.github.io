@@ -13,8 +13,6 @@ year: 2018
 doi: https://doi.org/10.1109/compsac.2018.10345
 openalex_id: W2808848181
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Traceability

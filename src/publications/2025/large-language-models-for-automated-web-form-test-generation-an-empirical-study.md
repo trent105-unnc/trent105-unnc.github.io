@@ -18,8 +18,6 @@ year: 2025
 doi: https://doi.org/10.1145/3735553
 openalex_id: W4410344404
 venue: ACM Transactions on Software Engineering and Methodology
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

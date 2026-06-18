@@ -20,8 +20,6 @@ year: 2017
 doi: https://doi.org/10.1016/j.jss.2017.10.030
 openalex_id: W2767168670
 venue: Journal of Systems and Software
-pdf_url: https://nottingham-repository.worktribe.com/output/908021
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Business Process Execution Language

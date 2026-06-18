@@ -24,8 +24,6 @@ year: 2026
 doi: https://doi.org/10.1109/vr67842.2026.00063
 openalex_id: W7148402224
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Differential effects

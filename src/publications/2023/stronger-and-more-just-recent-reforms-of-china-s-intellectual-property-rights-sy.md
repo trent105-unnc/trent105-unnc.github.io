@@ -14,8 +14,6 @@ year: 2023
 doi: https://doi.org/10.1108/apjie-04-2023-0081
 openalex_id: W4389765682
 venue: Asia Pacific Journal of Innovation and Entrepreneurship
-pdf_url: https://www.emerald.com/insight/content/doi/10.1108/APJIE-04-2023-0081/full/pdf?title=stronger-and-more-just-recent-reforms-of-chinas-intellectual-property-rights-system-and-their-implications
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Intellectual property

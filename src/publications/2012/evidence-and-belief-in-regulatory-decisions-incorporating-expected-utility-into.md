@@ -22,8 +22,6 @@ year: 2012
 doi: https://doi.org/10.1016/j.eswa.2012.01.193
 openalex_id: W2140442648
 venue: Expert Systems with Applications
-pdf_url: https://doi.org/10.1016/j.eswa.2012.01.193
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Underpinning

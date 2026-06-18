@@ -19,8 +19,6 @@ year: 2023
 doi: https://doi.org/10.24963/ijcai.2023/11
 openalex_id: W4385764878
 venue: 
-pdf_url: https://www.ijcai.org/proceedings/2023/0011.pdf
-abstract_page: 1
 abstract_screenshot: multi-agent-intention-recognition-and-progression.png
 keywords:
   - Computer science

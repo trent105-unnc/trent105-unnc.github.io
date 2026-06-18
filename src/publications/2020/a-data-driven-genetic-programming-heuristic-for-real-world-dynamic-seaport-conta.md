@@ -18,8 +18,6 @@ year: 2020
 doi: https://doi.org/10.1109/cec48606.2020.9185659
 openalex_id: W3083176092
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Container (type theory)

@@ -24,8 +24,6 @@ year: 2022
 doi: https://doi.org/10.1109/tmrb.2022.3190211
 openalex_id: W4285131102
 venue: IEEE Transactions on Medical Robotics and Bionics
-pdf_url: https://ieeexplore.ieee.org/ielx7/8253409/9860275/09826836.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Psychological intervention

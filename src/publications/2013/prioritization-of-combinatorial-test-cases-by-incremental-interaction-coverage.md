@@ -19,8 +19,6 @@ year: 2013
 doi: https://doi.org/10.1142/s0218194013500459
 openalex_id: W2037169161
 venue: International Journal of Software Engineering and Knowledge Engineering
-pdf_url: http://eprints.nottingham.ac.uk/51844/
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Prioritization

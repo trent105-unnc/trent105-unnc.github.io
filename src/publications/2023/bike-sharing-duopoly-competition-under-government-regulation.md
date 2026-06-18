@@ -17,8 +17,6 @@ year: 2023
 doi: https://doi.org/10.1016/j.apenergy.2023.121121
 openalex_id: W4375953021
 venue: Applied Energy
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Duopoly

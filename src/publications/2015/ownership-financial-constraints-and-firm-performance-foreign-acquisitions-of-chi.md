@@ -12,8 +12,6 @@ year: 2015
 doi: https://doi.org/10.1057/9781137454638_5
 openalex_id: W2505885068
 venue: Palgrave Macmillan UK eBooks
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - China

@@ -16,8 +16,6 @@ year: 2019
 doi: https://doi.org/10.1109/compsac.2019.00123
 openalex_id: W2956430636
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

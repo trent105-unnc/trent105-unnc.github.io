@@ -24,8 +24,6 @@ year: 2017
 doi: https://doi.org/10.1109/compsac.2017.281
 openalex_id: W2756156830
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Open educational resources

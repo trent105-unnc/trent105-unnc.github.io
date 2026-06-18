@@ -14,8 +14,6 @@ year: 2024
 doi: https://doi.org/10.2139/ssrn.4873729
 openalex_id: W4399913916
 venue: SSRN Electronic Journal
-pdf_url: http://dx.doi.org/10.2139/ssrn.4873729
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Agency (philosophy)

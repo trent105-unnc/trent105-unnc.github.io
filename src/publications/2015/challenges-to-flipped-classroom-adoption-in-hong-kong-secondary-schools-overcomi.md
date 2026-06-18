@@ -14,8 +14,6 @@ year: 2015
 doi: https://doi.org/10.1109/tale.2015.7386025
 openalex_id: W2242675383
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Order (exchange)

@@ -15,8 +15,6 @@ year: 2024
 doi: https://doi.org/10.1016/j.trd.2024.104227
 openalex_id: W4397030341
 venue: Transportation Research Part D Transport and Environment
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Control (management)

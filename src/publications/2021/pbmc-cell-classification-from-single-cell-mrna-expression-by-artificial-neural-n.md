@@ -26,8 +26,6 @@ year: 2021
 doi: https://doi.org/10.1109/bibm52615.2021.9669826
 openalex_id: W4205292020
 venue: 2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Cell type

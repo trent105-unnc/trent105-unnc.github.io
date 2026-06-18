@@ -10,8 +10,6 @@ year: 2015
 doi: https://doi.org/10.2139/ssrn.2558342
 openalex_id: W296951277
 venue: SSRN Electronic Journal
-pdf_url: https://doi.org/10.2139/ssrn.2558342
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - China

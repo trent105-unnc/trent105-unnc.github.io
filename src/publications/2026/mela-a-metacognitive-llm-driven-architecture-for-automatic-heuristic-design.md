@@ -15,8 +15,6 @@ year: 2026
 doi: https://doi.org/10.1016/j.eswa.2026.133022
 openalex_id: W4417270352
 venue: Expert Systems with Applications
-pdf_url: https://doi.org/10.1016/j.eswa.2026.133022
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Metacognition

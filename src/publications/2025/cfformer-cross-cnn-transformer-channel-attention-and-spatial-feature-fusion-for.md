@@ -24,8 +24,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.eswa.2025.128835
 openalex_id: W4411920948
 venue: Expert Systems with Applications
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

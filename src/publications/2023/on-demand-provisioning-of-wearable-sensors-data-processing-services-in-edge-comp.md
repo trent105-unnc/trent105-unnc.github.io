@@ -18,8 +18,6 @@ year: 2023
 doi: https://doi.org/10.1109/sensors56945.2023.10325028
 openalex_id: W4389101786
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Wearable computer

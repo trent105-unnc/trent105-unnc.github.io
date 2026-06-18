@@ -16,8 +16,6 @@ year: 2024
 doi: https://doi.org/10.1016/j.patcog.2024.111151
 openalex_id: W4404171653
 venue: Pattern Recognition
-pdf_url: https://doi.org/10.1016/j.patcog.2024.111151
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Stage (stratigraphy)

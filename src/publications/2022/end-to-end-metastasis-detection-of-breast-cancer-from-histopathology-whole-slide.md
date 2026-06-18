@@ -16,8 +16,6 @@ year: 2022
 doi: https://doi.org/10.1016/j.compmedimag.2022.102136
 openalex_id: W4306181160
 venue: Computerized Medical Imaging and Graphics
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

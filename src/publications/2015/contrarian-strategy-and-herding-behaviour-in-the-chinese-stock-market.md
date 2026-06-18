@@ -13,8 +13,6 @@ year: 2015
 doi: https://doi.org/10.1080/1351847x.2015.1071715
 openalex_id: W2192362082
 venue: European Journal of Finance
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Contrarian

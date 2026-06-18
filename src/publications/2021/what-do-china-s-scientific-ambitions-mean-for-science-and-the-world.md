@@ -17,8 +17,6 @@ year: 2021
 doi: 
 openalex_id: W3161708369
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - China

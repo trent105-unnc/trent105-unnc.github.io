@@ -18,8 +18,6 @@ year: 2024
 doi: https://doi.org/10.1111/1467-8551.12883
 openalex_id: W4404869746
 venue: British Journal of Management
-pdf_url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-8551.12883
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Value (mathematics)

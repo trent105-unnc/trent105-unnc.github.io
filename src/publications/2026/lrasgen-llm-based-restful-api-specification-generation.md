@@ -19,8 +19,6 @@ year: 2026
 doi: https://doi.org/10.1145/3810241
 openalex_id: W4415067287
 venue: ACM Transactions on Software Engineering and Methodology
-pdf_url: https://arxiv.org/pdf/2504.16833
-abstract_page: 1
 abstract_screenshot: lrasgen-llm-based-restful-api-specification-generation.png
 keywords:
   - Representational state transfer

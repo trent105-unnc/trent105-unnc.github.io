@@ -19,8 +19,6 @@ year: 2025
 doi: https://doi.org/10.1109/vrw66409.2025.00473
 openalex_id: W4409761373
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Sarcopenia

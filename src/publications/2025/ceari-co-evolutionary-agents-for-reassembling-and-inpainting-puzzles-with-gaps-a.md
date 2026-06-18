@@ -24,8 +24,6 @@ year: 2025
 doi: https://doi.org/10.1145/3746027.3754695
 openalex_id: W4415535492
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Inpainting

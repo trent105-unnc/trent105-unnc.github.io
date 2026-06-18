@@ -16,8 +16,6 @@ year: 2016
 doi: https://doi.org/10.1007/s10479-016-2332-z
 openalex_id: W2525572631
 venue: Annals of Operations Research
-pdf_url: http://eprints.nottingham.ac.uk/48341/
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

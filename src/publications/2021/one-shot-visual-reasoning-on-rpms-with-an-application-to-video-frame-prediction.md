@@ -13,8 +13,6 @@ year: 2021
 doi: 
 openalex_id: W3215779649
 venue: arXiv (Cornell University)
-pdf_url: http://export.arxiv.org/pdf/2111.12301
-abstract_page: 1
 abstract_screenshot: one-shot-visual-reasoning-on-rpms-with-an-application-to-video-frame-prediction.png
 keywords:
   - Visual reasoning

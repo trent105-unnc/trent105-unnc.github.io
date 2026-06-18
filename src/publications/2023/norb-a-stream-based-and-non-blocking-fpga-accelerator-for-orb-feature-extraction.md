@@ -18,8 +18,6 @@ year: 2023
 doi: https://doi.org/10.1109/icecs58634.2023.10382726
 openalex_id: W4390693433
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Orb (optics)

@@ -43,8 +43,6 @@ year: 2019
 doi: https://doi.org/10.1109/met.2019.00007
 openalex_id: W4234266282
 venue: 
-pdf_url: https://ieeexplore.ieee.org/ielx7/8778445/8785437/08785480.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

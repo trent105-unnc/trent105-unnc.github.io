@@ -15,8 +15,6 @@ year: 2022
 doi: https://doi.org/10.1016/j.trc.2021.103527
 openalex_id: W4206276011
 venue: Transportation Research Part C Emerging Technologies
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Incentive

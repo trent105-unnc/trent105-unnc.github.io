@@ -11,8 +11,6 @@ year: 2016
 doi: https://doi.org/10.1109/icmla.2016.0182
 openalex_id: W2583437448
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Gradient boosting

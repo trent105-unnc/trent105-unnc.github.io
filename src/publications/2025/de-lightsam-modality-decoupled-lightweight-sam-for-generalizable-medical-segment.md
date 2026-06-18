@@ -28,8 +28,6 @@ year: 2025
 doi: https://doi.org/10.1109/tcsvt.2025.3621309
 openalex_id: W4415178648
 venue: IEEE Transactions on Circuits and Systems for Video Technology
-pdf_url: https://nottingham-repository.worktribe.com/preview/55410012/TCSVT25.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Segmentation

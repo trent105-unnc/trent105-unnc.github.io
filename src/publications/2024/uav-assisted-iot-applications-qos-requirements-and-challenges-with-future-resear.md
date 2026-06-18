@@ -22,8 +22,6 @@ year: 2024
 doi: https://doi.org/10.1145/3657287
 openalex_id: W4394678608
 venue: ACM Computing Surveys
-pdf_url: https://dl.acm.org/doi/pdf/10.1145/3657287
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

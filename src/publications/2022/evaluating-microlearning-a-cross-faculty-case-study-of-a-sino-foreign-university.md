@@ -22,8 +22,6 @@ year: 2022
 doi: https://doi.org/10.1007/978-3-030-92979-4_4
 openalex_id: W4312923204
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Mathematics education

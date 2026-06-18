@@ -17,8 +17,6 @@ year: 2022
 doi: https://doi.org/10.1007/978-3-030-98404-5_12
 openalex_id: W4226050858
 venue: Lecture notes in computer science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Wearable computer

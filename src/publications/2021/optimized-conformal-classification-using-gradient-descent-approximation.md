@@ -9,8 +9,6 @@ year: 2021
 doi: https://doi.org/10.48550/arxiv.2105.11255
 openalex_id: W3165860726
 venue: arXiv (Cornell University)
-pdf_url: https://arxiv.org/pdf/2105.11255
-abstract_page: 1
 abstract_screenshot: optimized-conformal-classification-using-gradient-descent-approximation.png
 keywords:
   - Conformal map

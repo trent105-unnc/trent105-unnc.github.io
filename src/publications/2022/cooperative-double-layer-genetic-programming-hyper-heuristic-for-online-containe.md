@@ -16,8 +16,6 @@ year: 2022
 doi: https://doi.org/10.1109/tevc.2022.3209985
 openalex_id: W4312994607
 venue: IEEE Transactions on Evolutionary Computation
-pdf_url: https://nottingham-repository.worktribe.com/output/11756174
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Container (type theory)

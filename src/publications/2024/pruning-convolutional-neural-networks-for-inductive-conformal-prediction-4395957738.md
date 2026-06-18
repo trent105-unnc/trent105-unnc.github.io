@@ -13,8 +13,6 @@ year: 2024
 doi: https://doi.org/10.2139/ssrn.4810047
 openalex_id: W4395957738
 venue: SSRN Electronic Journal
-pdf_url: http://dx.doi.org/10.2139/ssrn.4810047
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Pruning

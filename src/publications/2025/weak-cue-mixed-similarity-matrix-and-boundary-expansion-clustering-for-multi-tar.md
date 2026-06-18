@@ -22,8 +22,6 @@ year: 2025
 doi: https://doi.org/10.3390/electronics14091896
 openalex_id: W4410160240
 venue: Electronics
-pdf_url: https://www.mdpi.com/2079-9292/14/9/1896/pdf?version=1746611510
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Cluster analysis

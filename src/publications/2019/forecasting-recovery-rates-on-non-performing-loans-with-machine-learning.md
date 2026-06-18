@@ -15,8 +15,6 @@ year: 2019
 doi: https://doi.org/10.2139/ssrn.3434412
 openalex_id: W3121677345
 venue: SSRN Electronic Journal
-pdf_url: https://doi.org/10.2139/ssrn.3434412
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

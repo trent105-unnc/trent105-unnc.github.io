@@ -13,8 +13,6 @@ year: 2022
 doi: https://doi.org/10.1007/s42979-022-01341-4
 openalex_id: W4289711801
 venue: SN Computer Science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Sign language

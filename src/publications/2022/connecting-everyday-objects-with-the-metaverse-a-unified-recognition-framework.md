@@ -15,8 +15,6 @@ year: 2022
 doi: https://doi.org/10.1109/compsac54236.2022.00063
 openalex_id: W4292230762
 venue: 2022 IEEE 46th Annual Computers, Software, and Applications Conference (COMPSAC)
-pdf_url: https://arxiv.org/pdf/2309.06444
-abstract_page: 1
 abstract_screenshot: connecting-everyday-objects-with-the-metaverse-a-unified-recognition-framework.png
 keywords:
   - Computer science

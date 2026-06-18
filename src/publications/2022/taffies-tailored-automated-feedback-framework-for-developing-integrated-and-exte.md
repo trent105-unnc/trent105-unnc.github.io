@@ -14,8 +14,6 @@ year: 2022
 doi: https://doi.org/10.1007/s42979-022-01034-y
 openalex_id: W4211154882
 venue: SN Computer Science
-pdf_url: https://link.springer.com/content/pdf/10.1007/s42979-022-01034-y.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Formative assessment

@@ -14,8 +14,6 @@ year: 2018
 doi: https://doi.org/10.1177/0148558x18781144
 openalex_id: W2811125835
 venue: Journal of Accounting Auditing & Finance
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Foreign exchange risk

@@ -23,8 +23,6 @@ year: 2021
 doi: https://doi.org/10.1101/2021.07.29.454293
 openalex_id: W3189741360
 venue: bioRxiv (Cold Spring Harbor Laboratory)
-pdf_url: https://www.biorxiv.org/content/biorxiv/early/2021/11/06/2021.07.29.454293.full.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Artificial intelligence

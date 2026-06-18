@@ -22,8 +22,6 @@ year: 2019
 doi: https://doi.org/10.1109/cec.2019.8790326
 openalex_id: W2968468170
 venue: 
-pdf_url: http://hdl.handle.net/11343/239236
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

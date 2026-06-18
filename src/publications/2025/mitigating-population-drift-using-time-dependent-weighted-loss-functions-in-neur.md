@@ -14,8 +14,6 @@ year: 2025
 doi: https://doi.org/10.2139/ssrn.5379150
 openalex_id: W4412947951
 venue: SSRN Electronic Journal
-pdf_url: https://doi.org/10.2139/ssrn.5379150
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Artificial neural network

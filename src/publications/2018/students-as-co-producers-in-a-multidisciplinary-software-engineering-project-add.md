@@ -20,8 +20,6 @@ year: 2018
 doi: https://doi.org/10.1080/13540602.2018.1486295
 openalex_id: W2809559844
 venue: Teachers and Teaching
-pdf_url: https://doi.org/10.1080/13540602.2018.1486295
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Multidisciplinary approach

@@ -17,8 +17,6 @@ year: 2014
 doi: https://doi.org/10.1080/00207233.2014.942150
 openalex_id: W2032514723
 venue: International Journal of Environmental Studies
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Automotive industry

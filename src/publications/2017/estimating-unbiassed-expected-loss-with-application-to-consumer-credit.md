@@ -9,8 +9,6 @@ year: 2017
 doi: https://doi.org/10.2139/ssrn.2916145
 openalex_id: W2605579136
 venue: SSRN Electronic Journal
-pdf_url: https://doi.org/10.2139/ssrn.2916145
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Business

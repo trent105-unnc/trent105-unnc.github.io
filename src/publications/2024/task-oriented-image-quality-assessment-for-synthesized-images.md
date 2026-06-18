@@ -17,8 +17,6 @@ year: 2024
 doi: https://doi.org/10.1007/978-3-031-78389-0_10
 openalex_id: W4404995133
 venue: Lecture notes in computer science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

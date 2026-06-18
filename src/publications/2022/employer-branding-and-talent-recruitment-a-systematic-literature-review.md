@@ -13,8 +13,6 @@ year: 2022
 doi: https://doi.org/10.5465/ambpp.2022.16148abstract
 openalex_id: W4286665241
 venue: Academy of Management Proceedings
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Employer branding

@@ -18,8 +18,6 @@ year: 2023
 doi: https://doi.org/10.1109/isbi53787.2023.10230436
 openalex_id: W4386362621
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Microscope

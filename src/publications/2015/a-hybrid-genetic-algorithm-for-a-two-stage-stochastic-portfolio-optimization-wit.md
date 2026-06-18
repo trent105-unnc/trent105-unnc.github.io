@@ -20,8 +20,6 @@ year: 2015
 doi: https://doi.org/10.1109/cec.2015.7257198
 openalex_id: W1518456858
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Solver

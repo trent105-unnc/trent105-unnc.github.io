@@ -16,8 +16,6 @@ year: 2025
 doi: https://doi.org/10.1145/3712256.3726359
 openalex_id: W4412106342
 venue: Proceedings of the Genetic and Evolutionary Computation Conference
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Dominance (genetics)

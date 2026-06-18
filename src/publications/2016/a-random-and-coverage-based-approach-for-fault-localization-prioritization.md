@@ -17,8 +17,6 @@ year: 2016
 doi: https://doi.org/10.1109/ccdc.2016.7531562
 openalex_id: W2509565598
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

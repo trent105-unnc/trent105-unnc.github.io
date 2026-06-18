@@ -15,8 +15,6 @@ year: 2024
 doi: https://doi.org/10.26599/tst.2024.9010103
 openalex_id: W4402435447
 venue: Tsinghua Science & Technology
-pdf_url: https://doi.org/10.26599/tst.2024.9010103
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Fuzzy logic

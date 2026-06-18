@@ -16,8 +16,6 @@ year: 2021
 doi: https://doi.org/10.5281/zenodo.4584644
 openalex_id: W4393423710
 venue: Zenodo (CERN European Organization for Nuclear Research)
-pdf_url: https://doi.org/10.5281/zenodo.4584644
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Metamorphic rock

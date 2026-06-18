@@ -20,8 +20,6 @@ year: 2022
 doi: https://doi.org/10.3390/sym14071301
 openalex_id: W4283393550
 venue: Symmetry
-pdf_url: https://www.mdpi.com/2073-8994/14/7/1301/pdf?version=1655963560
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Bin packing problem

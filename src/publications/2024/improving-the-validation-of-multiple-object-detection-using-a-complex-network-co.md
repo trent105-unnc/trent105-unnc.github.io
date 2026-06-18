@@ -18,8 +18,6 @@ year: 2024
 doi: https://doi.org/10.1016/j.knosys.2024.112027
 openalex_id: W4399207312
 venue: Knowledge-Based Systems
-pdf_url: http://dx.doi.org/10.1016/j.knosys.2024.112027
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Relevance (law)

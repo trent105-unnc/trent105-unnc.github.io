@@ -19,8 +19,6 @@ year: 2023
 doi: https://doi.org/10.1109/tifs.2023.3293949
 openalex_id: W4383753518
 venue: IEEE Transactions on Information Forensics and Security
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

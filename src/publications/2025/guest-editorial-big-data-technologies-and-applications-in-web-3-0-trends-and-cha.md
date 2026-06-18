@@ -16,8 +16,6 @@ year: 2025
 doi: https://doi.org/10.1108/ijwis-08-2025-398
 openalex_id: W4414298188
 venue: International Journal of Web Information Systems
-pdf_url: https://www.emerald.com/ijwis/article-pdf/21/4/325/10292461/ijwis-08-2025-398en.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Semantic Web

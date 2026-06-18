@@ -12,8 +12,6 @@ year: 2022
 doi: https://doi.org/10.1007/s43508-022-00050-1
 openalex_id: W4297474664
 venue: Global Public Policy and Governance
-pdf_url: https://link.springer.com/content/pdf/10.1007/s43508-022-00050-1.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Corporate governance

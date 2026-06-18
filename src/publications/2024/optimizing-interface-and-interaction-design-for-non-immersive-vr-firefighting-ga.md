@@ -16,8 +16,6 @@ year: 2024
 doi: https://doi.org/10.1007/978-3-031-53827-8_30
 openalex_id: W4392249982
 venue: Lecture notes in computer science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Human–computer interaction

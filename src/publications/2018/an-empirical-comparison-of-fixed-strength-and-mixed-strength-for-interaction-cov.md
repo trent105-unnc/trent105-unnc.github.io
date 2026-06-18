@@ -20,8 +20,6 @@ year: 2018
 doi: https://doi.org/10.1109/access.2018.2879638
 openalex_id: W2899739878
 venue: IEEE Access
-pdf_url: https://doi.org/10.1109/access.2018.2879638
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Prioritization

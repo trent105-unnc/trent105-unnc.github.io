@@ -17,8 +17,6 @@ year: 2014
 doi: 
 openalex_id: W2728981990
 venue: Swinburne Research Bank (Swinburne University of Technology)
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

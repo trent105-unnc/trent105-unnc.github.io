@@ -20,8 +20,6 @@ year: 2026
 doi: https://doi.org/10.1049/sfw2/4814836
 openalex_id: W7134212875
 venue: IET Software
-pdf_url: https://doi.org/10.1049/sfw2/4814836
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Random testing

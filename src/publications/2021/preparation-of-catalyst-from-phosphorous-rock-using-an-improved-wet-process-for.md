@@ -26,8 +26,6 @@ year: 2021
 doi: https://doi.org/10.1021/acs.iecr.1c01072
 openalex_id: W3165874471
 venue: Industrial & Engineering Chemistry Research
-pdf_url: https://ro.ecu.edu.au/ecuworkspost2013/10455
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Catalysis

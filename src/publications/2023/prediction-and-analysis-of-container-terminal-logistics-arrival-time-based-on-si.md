@@ -14,8 +14,6 @@ year: 2023
 doi: https://doi.org/10.3390/math11153271
 openalex_id: W4385273111
 venue: Mathematics
-pdf_url: https://www.mdpi.com/2227-7390/11/15/3271/pdf?version=1690290181
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Container (type theory)

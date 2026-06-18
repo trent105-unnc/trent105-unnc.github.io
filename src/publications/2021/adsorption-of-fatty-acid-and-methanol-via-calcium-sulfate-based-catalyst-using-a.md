@@ -18,8 +18,6 @@ year: 2021
 doi: https://doi.org/10.1088/1742-6596/2047/1/012016
 openalex_id: W3210331220
 venue: Journal of Physics Conference Series
-pdf_url: https://doi.org/10.1088/1742-6596/2047/1/012016
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Adsorption

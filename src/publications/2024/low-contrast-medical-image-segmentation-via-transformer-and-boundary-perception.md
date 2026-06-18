@@ -29,8 +29,6 @@ year: 2024
 doi: https://doi.org/10.1109/tetci.2024.3353624
 openalex_id: W4394951203
 venue: IEEE Transactions on Emerging Topics in Computational Intelligence
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer vision

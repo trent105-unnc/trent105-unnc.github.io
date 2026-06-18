@@ -20,8 +20,6 @@ year: 2023
 doi: https://doi.org/10.1609/aaai.v37i2.25325
 openalex_id: W4382450481
 venue: Proceedings of the AAAI Conference on Artificial Intelligence
-pdf_url: https://ojs.aaai.org/index.php/AAAI/article/download/25325/25097
-abstract_page: 1
 abstract_screenshot: siamese-discriminant-deep-reinforcement-learning-for-solving-jigsaw-puzzles-with.png
 keywords:
   - Jigsaw

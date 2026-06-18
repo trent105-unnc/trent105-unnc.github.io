@@ -15,8 +15,6 @@ year: 2017
 doi: https://doi.org/10.1007/978-3-319-53982-9_1
 openalex_id: W2588308672
 venue: Communications in computer and information science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Vehicle routing problem

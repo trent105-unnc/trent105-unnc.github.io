@@ -22,8 +22,6 @@ year: 2025
 doi: https://doi.org/10.1109/tce.2025.3525536
 openalex_id: W4406089602
 venue: IEEE Transactions on Consumer Electronics
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Electronics

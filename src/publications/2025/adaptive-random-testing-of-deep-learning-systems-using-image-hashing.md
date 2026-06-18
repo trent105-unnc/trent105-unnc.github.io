@@ -17,8 +17,6 @@ year: 2025
 doi: https://doi.org/10.1109/tr.2025.3607784
 openalex_id: W4414349321
 venue: IEEE Transactions on Reliability
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Deep learning

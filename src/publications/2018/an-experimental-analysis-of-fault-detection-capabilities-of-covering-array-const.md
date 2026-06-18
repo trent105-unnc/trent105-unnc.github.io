@@ -18,8 +18,6 @@ year: 2018
 doi: https://doi.org/10.1145/3183440.3194953
 openalex_id: W2809064197
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Fault detection and isolation

@@ -20,8 +20,6 @@ year: 2023
 doi: https://doi.org/10.1109/iecon51785.2023.10312643
 openalex_id: W4388726282
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Heading (navigation)

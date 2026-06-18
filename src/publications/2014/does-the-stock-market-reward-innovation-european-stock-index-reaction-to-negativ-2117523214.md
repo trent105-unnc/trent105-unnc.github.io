@@ -16,8 +16,6 @@ year: 2014
 doi: https://doi.org/10.2139/ssrn.2446877
 openalex_id: W2117523214
 venue: SSRN Electronic Journal
-pdf_url: https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=2446877
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Download

@@ -14,8 +14,6 @@ year: 2025
 doi: https://doi.org/10.1007/978-981-95-4499-8_3
 openalex_id: W4416633745
 venue: Communications in computer and information science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Oracle

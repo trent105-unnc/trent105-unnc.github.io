@@ -18,8 +18,6 @@ year: 2023
 doi: https://doi.org/10.1609/aaai.v37i1.25072
 openalex_id: W4382464482
 venue: Proceedings of the AAAI Conference on Artificial Intelligence
-pdf_url: https://ojs.aaai.org/index.php/AAAI/article/download/25072/24844
-abstract_page: 1
 abstract_screenshot: hierarchical-convit-with-attention-based-relational-reasoner-for-visual-analogic.png
 keywords:
   - Semantic reasoner

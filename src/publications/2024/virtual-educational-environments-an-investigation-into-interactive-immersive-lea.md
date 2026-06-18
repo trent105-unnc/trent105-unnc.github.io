@@ -20,8 +20,6 @@ year: 2024
 doi: https://doi.org/10.1504/ijmlo.2024.139723
 openalex_id: W4400398740
 venue: International Journal of Mobile Learning and Organisation
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - M-learning

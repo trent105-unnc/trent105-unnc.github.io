@@ -31,8 +31,6 @@ year: 2024
 doi: https://doi.org/10.1117/12.3019655
 openalex_id: W4396578660
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Multimodality

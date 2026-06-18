@@ -15,8 +15,6 @@ year: 2018
 doi: https://doi.org/10.1109/ms.2018.2875968
 openalex_id: W2903744551
 venue: IEEE Software
-pdf_url: https://idus.us.es/handle//11441/138967
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Software testing

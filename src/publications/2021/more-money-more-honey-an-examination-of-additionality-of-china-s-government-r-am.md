@@ -14,8 +14,6 @@ year: 2021
 doi: https://doi.org/10.1080/1351847x.2021.1918202
 openalex_id: W3159418030
 venue: European Journal of Finance
-pdf_url: https://dora.dmu.ac.uk/handle/2086/20806
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Subsidy

@@ -22,8 +22,6 @@ year: 2023
 doi: https://doi.org/10.1007/978-1-0716-3239-0_4
 openalex_id: W4378801450
 venue: Methods in molecular biology
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Peripheral blood mononuclear cell

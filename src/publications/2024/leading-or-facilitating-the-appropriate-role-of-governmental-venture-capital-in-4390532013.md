@@ -16,8 +16,6 @@ year: 2024
 doi: https://doi.org/10.2139/ssrn.4682914
 openalex_id: W4390532013
 venue: SSRN Electronic Journal
-pdf_url: http://dx.doi.org/10.2139/ssrn.4682914
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Venture capital

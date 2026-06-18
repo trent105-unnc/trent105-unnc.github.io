@@ -18,8 +18,6 @@ year: 2026
 doi: https://doi.org/10.1016/j.tre.2026.104830
 openalex_id: W7154132187
 venue: Transportation Research Part E Logistics and Transportation Review
-pdf_url: https://doi.org/10.1016/j.tre.2026.104830
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Scheme (mathematics)

@@ -22,8 +22,6 @@ year: 2026
 doi: https://doi.org/10.1109/tmm.2026.3668614
 openalex_id: W7131827550
 venue: IEEE Transactions on Multimedia
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Visual reasoning

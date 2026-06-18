@@ -23,8 +23,6 @@ year: 2025
 doi: https://doi.org/10.1145/3773770
 openalex_id: W4415543847
 venue: ACM Transactions on Design Automation of Electronic Systems
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Netlist

@@ -29,8 +29,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.patcog.2025.112560
 openalex_id: W4415020359
 venue: Pattern Recognition
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - RGB color model

@@ -19,8 +19,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.engappai.2024.109936
 openalex_id: W4406063205
 venue: Engineering Applications of Artificial Intelligence
-pdf_url: https://doi.org/10.1016/j.engappai.2024.109936
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

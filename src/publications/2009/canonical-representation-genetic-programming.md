@@ -11,8 +11,6 @@ year: 2009
 doi: https://doi.org/10.1145/1543834.1543914
 openalex_id: W2137277908
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Genetic programming

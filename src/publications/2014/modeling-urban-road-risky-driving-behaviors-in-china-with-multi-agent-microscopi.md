@@ -16,8 +16,6 @@ year: 2014
 doi: https://doi.org/10.1109/itsc.2014.6957944
 openalex_id: W1966399282
 venue: 
-pdf_url: https://nottingham-repository.worktribe.com/output/52825547
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Road traffic

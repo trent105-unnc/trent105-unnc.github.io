@@ -17,8 +17,6 @@ year: 2010
 doi: https://doi.org/10.1109/tevc.2009.2033583
 openalex_id: W2169641440
 venue: IEEE Transactions on Evolutionary Computation
-pdf_url: http://eprints.nottingham.ac.uk/47488/
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

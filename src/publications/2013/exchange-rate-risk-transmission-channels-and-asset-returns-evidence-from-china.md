@@ -14,8 +14,6 @@ year: 2013
 doi: https://doi.org/10.2139/ssrn.2311617
 openalex_id: W3003761514
 venue: SSRN Electronic Journal
-pdf_url: https://doi.org/10.2139/ssrn.2311617
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - China

@@ -12,8 +12,6 @@ year: 2026
 doi: https://doi.org/10.1109/vrw70859.2026.00199
 openalex_id: W7160315629
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Augmented reality

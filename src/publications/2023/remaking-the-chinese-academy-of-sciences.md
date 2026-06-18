@@ -13,8 +13,6 @@ year: 2023
 doi: https://doi.org/10.1126/science.add3428
 openalex_id: W4317567185
 venue: Science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Chinese academy of sciences

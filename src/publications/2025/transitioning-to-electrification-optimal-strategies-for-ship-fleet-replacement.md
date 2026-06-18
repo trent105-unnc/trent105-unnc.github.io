@@ -17,8 +17,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.trc.2025.105079
 openalex_id: W4408389778
 venue: Transportation Research Part C Emerging Technologies
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Electrification

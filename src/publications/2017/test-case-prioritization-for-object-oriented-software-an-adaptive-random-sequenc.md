@@ -22,8 +22,6 @@ year: 2017
 doi: https://doi.org/10.1016/j.jss.2017.09.031
 openalex_id: W2764176914
 venue: Journal of Systems and Software
-pdf_url: https://www.sciencedirect.com/science/article/pii/S0164121217302170?via%3Dihub
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Cluster analysis

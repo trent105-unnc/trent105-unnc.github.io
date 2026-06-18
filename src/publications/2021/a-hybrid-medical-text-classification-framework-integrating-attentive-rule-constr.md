@@ -20,8 +20,6 @@ year: 2021
 doi: https://doi.org/10.1016/j.neucom.2021.02.069
 openalex_id: W3135832423
 venue: Neurocomputing
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Interpretability

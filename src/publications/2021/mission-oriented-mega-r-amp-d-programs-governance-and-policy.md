@@ -11,8 +11,6 @@ year: 2021
 doi: https://doi.org/10.3724/sp.j.2096-5141.2021.0007
 openalex_id: W4289821018
 venue: Journal of Advances in Health
-pdf_url: http://idp-journal.casisd.cn/browse/al/Volume_3/v_3_2/202203/P020220331598377132987.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Mega-

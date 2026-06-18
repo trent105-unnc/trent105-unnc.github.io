@@ -9,8 +9,6 @@ year: 2023
 doi: https://doi.org/10.1038/d41586-023-03445-0
 openalex_id: W4388490402
 venue: Nature
-pdf_url: https://media.nature.com/original/magazine-assets/d41586-023-03445-0/d41586-023-03445-0.pdf
-abstract_page: 1
 abstract_screenshot: china-must-draw-on-internal-research-strength.png
 keywords:
   - China

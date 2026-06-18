@@ -15,8 +15,6 @@ year: 2018
 doi: https://doi.org/10.1007/s11156-018-0729-2
 openalex_id: W2801318285
 venue: Review of Quantitative Finance and Accounting
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Subsidy

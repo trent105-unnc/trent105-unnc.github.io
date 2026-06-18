@@ -22,8 +22,6 @@ year: 2022
 doi: https://doi.org/10.1155/2022/3997870
 openalex_id: W4296230893
 venue: Computational Intelligence and Neuroscience
-pdf_url: https://downloads.hindawi.com/journals/cin/2022/3997870.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Operability

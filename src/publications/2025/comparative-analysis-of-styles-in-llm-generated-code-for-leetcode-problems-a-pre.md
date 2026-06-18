@@ -22,8 +22,6 @@ year: 2025
 doi: https://doi.org/10.1109/compsac65507.2025.00219
 openalex_id: W4413640309
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

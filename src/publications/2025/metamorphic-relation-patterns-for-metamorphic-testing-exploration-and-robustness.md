@@ -17,8 +17,6 @@ year: 2025
 doi: https://doi.org/10.1002/stvr.70003
 openalex_id: W4407650836
 venue: Software Testing Verification and Reliability
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Metamorphic rock

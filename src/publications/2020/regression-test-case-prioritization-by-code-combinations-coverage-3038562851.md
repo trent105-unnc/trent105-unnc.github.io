@@ -17,8 +17,6 @@ year: 2020
 doi: https://doi.org/10.48550/arxiv.2007.00370
 openalex_id: W3038562851
 venue: arXiv (Cornell University)
-pdf_url: https://arxiv.org/pdf/2007.00370
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Regression testing

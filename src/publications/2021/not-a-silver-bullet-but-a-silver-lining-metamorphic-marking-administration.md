@@ -11,8 +11,6 @@ year: 2021
 doi: https://doi.org/10.1109/educon46332.2021.9454074
 openalex_id: W3175043346
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Context (archaeology)

@@ -15,8 +15,6 @@ year: 2020
 doi: https://doi.org/10.1016/j.ijforecast.2020.06.009
 openalex_id: W3084402488
 venue: International Journal of Forecasting
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Default

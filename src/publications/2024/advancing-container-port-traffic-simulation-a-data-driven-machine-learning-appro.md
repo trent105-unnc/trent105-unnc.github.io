@@ -18,8 +18,6 @@ year: 2024
 doi: https://doi.org/10.1016/j.asoc.2024.112190
 openalex_id: W4402115542
 venue: Applied Soft Computing
-pdf_url: https://nottingham-repository.worktribe.com/file/39177969/1/ASC24-DL%20Sim%20XC%20Final
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

@@ -28,8 +28,6 @@ year: 2018
 doi: https://doi.org/10.1007/978-3-319-98192-5_2
 openalex_id: W2802818351
 venue: Lecture notes in computer science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Asset (computer security)

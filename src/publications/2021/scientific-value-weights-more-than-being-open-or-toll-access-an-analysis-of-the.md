@@ -18,8 +18,6 @@ year: 2021
 doi: https://doi.org/10.2478/jdis-2021-0033
 openalex_id: W3203262851
 venue: Journal of Data and Information Science
-pdf_url: https://www.sciendo.com/pdf/10.2478/jdis-2021-0033
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Latent Dirichlet allocation

@@ -19,8 +19,6 @@ year: 2019
 doi: https://doi.org/10.1109/tse.2019.2942921
 openalex_id: W3041931538
 venue: IEEE Transactions on Software Engineering
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Random testing

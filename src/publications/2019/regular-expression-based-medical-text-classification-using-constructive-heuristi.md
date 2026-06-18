@@ -20,8 +20,6 @@ year: 2019
 doi: https://doi.org/10.1109/access.2019.2946622
 openalex_id: W2979602634
 venue: IEEE Access
-pdf_url: https://ieeexplore.ieee.org/ielx7/6287639/8600701/08864974.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

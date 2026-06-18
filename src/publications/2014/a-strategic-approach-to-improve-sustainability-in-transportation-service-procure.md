@@ -14,8 +14,6 @@ year: 2014
 doi: https://doi.org/10.1016/j.tre.2014.10.015
 openalex_id: W2080842156
 venue: Transportation Research Part E Logistics and Transportation Review
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Bidding

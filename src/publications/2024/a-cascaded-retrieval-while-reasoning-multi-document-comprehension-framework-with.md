@@ -18,8 +18,6 @@ year: 2024
 doi: https://doi.org/10.1016/j.eswa.2024.125701
 openalex_id: W4404734162
 venue: Expert Systems with Applications
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Question answering

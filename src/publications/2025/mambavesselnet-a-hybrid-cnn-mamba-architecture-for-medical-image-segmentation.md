@@ -24,8 +24,6 @@ year: 2025
 doi: https://doi.org/10.1145/3757324
 openalex_id: W4413682217
 venue: ACM Transactions on Multimedia Computing Communications and Applications
-pdf_url: https://dl.acm.org/doi/pdf/10.1145/3757324
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

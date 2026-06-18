@@ -24,8 +24,6 @@ year: 2021
 doi: https://doi.org/10.3390/molecules26247492
 openalex_id: W4200070360
 venue: Molecules
-pdf_url: https://www.mdpi.com/1420-3049/26/24/7492/pdf?version=1639374728
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - chEMBL

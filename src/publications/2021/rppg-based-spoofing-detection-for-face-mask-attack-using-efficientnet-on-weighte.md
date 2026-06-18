@@ -24,8 +24,6 @@ year: 2021
 doi: https://doi.org/10.1109/icip42928.2021.9506276
 openalex_id: W3194467497
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Spoofing attack

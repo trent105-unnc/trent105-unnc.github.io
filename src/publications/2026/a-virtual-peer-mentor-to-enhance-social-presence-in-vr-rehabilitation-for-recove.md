@@ -18,8 +18,6 @@ year: 2026
 doi: https://doi.org/10.1109/tvcg.2026.3679134
 openalex_id: W7143451859
 venue: IEEE Transactions on Visualization and Computer Graphics
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Rehabilitation

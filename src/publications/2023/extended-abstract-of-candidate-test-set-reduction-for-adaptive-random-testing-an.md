@@ -16,8 +16,6 @@ year: 2023
 doi: https://doi.org/10.1109/saner56733.2023.00102
 openalex_id: W4376606802
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Reduction (mathematics)

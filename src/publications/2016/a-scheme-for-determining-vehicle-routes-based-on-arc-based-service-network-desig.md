@@ -15,8 +15,6 @@ year: 2016
 doi: https://doi.org/10.1080/03155986.2016.1262580
 openalex_id: W2543502461
 venue: INFOR Information Systems and Operational Research
-pdf_url: https://nottingham-repository.worktribe.com/output/838344
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

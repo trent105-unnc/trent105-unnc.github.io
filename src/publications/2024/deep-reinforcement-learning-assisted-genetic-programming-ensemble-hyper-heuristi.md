@@ -18,8 +18,6 @@ year: 2024
 doi: https://doi.org/10.1109/tevc.2024.3381042
 openalex_id: W4393171197
 venue: IEEE Transactions on Evolutionary Computation
-pdf_url: https://nottingham-repository.worktribe.com/output/33028244
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Heuristics

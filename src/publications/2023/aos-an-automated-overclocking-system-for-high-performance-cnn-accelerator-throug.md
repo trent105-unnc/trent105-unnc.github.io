@@ -16,8 +16,6 @@ year: 2023
 doi: https://doi.org/10.1109/tcad.2023.3235803
 openalex_id: W4315489349
 venue: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Jitter

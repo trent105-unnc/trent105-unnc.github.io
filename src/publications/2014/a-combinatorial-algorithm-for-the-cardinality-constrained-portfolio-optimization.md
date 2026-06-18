@@ -14,8 +14,6 @@ year: 2014
 doi: https://doi.org/10.1109/cec.2014.6900357
 openalex_id: W2069651500
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Mathematical optimization

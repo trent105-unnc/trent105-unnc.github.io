@@ -9,8 +9,6 @@ year: 2021
 doi: https://doi.org/10.48550/arxiv.2102.07436
 openalex_id: W3134299039
 venue: arXiv (Cornell University)
-pdf_url: https://arxiv.org/pdf/2102.07436
-abstract_page: 1
 abstract_screenshot: approximation-to-object-conditional-validity-with-inductive-conformal-predictors.png
 keywords:
   - Object (grammar)

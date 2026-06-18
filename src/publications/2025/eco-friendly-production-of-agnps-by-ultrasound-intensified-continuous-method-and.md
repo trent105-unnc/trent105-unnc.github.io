@@ -34,8 +34,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.ultsonch.2025.107682
 openalex_id: W4416345138
 venue: Ultrasonics Sonochemistry
-pdf_url: https://doi.org/10.1016/j.ultsonch.2025.107682
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Silver nanoparticle

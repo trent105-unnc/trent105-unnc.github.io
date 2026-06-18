@@ -16,8 +16,6 @@ year: 2024
 doi: https://doi.org/10.1007/978-981-97-2272-3_21
 openalex_id: W4394803842
 venue: Communications in computer and information science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

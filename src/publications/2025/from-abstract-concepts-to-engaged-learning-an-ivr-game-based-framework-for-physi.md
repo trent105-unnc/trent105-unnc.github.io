@@ -14,8 +14,6 @@ year: 2025
 doi: https://doi.org/10.47852/bonviewijce52024697
 openalex_id: W4408216931
 venue: International Journal of Changes in Education
-pdf_url: https://ojs.bonviewpress.com/index.php/IJCE/article/download/4697/1305
-abstract_page: 1
 abstract_screenshot: from-abstract-concepts-to-engaged-learning-an-ivr-game-based-framework-for-physi.png
 keywords:
   - Physics education

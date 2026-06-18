@@ -17,8 +17,6 @@ year: 2016
 doi: https://doi.org/10.1504/ijhpcn.2016.074663
 openalex_id: W2406571098
 venue: International Journal of High Performance Computing and Networking
-pdf_url: https://nottingham-repository.worktribe.com/output/776477
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

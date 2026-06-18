@@ -22,8 +22,6 @@ year: 2024
 doi: https://doi.org/10.1016/j.eswa.2024.123515
 openalex_id: W4391900126
 venue: Expert Systems with Applications
-pdf_url: https://doi.org/10.1016/j.eswa.2024.123515
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Bin packing problem

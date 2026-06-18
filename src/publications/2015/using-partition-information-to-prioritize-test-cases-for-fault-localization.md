@@ -17,8 +17,6 @@ year: 2015
 doi: https://doi.org/10.1109/compsac.2015.35
 openalex_id: W1942859513
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

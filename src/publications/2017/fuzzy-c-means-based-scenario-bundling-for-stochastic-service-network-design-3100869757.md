@@ -15,8 +15,6 @@ year: 2017
 doi: https://doi.org/10.1109/ssci.2017.8280905
 openalex_id: W3100869757
 venue: 
-pdf_url: http://hdl.handle.net/11343/239243
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Bundle

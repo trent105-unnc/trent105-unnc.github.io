@@ -19,8 +19,6 @@ year: 2020
 doi: https://doi.org/10.1007/s10707-019-00390-x
 openalex_id: W2993258566
 venue: GeoInformatica
-pdf_url: https://research-information.bris.ac.uk/en/publications/35014e86-dc62-4289-ab53-d25c564f4c80
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Renting

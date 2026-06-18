@@ -20,8 +20,6 @@ year: 2024
 doi: https://doi.org/10.1016/j.eswa.2024.124824
 openalex_id: W4400720222
 venue: Expert Systems with Applications
-pdf_url: https://doi.org/10.1016/j.eswa.2024.124824
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Signature (topology)

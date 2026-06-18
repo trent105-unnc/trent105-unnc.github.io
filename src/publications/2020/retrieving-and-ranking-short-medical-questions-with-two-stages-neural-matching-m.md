@@ -22,8 +22,6 @@ year: 2020
 doi: https://doi.org/10.48550/arxiv.2012.01254
 openalex_id: W3107495100
 venue: arXiv (Cornell University)
-pdf_url: https://arxiv.org/pdf/2012.01254
-abstract_page: 1
 abstract_screenshot: retrieving-and-ranking-short-medical-questions-with-two-stages-neural-matching-m.png
 keywords:
   - Computer science

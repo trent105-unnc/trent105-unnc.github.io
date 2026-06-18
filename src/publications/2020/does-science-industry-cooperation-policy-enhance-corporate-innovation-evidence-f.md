@@ -16,8 +16,6 @@ year: 2020
 doi: https://doi.org/10.1111/acfi.12717
 openalex_id: W3096823323
 venue: Accounting and Finance
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Endogeneity

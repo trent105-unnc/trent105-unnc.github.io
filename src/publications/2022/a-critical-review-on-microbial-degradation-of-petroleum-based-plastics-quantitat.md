@@ -29,8 +29,6 @@ year: 2022
 doi: https://doi.org/10.1007/s10532-021-09969-4
 openalex_id: W4205195749
 venue: Biodegradation
-pdf_url: https://ro.ecu.edu.au/ecuworks2022-2026/97
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Biodegradation

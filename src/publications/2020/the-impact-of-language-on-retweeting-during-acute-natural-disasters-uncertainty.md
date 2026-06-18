@@ -12,8 +12,6 @@ year: 2020
 doi: https://doi.org/10.1108/imds-12-2019-0711
 openalex_id: W3038671591
 venue: Industrial Management & Data Systems
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Expectancy theory

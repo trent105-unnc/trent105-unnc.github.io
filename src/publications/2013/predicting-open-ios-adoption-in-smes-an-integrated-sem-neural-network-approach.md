@@ -11,8 +11,6 @@ year: 2013
 doi: https://doi.org/10.1016/j.eswa.2013.07.023
 openalex_id: W2011401412
 venue: Expert Systems with Applications
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Knowledge management

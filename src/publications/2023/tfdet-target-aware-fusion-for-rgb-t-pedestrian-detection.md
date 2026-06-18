@@ -23,8 +23,6 @@ year: 2023
 doi: https://doi.org/10.48550/arxiv.2305.16580
 openalex_id: W4378713519
 venue: arXiv (Cornell University)
-pdf_url: https://arxiv.org/pdf/2305.16580
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Pedestrian detection

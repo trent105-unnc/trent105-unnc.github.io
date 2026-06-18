@@ -13,8 +13,6 @@ year: 2013
 doi: https://doi.org/10.1080/1351847x.2013.788537
 openalex_id: W1980226427
 venue: European Journal of Finance
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Stock (firearms)

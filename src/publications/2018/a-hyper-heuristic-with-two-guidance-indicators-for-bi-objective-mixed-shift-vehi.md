@@ -16,8 +16,6 @@ year: 2018
 doi: https://doi.org/10.1007/s10489-018-1250-y
 openalex_id: W2885975332
 venue: Applied Intelligence
-pdf_url: https://link.springer.com/content/pdf/10.1007/s10489-018-1250-y.pdf
-abstract_page: 1
 abstract_screenshot: a-hyper-heuristic-with-two-guidance-indicators-for-bi-objective-mixed-shift-vehi.png
 keywords:
   - Computer science

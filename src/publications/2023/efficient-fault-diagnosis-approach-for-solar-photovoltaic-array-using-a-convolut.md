@@ -25,8 +25,6 @@ year: 2023
 doi: https://doi.org/10.1016/j.solener.2022.12.037
 openalex_id: W4323321983
 venue: Solar Energy
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Photovoltaic system

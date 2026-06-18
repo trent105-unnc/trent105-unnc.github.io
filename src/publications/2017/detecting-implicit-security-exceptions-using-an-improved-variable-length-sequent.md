@@ -22,8 +22,6 @@ year: 2017
 doi: https://doi.org/10.1142/s0218194017500462
 openalex_id: W2765302430
 venue: International Journal of Software Engineering and Knowledge Engineering
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

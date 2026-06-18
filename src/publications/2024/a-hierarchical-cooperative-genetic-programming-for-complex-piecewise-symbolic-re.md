@@ -18,8 +18,6 @@ year: 2024
 doi: https://doi.org/10.1109/cec60901.2024.10611754
 openalex_id: W4401415918
 venue: 
-pdf_url: https://nottingham-repository.worktribe.com/output/38898149
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Symbolic regression

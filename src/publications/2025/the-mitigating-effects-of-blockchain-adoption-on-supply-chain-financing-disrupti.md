@@ -16,8 +16,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.chieco.2025.102502
 openalex_id: W4412444598
 venue: China Economic Review
-pdf_url: https://doi.org/10.1016/j.chieco.2025.102502
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Blockchain

@@ -19,8 +19,6 @@ year: 2010
 doi: https://doi.org/10.1109/iclsim.2010.5461315
 openalex_id: W2136987445
 venue: 
-pdf_url: https://dspace.lib.cranfield.ac.uk/bitstreams/31bf9a7f-9a98-4b9e-ae10-ac2470501cc4/download
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Risk analysis (engineering)

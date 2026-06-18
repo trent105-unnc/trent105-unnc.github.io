@@ -28,8 +28,6 @@ year: 2024
 doi: https://doi.org/10.1109/tc.2024.3465933
 openalex_id: W4402743254
 venue: IEEE Transactions on Computers
-pdf_url: https://nottingham-repository.worktribe.com/output/40290418
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

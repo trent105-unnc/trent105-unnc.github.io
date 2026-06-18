@@ -20,8 +20,6 @@ year: 2023
 doi: https://doi.org/10.3390/electronics12081856
 openalex_id: W4365512786
 venue: Electronics
-pdf_url: https://www.mdpi.com/2079-9292/12/8/1856/pdf?version=1681456771
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Convolution (computer science)

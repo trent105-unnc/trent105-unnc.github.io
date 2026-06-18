@@ -13,8 +13,6 @@ year: 2020
 doi: https://doi.org/10.1108/ijssp-07-2020-0334
 openalex_id: W3091474810
 venue: International Journal of Sociology and Social Policy
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Hofstede's cultural dimensions theory

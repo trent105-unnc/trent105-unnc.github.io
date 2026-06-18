@@ -13,8 +13,6 @@ year: 2024
 doi: https://doi.org/10.1080/17538963.2024.2437865
 openalex_id: W4405331773
 venue: China Economic Journal
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - China

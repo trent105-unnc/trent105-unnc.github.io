@@ -26,8 +26,6 @@ year: 2020
 doi: https://doi.org/10.1093/comjnl/bxaa020
 openalex_id: W3020749904
 venue: The Computer Journal
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

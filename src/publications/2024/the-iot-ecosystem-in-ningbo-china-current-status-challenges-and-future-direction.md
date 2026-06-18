@@ -12,8 +12,6 @@ year: 2024
 doi: https://doi.org/10.1049/icp.2024.3954
 openalex_id: W4405241700
 venue: IET conference proceedings.
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Current (fluid)

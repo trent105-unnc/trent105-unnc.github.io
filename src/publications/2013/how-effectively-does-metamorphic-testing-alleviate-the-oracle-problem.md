@@ -15,8 +15,6 @@ year: 2013
 doi: https://doi.org/10.1109/tse.2013.46
 openalex_id: W2162036145
 venue: IEEE Transactions on Software Engineering
-pdf_url: https://vuir.vu.edu.au/33046/
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

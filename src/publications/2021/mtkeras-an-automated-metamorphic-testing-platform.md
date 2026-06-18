@@ -17,8 +17,6 @@ year: 2021
 doi: https://doi.org/10.1142/s021819402150039x
 openalex_id: W3203931506
 venue: International Journal of Software Engineering and Knowledge Engineering
-pdf_url: https://figshare.com/articles/thesis/MTKeras_An_Automated_Metamorphic_Testing_Platform/27669363
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

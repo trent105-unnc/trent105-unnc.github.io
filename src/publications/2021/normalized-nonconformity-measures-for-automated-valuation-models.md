@@ -11,8 +11,6 @@ year: 2021
 doi: https://doi.org/10.1016/j.eswa.2021.115165
 openalex_id: W3163453647
 venue: Expert Systems with Applications
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Valuation (finance)

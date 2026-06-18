@@ -17,8 +17,6 @@ year: 2023
 doi: https://doi.org/10.1109/cvpr52729.2023.00967
 openalex_id: W4386072314
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

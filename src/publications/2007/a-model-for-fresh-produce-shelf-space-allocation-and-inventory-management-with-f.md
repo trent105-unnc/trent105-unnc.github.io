@@ -12,8 +12,6 @@ year: 2007
 doi: https://doi.org/10.1287/ijoc.1070.0219
 openalex_id: W2170968137
 venue: INFORMS journal on computing
-pdf_url: http://eprints.nottingham.ac.uk/47513/
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

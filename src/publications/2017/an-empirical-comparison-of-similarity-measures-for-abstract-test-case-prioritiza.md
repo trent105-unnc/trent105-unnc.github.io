@@ -18,8 +18,6 @@ year: 2017
 doi: https://doi.org/10.1109/compsac.2017.271
 openalex_id: W2755412327
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Similarity (geometry)

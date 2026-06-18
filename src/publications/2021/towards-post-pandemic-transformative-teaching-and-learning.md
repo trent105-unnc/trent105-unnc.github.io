@@ -15,8 +15,6 @@ year: 2021
 doi: https://doi.org/10.1007/s42979-021-00663-z
 openalex_id: W3163754216
 venue: SN Computer Science
-pdf_url: https://link.springer.com/content/pdf/10.1007/s42979-021-00663-z.pdf
-abstract_page: 1
 abstract_screenshot: towards-post-pandemic-transformative-teaching-and-learning.png
 keywords:
   - Transformative learning

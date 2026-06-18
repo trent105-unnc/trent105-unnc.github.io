@@ -13,8 +13,6 @@ year: 2023
 doi: https://doi.org/10.1007/s00371-023-02930-x
 openalex_id: W4383619072
 venue: The Visual Computer
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Raven's Progressive Matrices

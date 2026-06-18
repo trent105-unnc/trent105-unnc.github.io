@@ -20,8 +20,6 @@ year: 2018
 doi: https://doi.org/10.1109/icbda.2018.8367661
 openalex_id: W2774073347
 venue: 
-pdf_url: https://research-information.bris.ac.uk/ws/files/146861413/ICBDA_socialmedia_AAM_1056.pdf
-abstract_page: 2
 abstract_screenshot: automated-prediction-of-shopping-behaviours-using-taxi-trajectory-data-and-socia.png
 keywords:
   - Attractiveness

@@ -15,8 +15,6 @@ year: 2013
 doi: https://doi.org/10.1007/978-3-642-41278-3_51
 openalex_id: W1092618484
 venue: Lecture notes in computer science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Big data

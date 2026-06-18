@@ -18,8 +18,6 @@ year: 2021
 doi: https://doi.org/10.1016/j.ejor.2021.10.032
 openalex_id: W3208057219
 venue: European Journal of Operational Research
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Reinforcement learning

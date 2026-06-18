@@ -15,8 +15,6 @@ year: 2018
 doi: https://doi.org/10.1080/1351847x.2018.1496571
 openalex_id: W2888988505
 venue: European Journal of Finance
-pdf_url: https://www.tandfonline.com/doi/pdf/10.1080/1351847X.2018.1496571?needAccess=true
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Capital market

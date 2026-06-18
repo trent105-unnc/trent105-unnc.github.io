@@ -22,8 +22,6 @@ year: 2024
 doi: https://doi.org/10.1016/j.inffus.2024.102650
 openalex_id: W4401857182
 venue: Information Fusion
-pdf_url: https://doi.org/10.1016/j.inffus.2024.102650
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Firefighting

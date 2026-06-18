@@ -12,8 +12,6 @@ year: 2017
 doi: https://doi.org/10.1109/tale.2017.8252355
 openalex_id: W2783402813
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Open educational resources

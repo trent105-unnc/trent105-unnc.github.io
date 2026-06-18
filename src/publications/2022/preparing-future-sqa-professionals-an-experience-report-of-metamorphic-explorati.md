@@ -18,8 +18,6 @@ year: 2022
 doi: https://doi.org/10.1109/educon52537.2022.9766791
 openalex_id: W4280617057
 venue: 2022 IEEE Global Engineering Education Conference (EDUCON)
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

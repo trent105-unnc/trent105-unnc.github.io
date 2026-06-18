@@ -20,8 +20,6 @@ year: 2015
 doi: https://doi.org/10.1109/tale.2015.7386015
 openalex_id: W2249001326
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Context (archaeology)

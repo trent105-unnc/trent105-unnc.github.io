@@ -20,8 +20,6 @@ year: 2025
 doi: https://doi.org/10.1109/jiot.2025.3645938
 openalex_id: W4417470019
 venue: IEEE Internet of Things Journal
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Intrusion detection system

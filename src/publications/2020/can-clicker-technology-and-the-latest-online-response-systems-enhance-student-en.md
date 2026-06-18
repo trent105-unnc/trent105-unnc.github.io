@@ -18,8 +18,6 @@ year: 2020
 doi: https://doi.org/10.1007/978-981-15-3142-2_22
 openalex_id: W3024523859
 venue: Lecture notes in educational technology
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Clicker

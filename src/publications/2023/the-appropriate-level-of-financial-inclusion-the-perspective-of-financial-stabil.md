@@ -14,8 +14,6 @@ year: 2023
 doi: https://doi.org/10.1016/j.ceqi.2023.08.001
 openalex_id: W4386469981
 venue: China Economic Quarterly International
-pdf_url: https://doi.org/10.1016/j.ceqi.2023.08.001
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Financial inclusion

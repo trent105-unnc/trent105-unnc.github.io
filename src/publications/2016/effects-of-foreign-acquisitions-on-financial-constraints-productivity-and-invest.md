@@ -14,8 +14,6 @@ year: 2016
 doi: https://doi.org/10.1016/j.ibusrev.2016.12.005
 openalex_id: W2566931817
 venue: International Business Review
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - China

@@ -17,8 +17,6 @@ year: 2020
 doi: https://doi.org/10.1016/j.jss.2020.110712
 openalex_id: W3038808621
 venue: Journal of Systems and Software
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - RTP Control Protocol

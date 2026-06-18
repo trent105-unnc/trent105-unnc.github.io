@@ -13,8 +13,6 @@ year: 2025
 doi: https://doi.org/10.2139/ssrn.5228321
 openalex_id: W4409713756
 venue: SSRN Electronic Journal
-pdf_url: https://doi.org/10.2139/ssrn.5228321
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Complementarity (molecular biology)

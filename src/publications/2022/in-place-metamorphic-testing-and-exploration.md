@@ -15,8 +15,6 @@ year: 2022
 doi: https://doi.org/10.1145/3524846.3527334
 openalex_id: W4318325591
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

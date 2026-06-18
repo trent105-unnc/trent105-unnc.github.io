@@ -18,8 +18,6 @@ year: 2025
 doi: https://doi.org/10.1007/978-981-95-0695-8_3
 openalex_id: W4412806803
 venue: Lecture notes in computer science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

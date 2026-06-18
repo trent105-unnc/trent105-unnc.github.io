@@ -20,8 +20,6 @@ year: 2020
 doi: https://doi.org/10.1088/1674-4926/41/2/022406
 openalex_id: W2995607652
 venue: Journal of Semiconductors
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Frequency scaling

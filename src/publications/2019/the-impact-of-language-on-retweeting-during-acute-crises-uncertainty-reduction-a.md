@@ -12,8 +12,6 @@ year: 2019
 doi: https://doi.org/10.2139/ssrn.3446718
 openalex_id: W3138490267
 venue: SSRN Electronic Journal
-pdf_url: https://doi.org/10.2139/ssrn.3446718
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Expectancy theory

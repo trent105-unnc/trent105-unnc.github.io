@@ -12,8 +12,6 @@ year: 2022
 doi: https://doi.org/10.1016/j.pacfin.2022.101922
 openalex_id: W4313398159
 venue: Pacific-Basin Finance Journal
-pdf_url: https://doi.org/10.1016/j.pacfin.2022.101922
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Endogeneity

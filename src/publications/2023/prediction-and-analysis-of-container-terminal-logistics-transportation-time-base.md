@@ -14,8 +14,6 @@ year: 2023
 doi: https://doi.org/10.1145/3608251.3608254
 openalex_id: W4385956613
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Container (type theory)

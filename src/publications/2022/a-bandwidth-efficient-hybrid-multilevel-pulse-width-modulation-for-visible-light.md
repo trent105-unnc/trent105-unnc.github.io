@@ -16,8 +16,6 @@ year: 2022
 doi: https://doi.org/10.1109/ojcoms.2022.3217778
 openalex_id: W4313156407
 venue: IEEE Open Journal of the Communications Society
-pdf_url: https://ieeexplore.ieee.org/ielx7/8782661/8901158/09931902.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Pulse-position modulation

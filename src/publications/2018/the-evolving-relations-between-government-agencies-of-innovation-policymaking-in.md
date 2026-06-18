@@ -13,8 +13,6 @@ year: 2018
 doi: https://doi.org/10.1016/j.respol.2018.01.003
 openalex_id: W2782725467
 venue: Research Policy
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - China

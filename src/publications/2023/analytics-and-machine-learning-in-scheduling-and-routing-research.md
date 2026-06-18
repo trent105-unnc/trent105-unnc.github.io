@@ -13,8 +13,6 @@ year: 2023
 doi: https://doi.org/10.1080/00207543.2022.2131930
 openalex_id: W4313477858
 venue: International Journal of Production Research
-pdf_url: https://www.tandfonline.com/doi/pdf/10.1080/00207543.2022.2131930?download=true
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Analytics

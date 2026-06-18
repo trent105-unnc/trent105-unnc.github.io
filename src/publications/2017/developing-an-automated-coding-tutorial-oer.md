@@ -11,8 +11,6 @@ year: 2017
 doi: https://doi.org/10.1109/tale.2017.8252339
 openalex_id: W2782903417
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

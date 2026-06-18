@@ -19,8 +19,6 @@ year: 2022
 doi: https://doi.org/10.1109/tlt.2022.3216535
 openalex_id: W4312514481
 venue: IEEE Transactions on Learning Technologies
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

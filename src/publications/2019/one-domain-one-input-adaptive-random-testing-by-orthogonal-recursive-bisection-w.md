@@ -20,8 +20,6 @@ year: 2019
 doi: https://doi.org/10.1109/tr.2019.2907577
 openalex_id: W2943540685
 venue: IEEE Transactions on Reliability
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

@@ -22,8 +22,6 @@ year: 2019
 doi: https://doi.org/10.1109/tr.2019.2908068
 openalex_id: W2943287237
 venue: IEEE Transactions on Reliability
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Prioritization

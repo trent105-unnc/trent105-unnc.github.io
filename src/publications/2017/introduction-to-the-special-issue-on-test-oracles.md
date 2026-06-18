@@ -15,8 +15,6 @@ year: 2017
 doi: https://doi.org/10.1016/j.jss.2017.08.031
 openalex_id: W2750009193
 venue: Journal of Systems and Software
-pdf_url: https://figshare.com/articles/journal_contribution/Introduction_to_the_special_issue_on_test_oracles/13446485
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Oracle

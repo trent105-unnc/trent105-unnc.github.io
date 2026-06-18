@@ -11,8 +11,6 @@ year: 2023
 doi: https://doi.org/10.1017/9781108854269
 openalex_id: W4385639222
 venue: Cambridge University Press eBooks
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - China

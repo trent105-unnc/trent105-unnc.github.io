@@ -14,8 +14,6 @@ year: 2019
 doi: https://doi.org/10.1109/tale48000.2019.9225970
 openalex_id: W3094206264
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Active listening

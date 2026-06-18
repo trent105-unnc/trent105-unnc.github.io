@@ -15,8 +15,6 @@ year: 2019
 doi: https://doi.org/10.1108/vjikms-11-2018-0102
 openalex_id: W2983926835
 venue: VINE Journal of Information and Knowledge Management Systems
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

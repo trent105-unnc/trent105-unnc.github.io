@@ -21,8 +21,6 @@ year: 2022
 doi: https://doi.org/10.1007/978-3-031-19815-1_30
 openalex_id: W4221142870
 venue: Lecture notes in computer science
-pdf_url: https://arxiv.org/pdf/2203.07160
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

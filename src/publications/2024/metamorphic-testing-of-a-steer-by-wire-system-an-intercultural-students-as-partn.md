@@ -24,8 +24,6 @@ year: 2024
 doi: https://doi.org/10.1145/3679006.3685069
 openalex_id: W4402526954
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Metamorphic rock

@@ -21,8 +21,6 @@ year: 2019
 doi: https://doi.org/10.1080/13658816.2019.1641715
 openalex_id: W2963551795
 venue: International Journal of Geographical Information Systems
-pdf_url: https://research-information.bris.ac.uk/en/publications/9f970c6b-79e0-4e40-8c61-6a78fad0072a
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Cluster analysis

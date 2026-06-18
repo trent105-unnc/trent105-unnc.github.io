@@ -30,8 +30,6 @@ year: 2021
 doi: https://doi.org/10.1021/acsomega.1c03851
 openalex_id: W3204470425
 venue: ACS Omega
-pdf_url: https://doi.org/10.1021/acsomega.1c03851
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Response surface methodology

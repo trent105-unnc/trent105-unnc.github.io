@@ -15,8 +15,6 @@ year: 2018
 doi: https://doi.org/10.1109/compsac.2018.00116
 openalex_id: W4242732525
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

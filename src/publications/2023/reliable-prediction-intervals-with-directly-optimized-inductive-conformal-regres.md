@@ -12,8 +12,6 @@ year: 2023
 doi: https://doi.org/10.1016/j.neunet.2023.09.008
 openalex_id: W4386860576
 venue: Neural Networks
-pdf_url: https://doi.org/10.1016/j.neunet.2023.09.008
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Benchmark (surveying)

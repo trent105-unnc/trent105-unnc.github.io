@@ -16,8 +16,6 @@ year: 2025
 doi: https://doi.org/10.1007/s10489-025-06585-0
 openalex_id: W4409948818
 venue: Applied Intelligence
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

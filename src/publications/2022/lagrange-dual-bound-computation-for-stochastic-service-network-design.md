@@ -17,8 +17,6 @@ year: 2022
 doi: https://doi.org/10.1016/j.ejor.2022.01.044
 openalex_id: W4210708571
 venue: European Journal of Operational Research
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Mathematical optimization

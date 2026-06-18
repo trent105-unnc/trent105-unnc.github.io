@@ -22,8 +22,6 @@ year: 2024
 doi: https://doi.org/10.1016/j.patcog.2024.110579
 openalex_id: W4396834613
 venue: Pattern Recognition
-pdf_url: https://doi.org/10.1016/j.patcog.2024.110579
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Salient

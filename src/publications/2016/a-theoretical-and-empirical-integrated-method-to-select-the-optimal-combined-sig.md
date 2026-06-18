@@ -18,8 +18,6 @@ year: 2016
 doi: https://doi.org/10.3390/s16111929
 openalex_id: W2555432335
 venue: Sensors
-pdf_url: https://www.mdpi.com/1424-8220/16/11/1929/pdf?version=1479284074
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Ambiguity resolution

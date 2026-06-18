@@ -19,8 +19,6 @@ year: 2019
 doi: https://doi.org/10.1109/tsc.2019.2960496
 openalex_id: W2994855135
 venue: IEEE Transactions on Services Computing
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

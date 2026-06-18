@@ -16,8 +16,6 @@ year: 2020
 doi: https://doi.org/10.48550/arxiv.2012.06538
 openalex_id: W3111916130
 venue: arXiv (Cornell University)
-pdf_url: https://arxiv.org/pdf/2012.06538
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Metaheuristic

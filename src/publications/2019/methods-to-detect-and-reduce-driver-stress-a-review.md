@@ -13,8 +13,6 @@ year: 2019
 doi: https://doi.org/10.1007/s12239-019-0099-3
 openalex_id: W2968963421
 venue: International Journal of Automotive Technology
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Safe driving

@@ -17,8 +17,6 @@ year: 2015
 doi: https://doi.org/10.1016/j.future.2015.01.008
 openalex_id: W2038540196
 venue: Future Generation Computer Systems
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

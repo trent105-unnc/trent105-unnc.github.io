@@ -11,8 +11,6 @@ year: 2023
 doi: https://doi.org/10.5465/amproc.2023.15339abstract
 openalex_id: W4385225449
 venue: Academy of Management Proceedings
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Harmony (color)

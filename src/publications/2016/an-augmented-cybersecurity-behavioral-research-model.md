@@ -15,8 +15,6 @@ year: 2016
 doi: https://doi.org/10.1109/compsac.2016.52
 openalex_id: W2510995092
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer security

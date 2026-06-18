@@ -14,8 +14,6 @@ year: 2025
 doi: https://doi.org/10.1186/s13677-025-00737-w
 openalex_id: W4407895463
 venue: Journal of Cloud Computing Advances Systems and Applications
-pdf_url: https://journalofcloudcomputing.springeropen.com/counter/pdf/10.1186/s13677-025-00737-w
-abstract_page: 1
 abstract_screenshot: functionality-aware-offloading-technique-for-scheduling-containerized-edge-appli.png
 keywords:
   - Computer science

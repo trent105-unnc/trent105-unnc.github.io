@@ -20,8 +20,6 @@ year: 2024
 doi: https://doi.org/10.1109/compsac61105.2024.00317
 openalex_id: W4401879069
 venue: 
-pdf_url: https://nottingham-repository.worktribe.com/output/39712462
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Drug discovery

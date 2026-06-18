@@ -14,8 +14,6 @@ year: 2022
 doi: https://doi.org/10.1016/j.ribaf.2022.101792
 openalex_id: W4306630544
 venue: Research in International Business and Finance
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Multinational corporation

@@ -16,8 +16,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.ribaf.2025.102807
 openalex_id: W4407696335
 venue: Research in International Business and Finance
-pdf_url: https://doi.org/10.1016/j.ribaf.2025.102807
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Venture capital

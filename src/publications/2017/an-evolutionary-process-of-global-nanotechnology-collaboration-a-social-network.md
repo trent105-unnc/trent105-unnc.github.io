@@ -14,8 +14,6 @@ year: 2017
 doi: https://doi.org/10.1007/s11192-017-2362-6
 openalex_id: W2603557277
 venue: Scientometrics
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Betweenness centrality

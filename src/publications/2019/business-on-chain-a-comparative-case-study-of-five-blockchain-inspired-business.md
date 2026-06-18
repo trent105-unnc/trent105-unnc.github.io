@@ -18,8 +18,6 @@ year: 2019
 doi: https://doi.org/10.17705/1jais.00568
 openalex_id: W2977744086
 venue: Journal of the Association for Information Systems
-pdf_url: https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1904&context=jais
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Blockchain

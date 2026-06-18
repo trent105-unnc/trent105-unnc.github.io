@@ -19,8 +19,6 @@ year: 2023
 doi: https://doi.org/10.1109/jsen.2023.3279858
 openalex_id: W4378194824
 venue: IEEE Sensors Journal
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

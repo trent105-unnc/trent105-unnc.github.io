@@ -15,8 +15,6 @@ year: 2013
 doi: https://doi.org/10.1057/jors.2013.96
 openalex_id: W2074148772
 venue: Journal of the Operational Research Society
-pdf_url: http://eprints.nottingham.ac.uk/49415/
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Taxis

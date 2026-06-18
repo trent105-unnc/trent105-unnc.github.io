@@ -14,8 +14,6 @@ year: 2015
 doi: https://doi.org/10.1109/qrs.2015.39
 openalex_id: W1671132807
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Code coverage

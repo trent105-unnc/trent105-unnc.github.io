@@ -14,8 +14,6 @@ year: 2012
 doi: https://doi.org/10.1016/j.econmod.2012.06.025
 openalex_id: W2030109150
 venue: Economic Modelling
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Economics

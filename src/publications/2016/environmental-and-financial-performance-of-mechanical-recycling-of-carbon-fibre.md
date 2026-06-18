@@ -14,8 +14,6 @@ year: 2016
 doi: https://doi.org/10.1016/j.jclepro.2016.03.139
 openalex_id: W2320327177
 venue: Journal of Cleaner Production
-pdf_url: http://www.sciencedirect.com/science/article/pii/S0959652616302128
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Incineration

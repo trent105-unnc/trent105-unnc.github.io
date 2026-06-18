@@ -16,8 +16,6 @@ year: 2021
 doi: https://doi.org/10.1093/scipol/scab035
 openalex_id: W3160460498
 venue: Science and Public Policy
-pdf_url: https://dora.dmu.ac.uk/handle/2086/20828
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - China

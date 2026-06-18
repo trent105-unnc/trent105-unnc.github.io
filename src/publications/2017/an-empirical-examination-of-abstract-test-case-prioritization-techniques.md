@@ -17,8 +17,6 @@ year: 2017
 doi: https://doi.org/10.1109/icse-c.2017.105
 openalex_id: W2621003306
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Prioritization

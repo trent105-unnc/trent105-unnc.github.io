@@ -14,8 +14,6 @@ year: 2025
 doi: https://doi.org/10.1109/vr59515.2025.00035
 openalex_id: W4408954410
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Interpersonal communication

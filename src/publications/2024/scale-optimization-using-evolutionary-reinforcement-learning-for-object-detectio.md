@@ -26,8 +26,6 @@ year: 2024
 doi: https://doi.org/10.1609/aaai.v38i1.27795
 openalex_id: W4393158955
 venue: Proceedings of the AAAI Conference on Artificial Intelligence
-pdf_url: https://ojs.aaai.org/index.php/AAAI/article/download/27795/27623
-abstract_page: 1
 abstract_screenshot: scale-optimization-using-evolutionary-reinforcement-learning-for-object-detectio.png
 keywords:
   - Drone

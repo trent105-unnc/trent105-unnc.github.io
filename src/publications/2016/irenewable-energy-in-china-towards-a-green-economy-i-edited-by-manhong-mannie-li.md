@@ -12,8 +12,6 @@ year: 2016
 doi: https://doi.org/10.1086/683518
 openalex_id: W2510222469
 venue: The China Journal
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - China

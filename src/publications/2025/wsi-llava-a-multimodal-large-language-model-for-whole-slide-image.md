@@ -29,8 +29,6 @@ year: 2025
 doi: https://doi.org/10.1109/iccv51701.2025.02109
 openalex_id: W4405037468
 venue: 
-pdf_url: https://arxiv.org/pdf/2412.02141
-abstract_page: 2
 abstract_screenshot: wsi-llava-a-multimodal-large-language-model-for-whole-slide-image.png
 keywords:
   - Computer science

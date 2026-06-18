@@ -21,8 +21,6 @@ year: 2018
 doi: https://doi.org/10.1145/3143561
 openalex_id: W2782311202
 venue: ACM Computing Surveys
-pdf_url: https://nottingham-repository.worktribe.com/output/925152
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

@@ -14,8 +14,6 @@ year: 2023
 doi: https://doi.org/10.2139/ssrn.4531836
 openalex_id: W4385654408
 venue: SSRN Electronic Journal
-pdf_url: https://doi.org/10.2139/ssrn.4531836
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Financial stability

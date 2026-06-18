@@ -18,8 +18,6 @@ year: 2022
 doi: https://doi.org/10.1016/j.tranpol.2022.11.010
 openalex_id: W4309749674
 venue: Transport Policy
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Container (type theory)

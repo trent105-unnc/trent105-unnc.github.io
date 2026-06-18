@@ -15,8 +15,6 @@ year: 2015
 doi: https://doi.org/10.1007/s11432-015-5314-x
 openalex_id: W2010962701
 venue: Science China Information Sciences
-pdf_url: http://eprints.nottingham.ac.uk/47707/
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Random testing

@@ -19,8 +19,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.knosys.2025.114003
 openalex_id: W4412430533
 venue: Knowledge-Based Systems
-pdf_url: https://doi.org/10.1016/j.knosys.2025.114003
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Closed captioning

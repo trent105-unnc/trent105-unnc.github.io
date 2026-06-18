@@ -23,8 +23,6 @@ year: 2024
 doi: https://doi.org/10.1016/j.cexr.2024.100070
 openalex_id: W4398187611
 venue: Computers & Education X Reality
-pdf_url: https://doi.org/10.1016/j.cexr.2024.100070
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Augmented reality

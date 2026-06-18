@@ -18,8 +18,6 @@ year: 2023
 doi: https://doi.org/10.1016/j.patcog.2023.110236
 openalex_id: W4390322455
 venue: Pattern Recognition
-pdf_url: https://www.sciencedirect.com/science/article/pii/S0031320323009330
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Discretization

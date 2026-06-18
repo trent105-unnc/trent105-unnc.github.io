@@ -31,8 +31,6 @@ year: 2023
 doi: https://doi.org/10.1109/compsac57700.2023.00009
 openalex_id: W4385489539
 venue: 
-pdf_url: https://ieeexplore.ieee.org/ielx7/10196792/10196808/10196831.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

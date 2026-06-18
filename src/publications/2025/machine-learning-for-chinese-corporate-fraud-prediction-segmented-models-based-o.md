@@ -16,8 +16,6 @@ year: 2025
 doi: https://doi.org/10.3390/info16050397
 openalex_id: W4410299560
 venue: Information
-pdf_url: https://www.mdpi.com/2078-2489/16/5/397/pdf?version=1747061685
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Training (meteorology)

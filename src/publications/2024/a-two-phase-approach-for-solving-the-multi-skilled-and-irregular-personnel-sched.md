@@ -18,8 +18,6 @@ year: 2024
 doi: https://doi.org/10.21203/rs.3.rs-4449906/v1
 openalex_id: W4399331293
 venue: Research Square
-pdf_url: https://www.researchsquare.com/article/rs-4449906/latest.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

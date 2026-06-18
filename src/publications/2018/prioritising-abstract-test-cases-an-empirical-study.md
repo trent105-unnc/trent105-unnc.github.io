@@ -19,8 +19,6 @@ year: 2018
 doi: https://doi.org/10.1049/iet-sen.2018.5199
 openalex_id: W2895969100
 venue: IET Software
-pdf_url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/iet-sen.2018.5199
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Test (biology)

@@ -18,8 +18,6 @@ year: 2024
 doi: https://doi.org/10.1016/j.infsof.2024.107528
 openalex_id: W4400768472
 venue: Information and Software Technology
-pdf_url: https://doi.org/10.1016/j.infsof.2024.107528
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Algorithm

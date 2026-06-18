@@ -17,8 +17,6 @@ year: 2017
 doi: 
 openalex_id: W2913784326
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Oracle

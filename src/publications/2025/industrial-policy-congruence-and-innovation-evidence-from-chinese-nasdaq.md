@@ -15,8 +15,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.respol.2025.105298
 openalex_id: W4412463855
 venue: Research Policy
-pdf_url: https://doi.org/10.1016/j.respol.2025.105298
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Congruence (geometry)

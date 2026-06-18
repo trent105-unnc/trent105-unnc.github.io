@@ -23,8 +23,6 @@ year: 2022
 doi: https://doi.org/10.1109/ictas53252.2022.9744654
 openalex_id: W4226124583
 venue: 
-pdf_url: https://ieeexplore.ieee.org/ielx7/9744636/9744642/09744654.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

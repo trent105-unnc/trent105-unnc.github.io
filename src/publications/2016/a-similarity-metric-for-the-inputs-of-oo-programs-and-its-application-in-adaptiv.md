@@ -20,8 +20,6 @@ year: 2016
 doi: https://doi.org/10.1109/tr.2016.2628759
 openalex_id: W2561884496
 venue: IEEE Transactions on Reliability
-pdf_url: http://eprints.nottingham.ac.uk/47713/
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Random testing

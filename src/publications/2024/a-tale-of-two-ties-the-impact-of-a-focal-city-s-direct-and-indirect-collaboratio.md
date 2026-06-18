@@ -16,8 +16,6 @@ year: 2024
 doi: https://doi.org/10.1007/s10961-024-10161-y
 openalex_id: W4404700791
 venue: The Journal of Technology Transfer
-pdf_url: https://link.springer.com/content/pdf/10.1007/s10961-024-10161-y.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Economic geography

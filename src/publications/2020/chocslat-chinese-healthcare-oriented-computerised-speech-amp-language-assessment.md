@@ -26,8 +26,6 @@ year: 2020
 doi: https://doi.org/10.1109/compsac48688.2020.00-49
 openalex_id: W3088215428
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Health care

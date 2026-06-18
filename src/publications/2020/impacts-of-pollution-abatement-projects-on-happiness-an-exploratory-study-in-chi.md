@@ -18,8 +18,6 @@ year: 2020
 doi: https://doi.org/10.1016/j.jclepro.2020.122869
 openalex_id: W3042669157
 venue: Journal of Cleaner Production
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Happiness

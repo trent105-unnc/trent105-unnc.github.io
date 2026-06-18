@@ -14,8 +14,6 @@ year: 2026
 doi: https://doi.org/10.1109/cai68641.2026.11536261
 openalex_id: W7163050079
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Bridging (networking)

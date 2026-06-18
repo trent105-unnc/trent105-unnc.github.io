@@ -34,8 +34,6 @@ year: 2026
 doi: https://doi.org/10.1186/s40658-026-00889-x
 openalex_id: W7162102087
 venue: EJNMMI Physics
-pdf_url: https://doi.org/10.1186/s40658-026-00889-x
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Image quality

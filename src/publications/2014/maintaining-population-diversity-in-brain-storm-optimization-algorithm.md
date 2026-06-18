@@ -17,8 +17,6 @@ year: 2014
 doi: https://doi.org/10.1109/cec.2014.6900255
 openalex_id: W2150789866
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Premature convergence

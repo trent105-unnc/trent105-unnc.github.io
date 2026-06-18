@@ -28,8 +28,6 @@ year: 2024
 doi: https://doi.org/10.1016/j.artmed.2024.102822
 openalex_id: W4392202585
 venue: Artificial Intelligence in Medicine
-pdf_url: https://doi.org/10.1016/j.artmed.2024.102822
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

@@ -16,8 +16,6 @@ year: 2024
 doi: https://doi.org/10.1002/stvr.1908
 openalex_id: W4404762780
 venue: Software Testing Verification and Reliability
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Selection (genetic algorithm)

@@ -60,8 +60,6 @@ year: 2025
 doi: https://doi.org/10.1145/3769733.3769740
 openalex_id: W4415051858
 venue: ACM SIGIR Forum
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Neurophysiology

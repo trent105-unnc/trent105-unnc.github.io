@@ -20,8 +20,6 @@ year: 2020
 doi: https://doi.org/10.1080/00207543.2020.1766716
 openalex_id: W3032698666
 venue: International Journal of Production Research
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

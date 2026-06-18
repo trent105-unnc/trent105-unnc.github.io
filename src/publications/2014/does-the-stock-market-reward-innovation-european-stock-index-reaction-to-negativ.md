@@ -16,8 +16,6 @@ year: 2014
 doi: https://doi.org/10.1016/j.jimonfin.2014.06.004
 openalex_id: W3123846955
 venue: Journal of International Money and Finance
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Financial crisis

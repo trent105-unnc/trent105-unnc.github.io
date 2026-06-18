@@ -17,8 +17,6 @@ year: 2024
 doi: https://doi.org/10.1109/icassp48485.2024.10445825
 openalex_id: W4392903171
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Spectrogram

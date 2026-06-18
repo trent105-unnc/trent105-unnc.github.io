@@ -13,8 +13,6 @@ year: 2019
 doi: https://doi.org/10.1109/met.2019.00015
 openalex_id: W2955676268
 venue: 
-pdf_url: https://figshare.com/articles/conference_contribution/Metamorphic_exploration_of_an_unsupervised_clustering_program/27781959
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Cluster analysis

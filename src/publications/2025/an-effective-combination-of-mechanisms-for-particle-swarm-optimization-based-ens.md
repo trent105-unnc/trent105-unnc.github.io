@@ -18,8 +18,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.swevo.2025.102154
 openalex_id: W4414152289
 venue: Swarm and Evolutionary Computation
-pdf_url: https://nottingham-repository.worktribe.com/output/54252473
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Particle swarm optimization

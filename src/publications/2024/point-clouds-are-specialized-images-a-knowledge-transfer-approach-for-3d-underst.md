@@ -16,8 +16,6 @@ year: 2024
 doi: https://doi.org/10.1109/tmm.2024.3412330
 openalex_id: W4399526831
 venue: IEEE Transactions on Multimedia
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

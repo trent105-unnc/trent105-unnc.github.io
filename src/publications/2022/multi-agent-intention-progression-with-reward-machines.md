@@ -18,8 +18,6 @@ doi: https://doi.org/10.24963/ijcai.2022/31
 openalex_id: W4285602641
 venue: Proceedings of the Thirty-First International Joint Conference on Artificial
 Intelligence
-pdf_url: https://www.ijcai.org/proceedings/2022/0031.pdf
-abstract_page: 1
 abstract_screenshot: multi-agent-intention-progression-with-reward-machines.png
 keywords:
   - Computer science

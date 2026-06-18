@@ -14,8 +14,6 @@ year: 2023
 doi: https://doi.org/10.1016/j.pacfin.2023.101949
 openalex_id: W4318426676
 venue: Pacific-Basin Finance Journal
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Loss given default

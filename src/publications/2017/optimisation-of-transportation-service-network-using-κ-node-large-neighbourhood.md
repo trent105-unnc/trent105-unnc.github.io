@@ -16,8 +16,6 @@ year: 2017
 doi: https://doi.org/10.1016/j.cor.2017.06.008
 openalex_id: W2624821987
 venue: Computers & Operations Research
-pdf_url: https://doi.org/10.1016/j.cor.2017.06.008
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Metaheuristic

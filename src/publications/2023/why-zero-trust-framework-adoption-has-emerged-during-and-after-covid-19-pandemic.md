@@ -15,8 +15,6 @@ year: 2023
 doi: https://doi.org/10.1007/978-3-031-28694-0_17
 openalex_id: W4324277955
 venue: Lecture notes in networks and systems
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Popularity

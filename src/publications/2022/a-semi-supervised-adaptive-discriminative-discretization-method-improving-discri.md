@@ -14,8 +14,6 @@ year: 2022
 doi: https://doi.org/10.2139/ssrn.4281601
 openalex_id: W4312573953
 venue: SSRN Electronic Journal
-pdf_url: https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4281601
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Discriminative model

@@ -16,8 +16,6 @@ year: 2014
 doi: https://doi.org/10.1007/s10489-014-0615-0
 openalex_id: W2038015627
 venue: Applied Intelligence
-pdf_url: https://nottingham-repository.worktribe.com/output/753504
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Heuristics

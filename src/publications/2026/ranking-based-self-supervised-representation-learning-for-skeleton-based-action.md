@@ -24,8 +24,6 @@ year: 2026
 doi: https://doi.org/10.1109/tmm.2026.3654466
 openalex_id: W7124454052
 venue: IEEE Transactions on Multimedia
-pdf_url: https://doi.org/10.1109/TMM.2026.3654466
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Discriminative model

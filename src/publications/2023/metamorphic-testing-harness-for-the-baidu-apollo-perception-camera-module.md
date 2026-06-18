@@ -23,8 +23,6 @@ year: 2023
 doi: https://doi.org/10.1109/met59151.2023.00009
 openalex_id: W4385325964
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Apollo

@@ -13,8 +13,6 @@ year: 2025
 doi: https://doi.org/10.1109/access.2025.3635243
 openalex_id: W4416429216
 venue: IEEE Access
-pdf_url: https://doi.org/10.1109/access.2025.3635243
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Odometry

@@ -14,8 +14,6 @@ year: 2012
 doi: https://doi.org/10.2139/ssrn.2022682
 openalex_id: W206733738
 venue: SSRN Electronic Journal
-pdf_url: https://doi.org/10.2139/ssrn.2022682
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Panel data

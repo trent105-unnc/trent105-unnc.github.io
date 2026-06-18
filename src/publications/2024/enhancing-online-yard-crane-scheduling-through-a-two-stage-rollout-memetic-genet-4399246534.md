@@ -18,8 +18,6 @@ year: 2024
 doi: https://doi.org/10.21203/rs.3.rs-4449908/v1
 openalex_id: W4399246534
 venue: Research Square
-pdf_url: https://www.researchsquare.com/article/rs-4449908/latest.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Memetic algorithm

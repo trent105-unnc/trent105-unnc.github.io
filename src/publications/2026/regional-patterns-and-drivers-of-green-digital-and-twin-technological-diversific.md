@@ -16,8 +16,6 @@ year: 2026
 doi: https://doi.org/10.1080/00343404.2026.2650680
 openalex_id: W7160616443
 venue: Regional Studies
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Diversification (marketing strategy)

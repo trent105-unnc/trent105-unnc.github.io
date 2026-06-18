@@ -33,8 +33,6 @@ year: 2015
 doi: https://doi.org/10.1057/jors.2015.77
 openalex_id: W2175760929
 venue: Journal of the Operational Research Society
-pdf_url: https://eprints.qut.edu.au/113630/1/article.pdf
-abstract_page: 4
 abstract_screenshot: good-laboratory-practice-for-optimization-research.png
 keywords:
   - Management science

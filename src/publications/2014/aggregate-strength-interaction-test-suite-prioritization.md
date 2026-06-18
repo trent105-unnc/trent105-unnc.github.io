@@ -17,8 +17,6 @@ year: 2014
 doi: https://doi.org/10.1016/j.jss.2014.09.002
 openalex_id: W2061211595
 venue: Journal of Systems and Software
-pdf_url: http://eprints.nottingham.ac.uk/51753/
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Test suite

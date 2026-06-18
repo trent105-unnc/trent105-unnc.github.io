@@ -18,8 +18,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.bar.2025.101636
 openalex_id: W4408473501
 venue: The British Accounting Review
-pdf_url: https://doi.org/10.1016/j.bar.2025.101636
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Social capital

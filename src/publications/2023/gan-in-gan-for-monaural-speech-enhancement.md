@@ -15,8 +15,6 @@ year: 2023
 doi: https://doi.org/10.1109/lsp.2023.3293758
 openalex_id: W4383750092
 venue: IEEE Signal Processing Letters
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Spectrogram

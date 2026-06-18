@@ -23,8 +23,6 @@ year: 2024
 doi: https://doi.org/10.1109/tcsvt.2024.3395132
 openalex_id: W4396214386
 venue: IEEE Transactions on Circuits and Systems for Video Technology
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

@@ -20,8 +20,6 @@ year: 2025
 doi: https://doi.org/10.1109/cism64958.2025.11060859
 openalex_id: W4412109191
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Position (finance)

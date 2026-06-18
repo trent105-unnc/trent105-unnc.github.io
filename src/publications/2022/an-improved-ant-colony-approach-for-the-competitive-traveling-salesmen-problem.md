@@ -17,8 +17,6 @@ year: 2022
 doi: https://doi.org/10.1109/cec55065.2022.9870414
 openalex_id: W4294811610
 venue: 2022 IEEE Congress on Evolutionary Computation (CEC)
-pdf_url: https://nottingham-repository.worktribe.com/output/11462419
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Travelling salesman problem

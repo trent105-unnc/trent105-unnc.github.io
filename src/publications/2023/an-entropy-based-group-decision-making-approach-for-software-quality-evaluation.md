@@ -17,8 +17,6 @@ year: 2023
 doi: https://doi.org/10.1016/j.eswa.2023.121979
 openalex_id: W4387409571
 venue: Expert Systems with Applications
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Regret

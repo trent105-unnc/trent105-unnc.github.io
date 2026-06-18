@@ -20,8 +20,6 @@ year: 2022
 doi: https://doi.org/10.1109/tmm.2022.3171085
 openalex_id: W4293203016
 venue: IEEE Transactions on Multimedia
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

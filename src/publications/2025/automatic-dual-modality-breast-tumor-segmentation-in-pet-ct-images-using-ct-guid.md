@@ -26,8 +26,6 @@ year: 2025
 doi: https://doi.org/10.1002/mp.70136
 openalex_id: W4416227602
 venue: Medical Physics
-pdf_url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mp.70136
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Breast tumor

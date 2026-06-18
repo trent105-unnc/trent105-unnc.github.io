@@ -17,8 +17,6 @@ year: 2022
 doi: https://doi.org/10.1109/icpr56361.2022.9956358
 openalex_id: W4312854161
 venue: 2022 26th International Conference on Pattern Recognition (ICPR)
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Naive Bayes classifier

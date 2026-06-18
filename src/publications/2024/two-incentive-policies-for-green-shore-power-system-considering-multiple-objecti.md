@@ -16,8 +16,6 @@ year: 2024
 doi: https://doi.org/10.1016/j.cie.2024.110338
 openalex_id: W4400345391
 venue: Computers & Industrial Engineering
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Incentive

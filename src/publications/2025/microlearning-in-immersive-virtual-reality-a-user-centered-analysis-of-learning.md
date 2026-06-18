@@ -20,8 +20,6 @@ year: 2025
 doi: https://doi.org/10.1109/tlt.2025.3533360
 openalex_id: W4406794457
 venue: IEEE Transactions on Learning Technologies
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

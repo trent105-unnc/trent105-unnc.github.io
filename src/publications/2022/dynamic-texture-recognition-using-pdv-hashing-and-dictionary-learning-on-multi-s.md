@@ -17,8 +17,6 @@ doi: https://doi.org/10.1109/icassp43922.2022.9747106
 openalex_id: W3216518016
 venue: ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal
 Processing (ICASSP)
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Pattern recognition (psychology)

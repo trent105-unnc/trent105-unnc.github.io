@@ -15,8 +15,6 @@ year: 2011
 doi: https://doi.org/10.1016/j.ins.2011.11.028
 openalex_id: W2166050689
 venue: Information Sciences
-pdf_url: https://nottingham-repository.worktribe.com/output/709924
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Tabu search

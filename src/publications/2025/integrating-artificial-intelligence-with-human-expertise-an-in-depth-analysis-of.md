@@ -20,8 +20,6 @@ year: 2025
 doi: https://doi.org/10.48550/arxiv.2503.22141
 openalex_id: W4416422254
 venue: ArXiv.org
-pdf_url: https://arxiv.org/pdf/2503.22141
-abstract_page: 1
 abstract_screenshot: integrating-artificial-intelligence-with-human-expertise-an-in-depth-analysis-of.png
 keywords:
   - Software

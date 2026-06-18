@@ -17,8 +17,6 @@ year: 2022
 doi: https://doi.org/10.1002/spe.3068
 openalex_id: W4205200396
 venue: Software Practice and Experience
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Granularity

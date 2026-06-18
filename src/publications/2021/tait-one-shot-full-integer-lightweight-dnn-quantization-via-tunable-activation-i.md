@@ -20,8 +20,6 @@ year: 2021
 doi: https://doi.org/10.1109/dac18074.2021.9586109
 openalex_id: W3214591391
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Quantization (signal processing)

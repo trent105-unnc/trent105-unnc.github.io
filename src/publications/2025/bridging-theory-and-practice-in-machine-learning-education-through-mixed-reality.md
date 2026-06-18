@@ -12,8 +12,6 @@ year: 2025
 doi: https://doi.org/10.1109/tale66047.2025.11346761
 openalex_id: W7125609646
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Bridging (networking)

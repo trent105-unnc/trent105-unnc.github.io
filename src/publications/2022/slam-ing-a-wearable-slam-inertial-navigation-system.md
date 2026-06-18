@@ -17,8 +17,6 @@ year: 2022
 doi: https://doi.org/10.1109/sensors52175.2022.9967255
 openalex_id: W4311413858
 venue: 2022 IEEE Sensors
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

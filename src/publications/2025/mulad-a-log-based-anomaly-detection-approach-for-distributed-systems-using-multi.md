@@ -16,8 +16,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.scico.2025.103433
 openalex_id: W7116832739
 venue: Science of Computer Programming
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Anomaly detection

@@ -26,8 +26,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.knosys.2025.113641
 openalex_id: W4410528390
 venue: Knowledge-Based Systems
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Kernel (algebra)

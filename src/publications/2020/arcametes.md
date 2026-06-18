@@ -17,8 +17,6 @@ year: 2020
 doi: https://doi.org/10.1145/3387940.3391482
 openalex_id: W3088042539
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

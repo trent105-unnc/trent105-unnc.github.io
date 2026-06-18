@@ -16,8 +16,6 @@ year: 2023
 doi: https://doi.org/10.1109/ssci52147.2023.10371983
 openalex_id: W4390483955
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Vehicle routing problem

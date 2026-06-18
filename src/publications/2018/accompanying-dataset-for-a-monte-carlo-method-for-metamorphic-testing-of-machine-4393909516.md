@@ -16,8 +16,6 @@ year: 2018
 doi: https://doi.org/10.5281/zenodo.1194560
 openalex_id: W4393909516
 venue: Zenodo (CERN European Organization for Nuclear Research)
-pdf_url: https://doi.org/10.5281/zenodo.1194560
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Monte Carlo method

@@ -13,8 +13,6 @@ year: 2026
 doi: https://doi.org/10.1016/j.eswa.2025.131074
 openalex_id: W7121561599
 venue: Expert Systems with Applications
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Knapsack problem

@@ -28,8 +28,6 @@ year: 2023
 doi: https://doi.org/10.2139/ssrn.4490001
 openalex_id: W4383899784
 venue: SSRN Electronic Journal
-pdf_url: http://dx.doi.org/10.2139/ssrn.4490001
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

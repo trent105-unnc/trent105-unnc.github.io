@@ -28,8 +28,6 @@ year: 2021
 doi: https://doi.org/10.3390/en14185916
 openalex_id: W3199907500
 venue: Energies
-pdf_url: https://www.mdpi.com/1996-1073/14/18/5916/pdf?version=1632305237
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Ion

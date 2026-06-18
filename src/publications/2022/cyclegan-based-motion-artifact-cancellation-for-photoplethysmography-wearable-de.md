@@ -16,8 +16,6 @@ year: 2022
 doi: https://doi.org/10.1007/978-3-030-98404-5_13
 openalex_id: W4225716613
 venue: Lecture notes in computer science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Photoplethysmogram

@@ -24,8 +24,6 @@ year: 2025
 doi: https://doi.org/10.3390/info17010005
 openalex_id: W7116984300
 venue: Information
-pdf_url: https://doi.org/10.3390/info17010005
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Interpretability

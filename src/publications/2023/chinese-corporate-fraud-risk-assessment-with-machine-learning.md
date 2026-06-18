@@ -23,8 +23,6 @@ year: 2023
 doi: https://doi.org/10.1016/j.iswa.2023.200294
 openalex_id: W4388011682
 venue: Intelligent Systems with Applications
-pdf_url: https://doi.org/10.1016/j.iswa.2023.200294
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Feature (linguistics)

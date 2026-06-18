@@ -17,8 +17,6 @@ year: 2020
 doi: https://doi.org/10.1007/978-3-030-59595-1_5
 openalex_id: W3089706162
 venue: Lecture notes in computer science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Blockchain

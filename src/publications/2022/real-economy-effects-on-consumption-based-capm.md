@@ -15,8 +15,6 @@ year: 2022
 doi: https://doi.org/10.3390/math10030360
 openalex_id: W4210802171
 venue: Mathematics
-pdf_url: https://www.mdpi.com/2227-7390/10/3/360/pdf?version=1643109637
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Capital asset pricing model

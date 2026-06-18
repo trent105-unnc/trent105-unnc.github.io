@@ -15,8 +15,6 @@ year: 2021
 doi: https://doi.org/10.1109/compsac51774.2021.00184
 openalex_id: W3201031582
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

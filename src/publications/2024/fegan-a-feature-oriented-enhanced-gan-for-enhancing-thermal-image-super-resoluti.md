@@ -20,8 +20,6 @@ year: 2024
 doi: https://doi.org/10.1109/lsp.2024.3356751
 openalex_id: W4391092489
 venue: IEEE Signal Processing Letters
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Feature (linguistics)

@@ -16,8 +16,6 @@ year: 2021
 doi: https://doi.org/10.3390/rs13010132
 openalex_id: W3119239127
 venue: Remote Sensing
-pdf_url: https://www.mdpi.com/2072-4292/13/1/132/pdf?version=1609924048
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Resampling

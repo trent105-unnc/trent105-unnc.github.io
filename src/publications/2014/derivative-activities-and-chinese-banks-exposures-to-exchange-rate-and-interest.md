@@ -16,8 +16,6 @@ year: 2014
 doi: https://doi.org/10.1080/1351847x.2014.899260
 openalex_id: W1981722919
 venue: European Journal of Finance
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Derivative (finance)

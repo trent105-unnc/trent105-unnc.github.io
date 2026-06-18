@@ -20,8 +20,6 @@ year: 2024
 doi: https://doi.org/10.1109/tse.2024.3379592
 openalex_id: W4393058040
 venue: IEEE Transactions on Software Engineering
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

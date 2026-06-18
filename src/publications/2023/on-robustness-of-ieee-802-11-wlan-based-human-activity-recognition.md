@@ -17,8 +17,6 @@ year: 2023
 doi: https://doi.org/10.1109/cscn60443.2023.10453177
 openalex_id: W4392410872
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Robustness (evolution)

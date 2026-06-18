@@ -16,8 +16,6 @@ year: 2025
 doi: https://doi.org/10.1007/s11265-025-01957-8
 openalex_id: W4410921808
 venue: Journal of Signal Processing Systems
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Artificial intelligence

@@ -22,8 +22,6 @@ year: 2021
 doi: https://doi.org/10.1109/tale52509.2021.9678744
 openalex_id: W4206899161
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Curriculum

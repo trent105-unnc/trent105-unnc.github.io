@@ -18,8 +18,6 @@ year: 2024
 doi: https://doi.org/10.2139/ssrn.4777950
 openalex_id: W4393304385
 venue: SSRN Electronic Journal
-pdf_url: http://dx.doi.org/10.2139/ssrn.4777950
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Group (periodic table)

@@ -24,8 +24,6 @@ year: 2024
 doi: https://doi.org/10.1016/j.jrras.2024.101097
 openalex_id: W4402642886
 venue: Journal of Radiation Research and Applied Sciences
-pdf_url: https://doi.org/10.1016/j.jrras.2024.101097
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Feature (linguistics)

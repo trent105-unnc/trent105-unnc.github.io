@@ -15,8 +15,6 @@ year: 2020
 doi: https://doi.org/10.1109/compsac48688.2020.00-38
 openalex_id: W3088352915
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Virtual reality

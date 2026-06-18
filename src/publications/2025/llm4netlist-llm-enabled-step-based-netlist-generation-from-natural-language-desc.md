@@ -22,8 +22,6 @@ year: 2025
 doi: https://doi.org/10.1109/jetcas.2025.3568548
 openalex_id: W4410226776
 venue: IEEE Journal on Emerging and Selected Topics in Circuits and Systems
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Netlist

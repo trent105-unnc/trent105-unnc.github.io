@@ -25,8 +25,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.foodpol.2025.102813
 openalex_id: W4408057694
 venue: Food Policy
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - China

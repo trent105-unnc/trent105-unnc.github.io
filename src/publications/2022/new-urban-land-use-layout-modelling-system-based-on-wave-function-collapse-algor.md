@@ -20,8 +20,6 @@ year: 2022
 doi: https://doi.org/10.2139/ssrn.4180765
 openalex_id: W4289734200
 venue: SSRN Electronic Journal
-pdf_url: https://doi.org/10.2139/ssrn.4180765
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Algorithm

@@ -17,8 +17,6 @@ year: 2023
 doi: https://doi.org/10.1007/s11042-023-15916-7
 openalex_id: W4382560863
 venue: Multimedia Tools and Applications
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

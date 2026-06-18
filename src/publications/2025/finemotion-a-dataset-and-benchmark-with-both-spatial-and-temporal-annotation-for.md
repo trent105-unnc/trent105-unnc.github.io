@@ -24,8 +24,6 @@ year: 2025
 doi: https://doi.org/10.1109/iccv51701.2025.01284
 openalex_id: W7160160155
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Benchmark (surveying)

@@ -17,8 +17,6 @@ year: 2017
 doi: https://doi.org/10.1108/ics-11-2016-0085
 openalex_id: W2761473796
 venue: Information and Computer Security
-pdf_url: https://nottingham-repository.worktribe.com/output/875484
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Likert scale

@@ -17,8 +17,6 @@ year: 2025
 doi: https://doi.org/10.1145/3771727
 openalex_id: W4415106599
 venue: ACM Transactions on Software Engineering and Methodology
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Test (biology)

@@ -14,8 +14,6 @@ year: 2021
 doi: https://doi.org/10.3390/s21155135
 openalex_id: W3188833721
 venue: Sensors
-pdf_url: https://www.mdpi.com/1424-8220/21/15/5135/pdf?version=1627616646
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Electroencephalography

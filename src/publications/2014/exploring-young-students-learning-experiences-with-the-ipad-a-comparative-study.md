@@ -14,8 +14,6 @@ year: 2014
 doi: https://doi.org/10.1007/s10209-014-0395-7
 openalex_id: W1993023324
 venue: Universal Access in the Information Society
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Usability

@@ -15,8 +15,6 @@ year: 2016
 doi: https://doi.org/10.1007/s11432-016-5544-6
 openalex_id: W2336957653
 venue: Science China Information Sciences
-pdf_url: http://eprints.nottingham.ac.uk/51789/
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Selection (genetic algorithm)

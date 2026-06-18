@@ -14,8 +14,6 @@ year: 2023
 doi: https://doi.org/10.1109/tale56641.2023.10398330
 openalex_id: W4391266266
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Virtual reality

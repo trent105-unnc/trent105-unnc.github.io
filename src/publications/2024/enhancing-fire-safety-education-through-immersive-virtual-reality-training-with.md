@@ -14,8 +14,6 @@ year: 2024
 doi: https://doi.org/10.1080/10447318.2024.2364979
 openalex_id: W4399890102
 venue: International Journal of Human-Computer Interaction
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Haptic technology

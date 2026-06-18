@@ -36,8 +36,6 @@ year: 2025
 doi: https://doi.org/10.1109/trpms.2025.3566556
 openalex_id: W4410027440
 venue: IEEE Transactions on Radiation and Plasma Medical Sciences
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Duration (music)

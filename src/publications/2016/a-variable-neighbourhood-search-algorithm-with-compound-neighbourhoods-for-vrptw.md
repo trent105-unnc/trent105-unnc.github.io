@@ -15,8 +15,6 @@ year: 2016
 doi: https://doi.org/10.5220/0005661800250035
 openalex_id: W2345222839
 venue: 
-pdf_url: https://doi.org/10.5220/0005661800250035
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Vehicle routing problem

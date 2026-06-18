@@ -18,8 +18,6 @@ year: 2016
 doi: https://doi.org/10.1016/j.jss.2016.04.002
 openalex_id: W2342081626
 venue: Journal of Systems and Software
-pdf_url: http://www.sciencedirect.com/science/article/pii/S0164121216300206
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Oracle

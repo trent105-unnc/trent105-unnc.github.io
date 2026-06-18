@@ -18,8 +18,6 @@ year: 2022
 doi: https://doi.org/10.1109/tr.2022.3218602
 openalex_id: W4206882053
 venue: IEEE Transactions on Reliability
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

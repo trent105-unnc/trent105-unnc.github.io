@@ -15,8 +15,6 @@ year: 2019
 doi: https://doi.org/10.2139/ssrn.3395899
 openalex_id: W3126098263
 venue: SSRN Electronic Journal
-pdf_url: https://doi.org/10.2139/ssrn.3395899
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - China

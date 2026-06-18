@@ -18,8 +18,6 @@ year: 2015
 doi: https://doi.org/10.1002/spe.2324
 openalex_id: W2135842852
 venue: Software Practice and Experience
-pdf_url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/spe.2324
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

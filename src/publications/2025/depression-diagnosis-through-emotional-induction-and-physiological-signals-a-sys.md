@@ -16,8 +16,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.neubiorev.2025.106243
 openalex_id: W4411918686
 venue: Neuroscience & Biobehavioral Reviews
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Psychology

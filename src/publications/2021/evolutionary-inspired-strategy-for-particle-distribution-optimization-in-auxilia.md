@@ -16,8 +16,6 @@ year: 2021
 doi: https://doi.org/10.1109/ipin51156.2021.9662586
 openalex_id: W4206785350
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Particle filter

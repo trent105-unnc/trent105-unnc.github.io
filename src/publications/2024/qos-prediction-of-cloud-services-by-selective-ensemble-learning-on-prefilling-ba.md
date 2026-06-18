@@ -18,8 +18,6 @@ year: 2024
 doi: https://doi.org/10.1002/cpe.8282
 openalex_id: W4402542691
 venue: Concurrency and Computation Practice and Experience
-pdf_url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cpe.8282
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

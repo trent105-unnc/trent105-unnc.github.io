@@ -16,8 +16,6 @@ year: 2025
 doi: https://doi.org/10.1177/01655515251362329
 openalex_id: W4413413802
 venue: Journal of Information Science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Multidisciplinary approach

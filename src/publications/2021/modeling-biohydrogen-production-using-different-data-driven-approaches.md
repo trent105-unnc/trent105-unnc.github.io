@@ -23,8 +23,6 @@ year: 2021
 doi: https://doi.org/10.1016/j.ijhydene.2021.06.122
 openalex_id: W3178473950
 venue: International Journal of Hydrogen Energy
-pdf_url: https://ro.ecu.edu.au/ecuworkspost2013/11020
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Response surface methodology

@@ -22,8 +22,6 @@ year: 2022
 doi: https://doi.org/10.1109/tvlsi.2022.3144321
 openalex_id: W4210301590
 venue: IEEE Transactions on Very Large Scale Integration (VLSI) Systems
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Field-programmable gate array

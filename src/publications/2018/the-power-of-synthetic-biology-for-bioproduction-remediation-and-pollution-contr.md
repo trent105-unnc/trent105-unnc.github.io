@@ -40,8 +40,6 @@ year: 2018
 doi: https://doi.org/10.15252/embr.201745658
 openalex_id: W2793677392
 venue: EMBO Reports
-pdf_url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.15252/embr.201745658
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Bioproduction

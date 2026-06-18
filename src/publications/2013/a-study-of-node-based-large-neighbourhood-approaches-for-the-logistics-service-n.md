@@ -16,8 +16,6 @@ year: 2013
 doi: 
 openalex_id: W2187421153
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Tabu search

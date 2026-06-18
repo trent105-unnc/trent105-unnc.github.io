@@ -11,8 +11,6 @@ year: 2019
 doi: https://doi.org/10.1609/aaai.v33i01.33012776
 openalex_id: W2904386975
 venue: Proceedings of the AAAI Conference on Artificial Intelligence
-pdf_url: https://doi.org/10.1609/aaai.v33i01.33012776
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Euclidean geometry

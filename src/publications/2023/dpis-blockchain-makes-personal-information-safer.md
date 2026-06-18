@@ -15,8 +15,6 @@ year: 2023
 doi: https://doi.org/10.1109/icbctis59921.2023.00013
 openalex_id: W4386208015
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Blockchain

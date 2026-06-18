@@ -15,8 +15,6 @@ year: 2024
 doi: https://doi.org/10.1111/eufm.12523
 openalex_id: W4403602749
 venue: European Financial Management
-pdf_url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/eufm.12523
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Renewable energy

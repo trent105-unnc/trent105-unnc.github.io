@@ -19,8 +19,6 @@ year: 2022
 doi: https://doi.org/10.1109/icip46576.2022.9897996
 openalex_id: W4308234024
 venue: 2022 IEEE International Conference on Image Processing (ICIP)
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

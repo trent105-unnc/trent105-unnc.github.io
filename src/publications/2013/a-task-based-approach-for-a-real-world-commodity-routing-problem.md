@@ -15,8 +15,6 @@ year: 2013
 doi: https://doi.org/10.1109/cipls.2013.6595193
 openalex_id: W2074633338
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Vehicle routing problem

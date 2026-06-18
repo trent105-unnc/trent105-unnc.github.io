@@ -22,8 +22,6 @@ year: 2019
 doi: https://doi.org/10.1007/s00500-019-04517-y
 openalex_id: W2989646934
 venue: Soft Computing
-pdf_url: https://nottingham-repository.worktribe.com/output/3440503
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

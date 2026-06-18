@@ -15,8 +15,6 @@ year: 2018
 doi: https://doi.org/10.1109/tse.2018.2876433
 openalex_id: W2896505116
 venue: IEEE Transactions on Software Engineering
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

@@ -13,8 +13,6 @@ year: 2021
 doi: https://doi.org/10.1109/access.2021.3092000
 openalex_id: W3175762042
 venue: IEEE Access
-pdf_url: https://ieeexplore.ieee.org/ielx7/6287639/9312710/09464347.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Artificial intelligence

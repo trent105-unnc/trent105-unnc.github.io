@@ -18,8 +18,6 @@ year: 2024
 doi: https://doi.org/10.21203/rs.3.rs-4449177/v1
 openalex_id: W4399246934
 venue: Research Square
-pdf_url: https://www.researchsquare.com/article/rs-4449177/latest.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Vehicle routing problem

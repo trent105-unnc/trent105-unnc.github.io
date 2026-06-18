@@ -18,8 +18,6 @@ year: 2022
 doi: https://doi.org/10.1016/j.infsof.2022.107104
 openalex_id: W4309344467
 venue: Information and Software Technology
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Advanced driver assistance systems

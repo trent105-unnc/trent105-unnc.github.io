@@ -13,8 +13,6 @@ year: 2019
 doi: https://doi.org/10.1108/imds-08-2019-0431
 openalex_id: W2973674769
 venue: Industrial Management & Data Systems
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Variety (cybernetics)

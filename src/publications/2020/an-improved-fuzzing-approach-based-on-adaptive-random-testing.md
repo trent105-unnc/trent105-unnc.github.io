@@ -15,8 +15,6 @@ year: 2020
 doi: https://doi.org/10.1109/issrew51248.2020.00045
 openalex_id: W3119380829
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Fuzz testing

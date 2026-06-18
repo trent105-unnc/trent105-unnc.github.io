@@ -16,8 +16,6 @@ year: 2021
 doi: https://doi.org/10.1109/met52542.2021.00013
 openalex_id: W3185534614
 venue: 
-pdf_url: https://figshare.com/articles/journal_contribution/Enhancing_Euro_NCAP_Standards_with_Metamorphic_Testing_for_Verification_of_Advanced_Driver-Assistance_Systems/27813723
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - MATLAB

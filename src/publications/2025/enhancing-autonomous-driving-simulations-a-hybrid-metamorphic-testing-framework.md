@@ -20,8 +20,6 @@ year: 2025
 doi: https://doi.org/10.1016/j.infsof.2025.107828
 openalex_id: W4412430569
 venue: Information and Software Technology
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Metamorphic rock

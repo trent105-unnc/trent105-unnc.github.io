@@ -14,8 +14,6 @@ year: 2023
 doi: https://doi.org/10.1007/978-3-031-32811-4_9
 openalex_id: W4385323717
 venue: Multilingual education yearbook
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Agile software development

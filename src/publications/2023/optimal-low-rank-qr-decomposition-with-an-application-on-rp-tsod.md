@@ -15,8 +15,6 @@ year: 2023
 doi: https://doi.org/10.1007/978-981-99-8181-6_35
 openalex_id: W4389010735
 venue: Communications in computer and information science
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - QR decomposition

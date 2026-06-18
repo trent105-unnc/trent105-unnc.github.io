@@ -15,8 +15,6 @@ year: 2022
 doi: https://doi.org/10.3390/ijerph19137865
 openalex_id: W4283662769
 venue: International Journal of Environmental Research and Public Health
-pdf_url: https://www.mdpi.com/1660-4601/19/13/7865/pdf?version=1656339726
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Route planning

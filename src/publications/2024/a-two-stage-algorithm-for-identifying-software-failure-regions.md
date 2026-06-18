@@ -19,8 +19,6 @@ year: 2024
 doi: https://doi.org/10.1109/tr.2024.3441319
 openalex_id: W4401879356
 venue: IEEE Transactions on Reliability
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

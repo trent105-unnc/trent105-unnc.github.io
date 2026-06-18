@@ -19,8 +19,6 @@ year: 2020
 doi: https://doi.org/10.1109/tale48869.2020.9368322
 openalex_id: W3134417241
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Coronavirus disease 2019 (COVID-19)

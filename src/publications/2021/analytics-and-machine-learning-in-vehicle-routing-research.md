@@ -39,8 +39,6 @@ year: 2021
 doi: https://doi.org/10.1080/00207543.2021.2013566
 openalex_id: W3129625903
 venue: International Journal of Production Research
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Vehicle routing problem

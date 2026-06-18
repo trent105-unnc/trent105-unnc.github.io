@@ -15,8 +15,6 @@ year: 2022
 doi: https://doi.org/10.1109/compsac54236.2022.00008
 openalex_id: W4298848849
 venue: 2022 IEEE 46th Annual Computers, Software, and Applications Conference (COMPSAC)
-pdf_url: https://ieeexplore.ieee.org/ielx7/9842455/9842394/09842621.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Event (particle physics)

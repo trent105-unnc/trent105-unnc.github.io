@@ -14,8 +14,6 @@ year: 2023
 doi: https://doi.org/10.1016/j.pacfin.2023.102039
 openalex_id: W4366814704
 venue: Pacific-Basin Finance Journal
-pdf_url: https://doi.org/10.1016/j.pacfin.2023.102039
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Organizational culture

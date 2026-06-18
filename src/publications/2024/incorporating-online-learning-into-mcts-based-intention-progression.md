@@ -13,8 +13,6 @@ year: 2024
 doi: https://doi.org/10.1109/access.2024.3390796
 openalex_id: W4394938979
 venue: IEEE Access
-pdf_url: https://ieeexplore.ieee.org/ielx7/6287639/6514899/10504897.pdf
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Computer science

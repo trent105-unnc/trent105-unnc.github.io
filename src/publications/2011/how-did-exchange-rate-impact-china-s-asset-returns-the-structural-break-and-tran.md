@@ -14,8 +14,6 @@ year: 2011
 doi: https://doi.org/10.2139/ssrn.1912939
 openalex_id: W4254074826
 venue: SSRN Electronic Journal
-pdf_url: https://doi.org/10.2139/ssrn.1912939
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Structural break

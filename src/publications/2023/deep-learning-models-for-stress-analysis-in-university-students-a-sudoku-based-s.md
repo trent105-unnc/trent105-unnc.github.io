@@ -12,8 +12,6 @@ year: 2023
 doi: https://doi.org/10.3390/s23136099
 openalex_id: W4382982456
 venue: Sensors
-pdf_url: https://www.mdpi.com/1424-8220/23/13/6099/pdf?version=1688361934
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Stress (linguistics)

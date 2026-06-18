@@ -19,8 +19,6 @@ year: 2016
 doi: https://doi.org/10.1109/compsac.2016.167
 openalex_id: W2516462976
 venue: 
-pdf_url: 
-abstract_page: 
 abstract_screenshot: 
 keywords:
   - Prioritization
