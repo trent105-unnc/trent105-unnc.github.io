@@ -8,6 +8,7 @@ image: assets/38.png
 category: staff
 interests:
   - 计算机科学与运筹学 (Computer Science and Operations Research)
+orcid: 0000-0003-1722-568X
 order: 1
 ---
 
