@@ -1,44 +1,27 @@
 ---
-title: 成果概览：专利、软著与奖项
 date: 2025-03-01
-tags: [成果, 专利, 奖项]
-description: 实验室获取了多项专利与软件著作权，并在多项竞赛中获得奖项。
 image: /images/uon-logo.png
+title: "Achievements: Patents, Copyrights and Awards"
+tags: [achievements, patents, awards]
+description: The lab holds multiple patents and software copyrights, and has won awards in several international competitions.
 ---
 
-## 专利 Patents
+## Patents
 
-实验室已获取多项发明专利授权，涵盖港口调度优化、并行化算法等核心技术领域。
+## Software Copyrights
 
-## 软件著作权 Software Copyrights
+## Awards
 
-实验室拥有多项软件著作权，包括港口调度系统、仿真数字大屏、无人机控制系统等。
+### Huawei Spark Award
 
-## 奖项 Awards
+Professor Ruibin Bai won the Huawei Spark Award for solving the Huawei Corps Challenge Phase II problem.
 
-### 华为火花奖 Huawei Spark Award
+### MICCAI Brain Tumour Segmentation / Image Inpainting Global Champion
 
-作为华为顾问的实验室主任白瑞斌教授，解决华为军团挑战第二期难题"集装箱码头泊位和岸桥分配优化"，获得华为火花奖。
+A team of PhD students led by Ying Weng defended their global title in the Brain Tumour Segmentation Challenge at the 27th MICCAI.
 
-> Professor Ruibin Bai won the Huawei Spark Award for solving the Huawei Corps Challenge Phase II problem.
+### IEEE ISBI 2026 Ultrasound Image Analysis Challenge Champion
 
-### 中国工业互联网大赛最佳技术创新奖
+Prof. He Xiangjian led his team to claim the title in the Ultrasound Image Analysis Foundation Model Challenge at ISBI 2026.
 
-- 实验室研发的 **Simplex AI 调度优化系统**在第四届中国工业互联网大赛总决赛中获得**最佳技术创新奖**。
-- 实验室研发的 **EPortSim-AI**（电气化港口物流-能源流一体化仿真 AI 智能体）在第三届全国人工智能应用场景创新挑战赛获得**总决赛一等奖**。
-
-### MICCAI 脑肿瘤分割 / 图像修复全球冠军
-
-计算机人工智能专业主任翁莹带领的博士生团队，在第 27 届国际医学图像计算与计算机辅助干预会议（MICCAI）的脑肿瘤分割挑战赛、国际脑肿瘤图像修复赛中卫冕全球冠军。
-
-> A team of PhD students led by Ying Weng defended their global title in the Brain Tumour Segmentation Challenge at the 27th MICCAI.
-
-### IEEE ISBI 2026 超声图像分析挑战赛冠军
-
-计算机系何祥健教授带领团队在 2026 年国际生物医学成像会议（ISBI）的超声影像基础模型挑战赛上获得冠军。
-
-> Prof. He Xiangjian led his team to claim the title in the Ultrasound Image Analysis Foundation Model Challenge at ISBI 2026.
-
-## 论文发表 Publications
-
-实验室在 CVPR、ECCV、ACMMM、AAAI 等多项国际顶级会议以及 Nature、Science 等顶级期刊中发表了大量成果，累计发表 **647+** 期刊或会议论文。
+## Publications
