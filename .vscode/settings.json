@@ -1,10 +1,13 @@
 {
     "cSpell.words": [
+        "Anylogic",
         "behavior",
+        "Belloti",
         "bmatrix",
         "boldsymbol",
         "centering",
         "checkmark",
+        "Chong",
         "Colors",
         "EJOR",
         "failsafe",
@@ -30,10 +33,12 @@
         "Ruibin",
         "scikit",
         "Shiki",
+        "SSCI",
         "testbed",
         "TEVC",
         "unmodeled",
-        "vars"
+        "vars",
+        "Voptimization"
     ],
     "markdownlint.config": {
         "no-inline-html": false

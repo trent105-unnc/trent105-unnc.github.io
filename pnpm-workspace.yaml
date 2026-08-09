@@ -2,6 +2,7 @@ allowBuilds:
   '@markuxt/markuxt': false
   '@parcel/watcher': false
   esbuild: false
+  sharp: true
   vue-demi: false
 ignoredBuiltDependencies:
   - '@markuxt/markuxt'
